@@ -102,7 +102,7 @@ At noon, Sarah took a work call upstairs. Brooke carried her laptop to the sofa.
 
 The highest-rated comment beneath *My sister got sick* called Claire's behavior a trauma response and told Brooke to be kind. Brooke wanted it to be right.
 
-Other comments argued about the red medicine. One person claimed it was an antiviral trial. Another said it was a vitamin compound used after severe dehydration. Three accounts posted the same paragraph about supporting recovered family members, including the same missing comma. Brooke clicked through to see whether they were bots. One belonged to a middle-aged man who posted fishing photographs. One belonged to a local church. The third had been created that morning.
+The comments argued more with each other than with her. Two threads had already turned into a fight over whether she was exploiting Claire. Below them, three accounts had posted the same paragraph about supporting recovered family members, including the same missing comma. Brooke clicked through to see whether they were bots. One belonged to a middle-aged man who posted fishing photographs. One belonged to a local church. The third had been created that morning.
 
 She saved screenshots, then felt ridiculous. Repeated language was not evidence of anything except copying, and copying was what the internet did best.
 

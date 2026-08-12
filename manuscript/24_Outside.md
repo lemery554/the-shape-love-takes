@@ -306,7 +306,7 @@ The answer gave Brooke permission to love Sarah and fear her at once. No adult h
 
 "You decide."
 
-Anna said it quietly, without satisfaction. She had learned the shape of the only answer Brooke could accept.
+Anna said it quietly, without satisfaction.
 
 "I don't know what to call you," Brooke said.
 
