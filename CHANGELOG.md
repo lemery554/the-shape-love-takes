@@ -2,6 +2,12 @@
 
 All notable project-development changes are recorded here.
 
+## 2026-08-12
+
+- Closed the superseded Batch 3 first-draft pull request (#64) as obsolete: its Chapters 10 through 13 had long since landed on `main` and been revised through continuity alignment, editor feedback, and Developmental Rewrite B, and the branch was in a conflicted state; merging it would have regressed the developmentally rewritten chapters.
+- Recorded the author decision to position the ending as sequel-capable (issue #65). The current ending already preserves this through Anna's continued study, the reader-only journal image, and Cooper's unresolved unease; the ending-restraint work under issue #76 will protect rather than foreclose a sequel.
+- Implemented the horror-audit false-recovery revision across Chapters 7 through 11 (issue #79). Assigned each chapter a distinct dominant source of dread so the false-recovery stretch escalates instead of repeating: Chapter 7 institutional and adult reassurance overriding the witness, Chapter 8 the animal's alarm around Cooper, Chapter 9 the pattern becoming publicly visible beyond the house, Chapter 10 retained memory used as leverage alongside the first physical escalation, and Chapter 11 the unprovable green-eye and audio evidence. Reduced repeated reliance on humming, doorway watching, and proximity: thinned Chapter 10's humming from four instances to two purposeful ones, replaced its restated doorway opening with a habituation-and-memory frame, ended it on its memory engine rather than the shared humming button, and varied Chapter 9's approach cue off humming. Preserved the ordinary Claire beats that keep her recognizable and the pattern deniable.
+
 ## 2026-07-16
 
 - Completed the full-manuscript horror, suspense, and dread audit. Ranked the strongest horror scenes, mapped the tension curve and chapter-level intensity, identified repetition shelves in Chapters 7 through 11 and Chapters 18 through 23, established restraint rules for Anna and the ending, and converted the findings into focused revision tasks.

@@ -206,7 +206,7 @@ She replaced it with:
 
 *Before, she sometimes wanted to be alone.*
 
-Across the hall, the humming stopped.
+Across the hall, a door opened, and bare feet crossed the landing without hurry.
 
 Claire appeared in the doorway. "What are you watching?"
 
