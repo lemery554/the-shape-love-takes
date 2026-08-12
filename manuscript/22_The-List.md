@@ -120,6 +120,30 @@ Farther down, a smaller article reported that police response times had increase
 
 Brooke saved both pages. The first told people how to feel. The second explained why help might not come.
 
+Downstairs, Sarah's phone rang, and Brooke heard her answer in the careful voice she used for people she did not know.
+
+Brooke came to the top of the stairs.
+
+"Yes, this is her mother." A pause. "They're both here. We've all been home." A longer pause, Sarah's tone staying pleasant, almost grateful. "Of course. I can confirm that."
+
+She confirmed the address. She confirmed that Claire had been discharged from Saint Vincent's and that she herself had recovered without complications. When the voice on the other end asked, she spelled Brooke's name, gave her date of birth, and said yes, seventeen, still at home, still enrolled. She wrote something on the pad by the toaster and read it back to make sure she had it right.
+
+"Who was that?" Brooke asked when she hung up.
+
+"Family Reunification. They're confirming everyone made it home after discharge." Sarah looked pleased to have an answer that was entirely true. "The hospital forwards the records. I filled in the parts they were missing."
+
+"They were missing my birthday."
+
+"They asked for it."
+
+"They didn't have it before. Now it's in a file with our address."
+
+Sarah glanced at the pad, where a case number sat in her neat handwriting, then moved her coffee cup over it without appearing to decide to. "It is a desk that helps families find each other. That is all it is."
+
+That was the part no one would hear from her. The desk was exactly what it claimed to be. It was staffed by someone polite, working from real discharge records, and it had just opened a file on a girl who had told the internet she wanted to leave a house she was afraid of. None of it had to be sinister to close around her. It only had to be efficient, and to treat a person trying to leave as a family it had not finished bringing home.
+
+Brooke went back upstairs with the case number memorized and nowhere to put it.
+
 Brooke searched *someone entered my house after recovery*.
 
 The first result was her own video.

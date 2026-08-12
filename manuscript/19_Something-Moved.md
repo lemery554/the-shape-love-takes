@@ -140,7 +140,9 @@ Sarah called immediately.
 
 The fear in Sarah's voice was real. It was also useful to whatever part of her wanted Brooke contained. Brooke hated that she could no longer separate those truths.
 
-The exterior doors near the gym were locked. A security officer asked where she was going.
+The exterior doors near the gym had been locked from a panel Brooke could not reach. She pushed the bar anyway, out of disbelief more than hope, and it gave the flat quarter inch of a door that was not going to open. A security officer stood a few feet back, polite and unbothered, a laminated card clipped to his jacket.
+
+"Where are you headed?"
 
 "Home."
 
@@ -150,7 +152,7 @@ The exterior doors near the gym were locked. A security officer asked where she 
 
 "That's not approval."
 
-Brooke showed him the counselor message and said she felt sick. The officer directed her to the nurse instead of opening the door.
+Brooke showed him the counselor message and said she felt sick. He nodded like a man who had been told this might happen and directed her to the nurse. He did not open the door. He was still standing beside it when she looked back from the end of the hall.
 
 At Student Services, the counselor spoke about harassment, family privacy, and how public attention could distort judgment. She recommended Brooke take a forty-eight-hour break from uploading and asked whether Sarah could pick her up.
 
