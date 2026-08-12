@@ -21,7 +21,7 @@ The first draft is structurally complete but compressed. The active goal is a de
 7. **#28:** Horror, suspense, and dread audit
 8. **#29:** Skeptical-reader and plot-breaker audit
 9. **#69:** Commercial-prose density and repetition pass
-10. **#65:** Decide standalone versus sequel-capable
+10. **#65:** Decide standalone versus sequel-capable — Decided (2026-08-12): sequel-capable. The ending keeps a standalone emotional resolution while preserving Anna's continued study, the reader-only journal image, and Cooper's unresolved unease as open threads. Issue #76 must protect this, not foreclose it.
 
 ## Deferred until the gate is complete
 
