@@ -134,6 +134,10 @@ She reopened the project instead and watched the cut as if someone else had made
 
 That choice bothered Brooke more than the comment.
 
+Before she closed the laptop she opened a different file, one she had not touched since the workshop email. Two minutes of a crossing guard in gray snow. She watched it with the sound off, the way she watched everything she was afraid of. Mr. Alvarez warmed the mitten. He checked the empty intersection twice. He waved at the bus driver who never waved back, and the film ended, and he was still dead.
+
+She could not have said it out loud, but she understood it while the last frame held. She filmed people because film was the only thing that had ever kept anyone. The hard drive that died when she was twelve had taken four months she never got back, and some wordless part of her had promised it would not happen again, and it kept happening anyway, to Mr. Alvarez, maybe to her father on the far end of a failing call. The camera did nothing to stop it. It only made the loss legible afterward. That was the part of the truth she had been hiding from herself while she pointed the lens at Claire and called it evidence. It was not only suspicion. She had her sister back, and she was going to keep every frame of her this time, because keeping might be the only kind of saving she was going to get.
+
 She carried the laptop to Claire and paused before the first hospital shot. "Watch this."
 
 Claire groaned. "Do I have to?"

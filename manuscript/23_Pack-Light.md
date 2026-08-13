@@ -22,6 +22,8 @@ Instead she disabled mobile data and practiced turning it back on from the lock 
 
 There was no invisible way out of a family that monitored her for love.
 
+She thought of the stool moved against the wall in chemistry, of the crossing guard whose whole remaining life now fit in two minutes at the bottom of a folder, of her father's voice breaking into squares and then into nothing. Leaving people was how you lost them. She knew that the way she knew her own footage, and she was packing the bag anyway, choosing to be the absence this time, because the alternative was a house where love had learned to lock the doors. She did not know how to dread losing the people she had and plan to leave them in the same hour. The backpack did not get lighter for the trying.
+
 Sarah had decided they were all staying home again.
 
 "The school can manage without you for one day," she had said.

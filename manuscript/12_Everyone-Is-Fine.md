@@ -6,6 +6,8 @@ Sarah drove her, pleased about it in a way she did not hide, as though Brooke re
 
 Ashcroft High was open and lit and full, and for the first ten minutes it was so ordinary that Brooke felt the accusation settle back over her. The buses idled. The disinfectant bottles still sat by two classroom doors. A banner for the winter fundraiser sagged over the main hall. People had come back. That was the story the building told, and it was a good story, and Brooke wanted to believe it more than she wanted to be right.
 
+It was not, when she looked, quite full. Three lockers down from hers, one had been cleared and its door taped shut. Dwayne Ortiz, who sat behind her in chemistry and had spent all of September narrating soccer scores she had not asked for, was not at his station, and his stool had been moved against the wall. He had gone into Saint Vincent's the same week as Claire. Claire had come home. The stool against the wall was the difference between them, and the building had decided not to look at it.
+
 Then she started to see it, and once she started she could not stop, because seeing was the only thing she was good at.
 
 It was in the way people sat. In the library, two girls she was fairly sure did not know each other, one a senior, one a freshman, sat pressed together at a four-person table with the whole rest of the table empty, shoulder to shoulder, hip to hip, sharing nothing, saying nothing, comfortable in a way that people who had just met were not comfortable. Neither of them looked at the other. They did not need to. They sat the way a family sits in a waiting room, close for the sake of closeness, and when the freshman got up for a book the senior turned to keep her in view the entire time she was gone.
@@ -45,6 +47,8 @@ She went to the counselor's office at lunch, not because she had decided to but 
 "Some kids seem different," Brooke said carefully. "Since they got better."
 
 "Of course they do." Ms. Ferro smiled. "They've been through something frightening. What they need most right now is reassurance. Closeness. To feel that their people are near." She said *their people are near* like a line she had been given, warm and smooth and slightly too finished, the way you can hear a phone menu underneath a real voice. "The worst thing we can do is make them feel separated after everything. We're all just so glad to have everyone back together."
+
+For a moment her eyes went to a small framed photograph that had not been on the desk in September, a math teacher Brooke half recognized. The smoothness left her voice. "Some families aren't getting their person back at all. When yours walks in the door, you hold on to them." The grief in it was real and unrehearsed, and it made the borrowed phrases around it more persuasive, not less.
 
 "Right," Brooke said.
 

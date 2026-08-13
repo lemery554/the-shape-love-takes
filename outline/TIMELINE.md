@@ -2,6 +2,21 @@
 
 **Status:** Authoritative living chronology. Locked events have fixed days. Bracketed issue references identify details that will be updated when their decision issues close.
 
+## Mortality and grief layer (issue #80)
+
+The acute illness kills a meaningful minority, established before the changed behavior is recognizable. Fixed placements:
+
+- **Day 1 (Wed):** Hector Alvarez, the Field Street crossing guard and subject of Brooke's application film, is taken to Saint Vincent's.
+- **Day 3 (Fri):** Empty desks and quietly skipped roll names at school. Brooke sees a neighborhood post asking prayers for Alvarez, "not yet home." Alvarez dies Friday night.
+- **Day 4 (Sat):** A tenant in Sarah's Merrow Street building is found dead; Sarah's protectiveness gains a grief root.
+- **Day 5 (Sat night, hospital):** Brooke learns Alvarez died. His death lands against Claire's survival and fuses her documentation compulsion to grief (the camera as the only thing that keeps people). Note: manuscript chapter numbering runs one ahead of this table's Day 5/6 hospital rows; the hospital sequence spans Chapters 5-6.
+- **Day 6-7:** Brooke rewatches the Alvarez footage; clinging to Claire's recovery as miraculous is now grief-driven.
+- **Day 11-12 (school):** An empty, taped-shut locker; Dwayne Ortiz, hospitalized the same week as Claire, did not come home. The counselor's reunion language is rooted in a lost colleague.
+- **Day 14-15 (online):** Bereavement posts blur into survivor-gratitude posts under Brooke's uploads; reunion/anti-isolation sentiment grows from collective grief.
+- **Day 23 (packing):** Grief raises the moral cost of Brooke separating from the family she has left.
+
+Guardrails: Mark's fate stays unknown (the only unresolved absence); no mechanism; no biological specialness; institutions stay functional with visible gaps.
+
 | Day | Brooke and family | Public progression | Videos, clues, and Anna |
 |---|---|---|---|
 | 1 | Mark is already away for work. Ordinary Bennett morning, sister friction, Claire in Brooke's clothes, Cooper at the stairs. | Phase 1 begins: first national clusters, normal police response, school open. | Brooke records ordinary footage. An older public family video already exposes the keypad code. |

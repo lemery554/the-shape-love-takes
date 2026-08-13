@@ -58,6 +58,12 @@ A father argued that his wife could not understand English well enough to go bac
 
 Brooke opened her camera but did not record faces. She filmed the television caption saying *MOST PATIENTS RECOVER* above a row of shoes stained red near the vending machines. Then she lowered the phone and wrote the time in her notes.
 
+She checked the neighborhood page once, the way she checked everything, and found the answer to the question she had not let herself ask. The post about Hector Alvarez had been updated. His family thanked everyone for their prayers. He had died Friday night, in this building, while Brooke was three miles away refreshing a page and counting the views on a video about her sister.
+
+The comments were already doing the work grief did now. He was at peace. He was with God. He had touched so many children. Nobody wrote that he had checked an empty intersection twice because a habit of care did not switch off just because the street was clear. Only Brooke had that, on a drive at the bottom of a folder, and for the first time the footage did not feel like evidence of anything. It felt like the last place a dead man was still bending to warm a child's hands.
+
+Down the hall, behind the doors, her sister was alive and full of saline and the red medicine everyone kept bringing back up. Claire was alive. Mr. Alvarez was not. The two facts sat in Brooke's chest without resolving into anything she could use, and she understood, in that plastic chair, that she would have traded every frame she had ever shot to keep one ordinary man from becoming a file.
+
 At 12:18 a.m., Sarah texted that Claire had an IV and bloodwork pending. At 12:41, she wrote that the fever was 103.1. At 1:06, a nurse brought Brooke through because Claire had become too agitated for Sarah to calm alone.
 
 The nurse made Brooke sanitize her hands, put on a yellow gown, and repeat that she would stay inside the marked treatment area. Brooke tied the gown badly. The nurse retied it without comment while walking.

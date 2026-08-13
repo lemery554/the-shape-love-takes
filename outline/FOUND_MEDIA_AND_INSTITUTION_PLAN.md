@@ -4,6 +4,10 @@
 
 Bring found media toward 10 to 15 percent of the revised manuscript while keeping normal commercial prose dominant. Every insert must be created, received, viewed, or reviewed by Brooke.
 
+## Grief root of the reunion messaging (issue #80)
+
+The institutional "don't isolate / stay close / families heal together" language must read as growing from real collective grief, not only as top-down capture. Ground it in mortality the reader has already seen through Brooke: empty desks and a non-recovered classmate (Dwayne Ortiz), a counselor whose reunion talk follows a lost colleague, bereavement posts blurring into survivor-gratitude posts under Brooke's uploads, and Mr. Alvarez's death. The horror is that captured messaging and genuine mourning use the same words, so the changed only have to set the language and the grieving public finds it reasonable.
+
 ## Current diagnosis
 
 Found media appears frequently but usually as a short message, headline, or comment. The distribution is healthy; the word share is likely below target. Expansion should deepen selected artifacts rather than placing a token insert in every chapter.
