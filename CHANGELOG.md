@@ -2,6 +2,10 @@
 
 All notable project-development changes are recorded here.
 
+## 2026-08-13
+
+- Completed the skeptical-reader and plot-breaker audit (issue #29) as an adversarial full-manuscript reread, recorded in `outline/SKEPTICAL_READER_AUDIT.md`. Found and repaired two fair-play defects in the journal-and-letter thread that survived the earlier audits. First, the original biological-mother letter had been stored inside the journal in Chapter 14, but the journal is stolen while the letter survives and Brooke keeps using it; Chapter 14 now keeps the original envelope with the adoption papers in the keepsake box and leaves only Brooke's childhood copy in the journal, matching Chapter 24. Second, Chapter 19 placed the journal both in the desk drawer and in the keepsake box in one scene; Chapter 19 now stages Brooke deliberately moving it from the drawer into the box while securing the room, which also sharpens Claire's exoneration since she only ever saw the drawer location. Clarified TWI-007 in the backlog to record the copy-versus-original distinction. Documented the remaining credibility risks (the 911 dispatcher's pointed language, Sarah's shotgun escalation, the relentless overnight pursuit, the timed curfew, and Brooke's slowness to flee) as consciously accepted, each with its rebuttal, and flagged a concrete de-risk option for the dispatcher line for the copyedit pass.
+
 ## 2026-08-12
 
 - Closed the superseded Batch 3 first-draft pull request (#64) as obsolete: its Chapters 10 through 13 had long since landed on `main` and been revised through continuity alignment, editor feedback, and Developmental Rewrite B, and the branch was in a conflicted state; merging it would have regressed the developmentally rewritten chapters.

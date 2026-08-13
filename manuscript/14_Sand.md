@@ -334,7 +334,7 @@ Her ten-year-old handwriting leaned hard to the right.
 
 Brooke read it twice. The memory in the journal was simpler than the video and simpler than what had happened in the library. Claire had wanted her to stay then too. That did not tell Brooke what the wanting meant now.
 
-Tucked into the back cover was an envelope Sarah had given her years ago and then regretted giving her. Brooke's original first name was written on the front in an unfamiliar hand. She did not open it. She knew the letter inside almost by memory, knew every vague apology and every sentence that could be read as love or abandonment depending on the day.
+Tucked into the back cover were the lines she had copied out as a child, her careful print imitating the unfamiliar hand from the letter itself. The letter she kept apart from the journal, in the keepsake box with the adoption papers, the envelope Sarah had given her years ago and then regretted giving her. Brooke's first name, the original one, was written on the front in that same unfamiliar hand. She did not need to open it. She knew it almost by memory, every vague apology and every sentence that could be read as love or abandonment depending on the day.
 
 The journal held things the camera did not. That was why Brooke rarely opened it now. A video showed what a person had done. Paper showed what Brooke had needed it to mean.
 

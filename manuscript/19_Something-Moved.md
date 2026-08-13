@@ -288,7 +288,7 @@ The answer was narrow enough to be truthful and broad enough to leave Brooke now
 
 Brooke closed the bedroom door and knelt at the foot of the bed. The keepsake box was pushed beneath the frame, where it always stayed. She drew it out.
 
-Inside were birthday cards, old film-festival programs, the adoption folder, and the blue journal. The slim paper container holding copies of her adoption documents was not fully closed. One corner of the lid rested above the clasp.
+Inside were birthday cards, old film-festival programs, and the adoption folder. The slim paper container holding copies of her adoption documents was not fully closed. One corner of the lid rested above the clasp.
 
 Brooke lifted it. The papers inside appeared untouched: amended birth certificate, agency summaries, copies Sarah had given her when she turned sixteen. Beneath them was the envelope containing the original letter from her biological mother.
 
@@ -302,7 +302,9 @@ There was no footage of the room. No timestamp. No way to prove whether anything
 
 Downstairs, Sarah called that dinner was ready.
 
-Brooke closed the adoption container carefully and pressed the clasp until it clicked. She took photographs of the box, the drawer, the dresser, and the bedroom door. Then she tore a sliver from the blank edge of a sticky note, laid it across the keepsake-box seam, and photographed that too. It would fall if someone lifted the lid.
+Brooke closed the adoption container carefully and pressed the clasp until it clicked. Then she crossed to the desk, drew the blue journal from beneath the notebooks in the bottom drawer, and set it inside the keepsake box beside the adoption folder. If someone had been standing in her room, the things she could not replace belonged together, in one place she could seal.
+
+She took photographs of the box, the drawer, the dresser, and the bedroom door. Then she tore a sliver from the blank edge of a sticky note, laid it across the keepsake-box seam, and photographed that too. It would fall if someone lifted the lid.
 
 She wedged an old phone behind the books on her desk with its camera facing the room. The battery would not last all day, but it could record while they were gone.
 
