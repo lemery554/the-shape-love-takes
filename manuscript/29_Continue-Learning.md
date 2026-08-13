@@ -66,6 +66,8 @@ Anna rested two fingers beneath the sentence about safety, following the handwri
 
 The fold was softened from being opened more than once.
 
+Below the sentence, in a rounder and much younger hand, the same fear had been set down plainly the year Brooke turned twelve and a drive had died and taken four months of her family with it. *If I film it I can't lose it.* Anna stayed on that line the longest. It was the closest thing in the book to an instruction.
+
 Cooper saw it. His nose moved toward the familiar paper, then toward Brooke asleep beyond the front seat. He gave another quiet whine.
 
 Anna waited again.

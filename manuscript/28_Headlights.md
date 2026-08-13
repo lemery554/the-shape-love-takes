@@ -60,6 +60,8 @@ Behind Sarah, Claire stood on the porch crying. The ruined bedroom door was some
 
 The open passenger door asked nothing.
 
+Everyone else that night had wanted something from her and called it her safety. The dispatcher had wanted her to stay put. The woman in the robe had wanted to hold her in a yard until an officer came. Sarah wanted her behind a chair and a chain, upstairs, near the window. Anna had opened a door, put her hands where Brooke could see them, and asked for nothing at all. Brooke understood that she was not getting in because she trusted the woman. She was choosing the only person in a night full of love who seemed willing to let her leave again.
+
 "Where are you going?" Brooke asked.
 
 "Somewhere quiet."
@@ -93,6 +95,8 @@ In the side mirror, Sarah ran toward the driveway. The garage light came on befo
 Brooke watched the Bennett house shrink in the side mirror.
 
 Claire remained on the porch. Sarah stood in the street. The shotgun was no longer visible. For one second they looked like a mother and daughter watching someone leave for an ordinary trip.
+
+Brooke had spent a week terrified of losing them, and now she was the one driving away. She made herself look until the last possible second, the way she would have filmed it if her hands had been free, because the month had taught her that the last image of a person was always the one you did not know was the last. Claire lifted a hand, or pushed the hair off her face. The distance made them the same gesture.
 
 Then the trees hid them.
 
@@ -270,7 +274,7 @@ No grip. No pull. Only enough pressure to answer.
 
 Brooke closed her eyes.
 
-She had not hugged anyone willingly since Claire got sick.
+She had not hugged anyone willingly since Claire got sick. Touch had become the thing that closed around her, the grip on the stairs, the arms in the bathroom, Claire's fingers finding the small bones of her wrist and not knowing when a wrist was done. She had started flinching from her own family the way a person flinches from a hot stove. Here, in a stranger's car with the heater running and a dog she loved bleeding quietly in the back seat, she had reached out first, and nothing had tightened. She waited for it to. It did not.
 
 Anna returned her hand to her lap before Brooke pulled away.
 

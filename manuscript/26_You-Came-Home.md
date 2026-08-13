@@ -6,6 +6,8 @@ The front walk was longer than Brooke remembered.
 
 Her legs shook beneath her. Cooper leaned into the leash instead of pulling, favoring one paw as they crossed the yard. The house remained dark except for the weak yellow light above the front door.
 
+She had been moving most of the night, and her body had stopped reporting things in order. Her feet were past cold. The torn place in her coat let the wind straight through. Somewhere in the last mile the fear of the house and the pull of it had stopped being separate feelings. This was where the soup was, and the charger, and the two people she had spent a week terrified of losing to the thing that had already taken Mr. Alvarez, and a boy's empty stool in chemistry, and maybe her father on the far end of a dead phone. Her mother was behind that door. That was the trap and the reason both, and she was too tired to hold them apart.
+
 Brooke stepped onto the porch and tried the handle.
 
 Locked.
@@ -124,6 +126,8 @@ Brooke looked over her shoulder. "Stop there."
 
 The woman did. "The officer who lost her near Weller asked us to keep her in sight if she came through here."
 
+Her voice was not unkind. That was the worst of it. She had the flat, patient warmth of someone who had been up all night before, for a different person, in a different yard, and had learned there that you did not let anyone wander off into the cold to prove a point. Under the officer's instruction she was repeating, Brooke could hear a grief that had nothing to do with her at all. The woman in the pale robe was not trying to catch her. She was trying, a few weeks too late for whoever the robe still smelled like, to bring somebody home.
+
 "Mom, please."
 
 "Why did you go?" Sarah asked again.
@@ -140,7 +144,11 @@ The words were true in the narrowest possible way. Brooke had been wrong that le
 
 Inside, Sarah heard the version she needed.
 
-The choice in front of her had nothing to do with Sarah being right. The woman was halfway across the yard, another car had stopped at the curb, and Cooper could barely stand on one paw. Brooke could choose the people closing around her or the locked house whose windows and exits she knew. She chose the house.
+The choice in front of her had nothing to do with Sarah being right. The woman was halfway across the yard, another car had stopped at the curb, and Cooper could barely stand on one paw. Brooke could choose the people closing around her or the locked house whose windows and exits she knew.
+
+Every direction available to her now was a person who would keep her out of love. The woman in the robe. The cars. The dispatcher who had known her name before she gave it. Even the woods behind her were full of porch lights that came on the moment she crossed a yard. The house at least had a window she had already loosened and a mother whose need to have her inside was the one lock Brooke knew how to open. If she was going to be held somewhere against her will, she would rather be held where she had a map.
+
+She chose the house.
 
 The second car stopped in front of the house.
 
@@ -204,7 +212,7 @@ The knocking stopped.
 
 Footsteps withdrew across the porch. A car door closed, but the engine remained running at the curb.
 
-Brooke stood in the foyer with Claire's arms around her and Cooper pressed between their legs. For several seconds relief was stronger than fear. The house smelled like coffee, laundry detergent, and the soup Sarah had made two days earlier. The stairs rose toward Brooke's room. Her charger was upstairs. The window was upstairs.
+Brooke stood in the foyer with Claire's arms around her and Cooper pressed between their legs. For several seconds relief was stronger than fear. She had spent the night in a world that kept proving how fast a person could be gone, and here were two of hers, warm and alive and close enough to hold, and some part of her that did not care about evidence went slack with gratitude before the rest of her could stop it. The house smelled like coffee, laundry detergent, and the soup Sarah had made two days earlier. The stairs rose toward Brooke's room. Her charger was upstairs. The window was upstairs.
 
 Sarah touched Brooke's wet hair. "You're freezing."
 

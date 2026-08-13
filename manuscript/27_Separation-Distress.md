@@ -208,6 +208,8 @@ Brooke returned to the camera.
 
 The sentence sounded like an ending. She was not ready to give the day one.
 
+But she kept recording, because recording was the only thing she had ever been able to do against losing people. If she was about to become footage the way Mr. Alvarez had become footage, at the bottom of somebody's folder, she wanted the footage to be true. She wanted somebody, later, to be able to move backward through it and see exactly what had happened in this room.
+
 She started again.
 
 "The police know who I am. The dispatcher knew before I told her. They are not coming. If somebody in your house got sick and recovered, don't let the word recovered make the decision for you. Don't wait for them to look wrong."
