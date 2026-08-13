@@ -58,6 +58,8 @@ In the second, she wrote what she believed: Claire was watching. Claire wanted t
 
 The first column looked harmless. The second looked paranoid. Both described the same clip.
 
+That was the trap of it, and Brooke had built the trap herself, years ago, by believing a camera settled things. The camera recorded that Claire entered at 2:13 and stood for forty-seven seconds. It could not record why. It could not hold the difference between a frightened girl who wanted her sister and whatever now wore the same face and made the same request in the same voice. The footage was true and told her nothing, and the nothing was worse than an empty frame, because an empty frame did not sit in her chest looking like proof. She had spent her whole life trusting that if she kept the record clean enough, the record would eventually speak. It occurred to her, for the first time, that some things happened only in the space a camera could not reach, and that she had chosen a way of loving people that could not follow them there.
+
 Brooke spent the next hour testing the camera rather than Claire. She filmed herself in the hall at the same distance, with the same streetlight crossing the landing. Her eyes reflected gray. She moved the camera two inches and caught a weak green edge that vanished when she turned her head. She filmed Sarah carrying laundry. Brown eyes, then a white flash from the phone's automatic processing. Cooper's eyes returned a bright yellow-green in nearly every angle.
 
 The result should have closed the question. Cameras made eyes strange in darkness. Brooke knew that. She had corrected red-eye in family photographs since she was twelve.
@@ -127,6 +129,8 @@ Claire stood. For a moment Brooke expected her to refuse the apology or demand t
 Brooke deleted the clip in front of her. Claire watched the screen until it disappeared, then left the room without asking Brooke to come.
 
 The failed experiment should have made Brooke feel better. It did not. She had used Claire's need for her as bait and learned nothing except that Claire still understood a promise Brooke had broken.
+
+Mr. Vale had said it that morning, that a filmmaker could preserve a truth while violating the person whose truth it was. Brooke had written it down like a lesson and then gone home and done the thing anyway, set a lens against her own sister's need and waited for the need to walk into it. If the green frame ever became proof, this was what the proof would cost: the last part of Claire that still trusted her would have been the tool that caught the rest. She did not know how to want the evidence and not want that, and she was starting to suspect that the wanting of both was the whole reason she could not put the camera down.
 
 Claire avoided her for almost an hour afterward. She sat with Sarah in the living room and answered Brooke's questions with one word. The distance was what Brooke had wanted all week. Once she had it, guilt made the whole downstairs feel airless.
 

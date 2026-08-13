@@ -96,6 +96,8 @@ The difference was not any single act. It was how often Brooke saw it once she b
 
 At lunch, the televisions displayed an interview with a hospital administrator. The captions read *RECOVERY RATES CONTINUE TO IMPROVE*. The administrator thanked families for supporting patients through a frightening but brief illness.
 
+Brief was the word doing the most work. Nobody on the screen said what the illness had been brief about, or for whom. Two tables over, a girl Brooke half knew was eating by herself with a black band knotted around the strap of her backpack, and no one had told her to move to a fuller table, which was its own kind of announcement. The building was learning to hold two facts at once and show only one of them at lunch. People were coming home. People were also not, and their empty places had a way of standing very close to the ones who had.
+
 At the next table, Mason peeled the mushrooms from a cafeteria pizza and ate them one by one. Brooke had watched him pick them off every Friday since freshman year, sometimes with a plastic fork so the cheese would not touch his fingers.
 
 "Did Mason always eat mushrooms?" she asked.

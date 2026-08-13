@@ -102,6 +102,8 @@ At noon, Sarah took a work call upstairs. Brooke carried her laptop to the sofa.
 
 The highest-rated comment beneath *My sister got sick* called Claire's behavior a trauma response and told Brooke to be kind. Brooke wanted it to be right.
 
+She wanted it the way she wanted most comforting things that week, because comfort had gone scarce. Everyone she might have asked was already using the word. The nurse on the phone had used it. Sarah used it. The internet used it. Trauma was a good word. It explained the following and the touching and the way Claire watched her sleep, and it asked nothing of anyone except patience, and it let a family that had spent a night on an emergency-room floor believe the worst was behind them. Brooke understood the pull of it. A house that had almost lost a daughter did not go looking for a second way to lose her. It held the one it had gotten back, tighter, and called the holding love. She was the only one in the house still looking for the difference between those two things, and she was beginning to see why nobody wanted to stand where she was standing.
+
 The comments argued more with each other than with her. Two threads had already turned into a fight over whether she was exploiting Claire. Below them, three accounts had posted the same paragraph about supporting recovered family members, including the same missing comma. Brooke clicked through to see whether they were bots. One belonged to a middle-aged man who posted fishing photographs. One belonged to a local church. The third had been created that morning.
 
 She saved screenshots, then felt ridiculous. Repeated language was not evidence of anything except copying, and copying was what the internet did best.
