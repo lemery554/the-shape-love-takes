@@ -148,7 +148,7 @@ Brooke looked from the key to her mother. "Why are you giving it back?"
 
 "It is the answer."
 
-Sarah remained by the doorway, not entering farther. Her apology looked sincere. It was also useful. Both things could be true.
+Sarah remained by the doorway, not entering farther. Her apology looked sincere. It was also useful, and Brooke had stopped believing the two canceled each other out.
 
 "The keypad company is sending someone Monday morning," Sarah said.
 

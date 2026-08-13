@@ -72,9 +72,7 @@ Anna did not reach for his leash.
 
 Sarah came closer. "It isn't safe out here."
 
-That was true.
-
-Brooke climbed into the car.
+It was true. Brooke climbed into the car anyway.
 
 She pulled the seat forward and Cooper climbed into the back, dragging the sore paw. He turned twice without lying down.
 
@@ -160,7 +158,7 @@ For the first time, Anna sounded frustrated. The single word came too quickly, a
 
 Anna's jaw tightened. "You are hurt and exhausted."
 
-"That's true and not an answer."
+"That's true. You're avoiding it."
 
 "Yes."
 
