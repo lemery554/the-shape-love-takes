@@ -120,6 +120,8 @@ Farther down, a smaller article reported that police response times had increase
 
 Brooke saved both pages. The first told people how to feel. The second explained why help might not come.
 
+The two fit together the way everything fit together now, without anyone having to arrange it. Half the force was out sick or burying someone. What remained had learned to sort calls by whether a body was in immediate danger, and a girl who did not want to go home did not clear that bar. So the calls that once went to police went to the desk instead, and the desk was in the business of reunion, and reunion ran in only one direction. There was no longer a number Brooke could dial that would send someone to take her side of an argument with her own mother. Every channel had been quietly repurposed, by grief and by staffing and by the plain arithmetic of who was left, into a machine for putting families back together whether or not the family was safe.
+
 Downstairs, Sarah's phone rang, and Brooke heard her answer in the careful voice she used for people she did not know.
 
 Brooke came to the top of the stairs.

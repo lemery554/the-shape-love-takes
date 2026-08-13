@@ -262,6 +262,8 @@ During second period, the intercom asked teachers to avoid sending recovered stu
 
 In the cafeteria, tables had been pushed closer together. A sign near the doors read *NO ONE EATS ALONE*. It had been borrowed from an old anti-bullying campaign and therefore looked wholesome. Staff redirected students carrying lunches toward occupied tables.
 
+The sign had meant something smaller a year ago, when the worst thing that could happen to a kid eating alone was that a kid ate alone. Now it hung over a cafeteria with gaps in it, and the gaps gave it teeth. No one could argue with *no one eats alone* in a building that had started taping lockers shut. That was how the words worked now. They arrived wearing the face of the thing everyone was afraid of, and to refuse them, to want a table to yourself, to want a closed door, was to stand on the side of the empty chairs. Brooke sat where the staff pointed her and understood that the school did not need to force anything. Grief did the forcing. The school only had to print the sign.
+
 Brooke chose a chair at the end of a crowded row. Claire appeared five minutes later with permission from her teacher, carrying a tray with spinach, olives, and plain rice.
 
 "You don't have this lunch period," Brooke said.

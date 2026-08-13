@@ -178,6 +178,8 @@ Brooke took a screenshot. The page offered no instructions for the person who di
 
 The segment showed a woman embracing an adult son outside Saint Vincent's. Neither released the other before the clip ended.
 
+The anchor's voice went soft over the embrace, the way every voice went soft now around a reunion, because everyone watching had a version of it they had not gotten. That was the engine under all of it. The desk was not sinister. It had been built by people who had spent a month watching families pulled apart at a wall of hospital doors, and it did exactly what those people wished someone had done for them. It found the missing. It brought them back. It did not take no for an answer, because in the world that had built it, no had usually meant a body nobody reached in time. A service assembled entirely out of other people's grief had no reason to imagine a girl whose whole need was not to be found.
+
 Sarah watched from the kitchen doorway.
 
 "That's good," she said.
