@@ -75,6 +75,6 @@ Chapters 1, 2, 5, 8, 9, 11, 18, 19, 21, 26, and 29. The complete reads found no 
 - [x] No em dash introduced in manuscript prose
 - [x] `git diff --check` passes
 - [x] Exact word counts recorded
-- [ ] Author accepts the applied line edits
+- [x] Author accepted manuscript commit `c622787` as the completed line-edit pass on 2026-08-14
 
 Copyediting and the final style sheet remain a separate second pass under #30. Do not designate a `PRODUCTION MANUSCRIPT` until both passes are complete and author-approved.

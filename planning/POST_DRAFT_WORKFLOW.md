@@ -1,6 +1,6 @@
 # Post-Draft Workflow
 
-The first draft, major developmental rewrite, and Phase 6 structural revision are complete. The Phase 5 AI-agent simulated evaluation did not constitute human beta-reader validation. The author approved manuscript commit `182f96e` as the `LINE-EDIT CANDIDATE` on 2026-08-14. The explicitly AI-assisted Phase 7 line edit under #30 is implemented and awaiting author review; copyediting has not begun.
+The first draft, major developmental rewrite, and Phase 6 structural revision are complete. The Phase 5 AI-agent simulated evaluation did not constitute human beta-reader validation. The author approved manuscript commit `182f96e` as the `LINE-EDIT CANDIDATE` on 2026-08-14 and accepted the explicitly AI-assisted line-edit manuscript at `c622787`. Copyediting and the final style sheet remain the next pass under #30.
 
 ## Completed foundation
 
