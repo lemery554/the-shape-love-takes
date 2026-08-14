@@ -351,3 +351,5 @@ Someone had taken it after she placed the seal.
 Brooke zoomed in on the bedroom doorway reflected in the beach photograph's glass. The reflection showed only the empty hall and the raised phone in her own hand.
 
 Proof that the journal had existed yesterday did not identify who held it today.
+
+She sat with that for a while. Everything she had was like this now. A photograph that proved a thing had been there and not who took it. A frame of green that proved a camera had been in the dark and not what it caught. A list that proved she had been watching and not that she was right. She had built her whole life on the belief that if she kept a careful enough record, the record would eventually take her side. It never once had. It only sat there, true and useless, while the people who loved her quietly rearranged what it meant, and she understood that she was more alone inside a full house than she had ever been anywhere in her life.

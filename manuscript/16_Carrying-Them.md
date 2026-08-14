@@ -249,6 +249,8 @@ Brooke changed the sweat-soaked sheets while Claire remained in the bathroom. By
 
 She had been awake for more than twenty-seven hours.
 
+And under the relief, in the same breath, was the thing she could not say to anyone, because there was no one left to say it to. She had spent a night begging her mother's body to hold on, and now it was holding on, and she had already watched what holding on had done to Claire. She did not know how to want Sarah to live and dread her living at the same moment. So she did the only thing she knew how to do with a feeling that had no shape. She reached for her phone and wrote down the time the fever broke, because if her mother came back the way Claire had come back, Brooke wanted to know the exact minute she had started losing her.
+
 "Sleep," Claire said.
 
 "I need to check her again at one."

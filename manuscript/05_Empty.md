@@ -252,6 +252,8 @@ They passed the high school at ten-oh-seven. The parking lot lights were on thou
 
 At the next intersection, a pharmacy drive-through line wrapped around the building. People waited beneath umbrellas at the walk-up window. Sarah slowed, considered the turn, and continued toward the hospital.
 
+The line was longer than Brooke had ever seen at that pharmacy, longer than flu season, longer than the week before a holiday when everyone remembered their prescriptions at once. Nobody in it was talking. They stood in the rain with the particular patience of people waiting for something they already suspected would not help, holding the umbrella over the next person as much as over themselves. Every car Brooke could see was a version of theirs, a back seat with someone folded over a basin, a driver deciding whether tonight was the night you gave up and drove to the hospital that had asked you not to come. The town had not panicked. It had done something quieter and worse. It had started lining up.
+
 "We could get nausea medicine," Brooke said.
 
 "Not without knowing what she can take."

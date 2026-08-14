@@ -136,6 +136,8 @@ Brooke went. She kept her hand in Cooper's collar and drew the dog with her out 
 
 She had no footage. Sarah had already called the lock old, and Brooke could feel the scene becoming arguable.
 
+It would keep happening like this, she saw. Not the violence. Everyone was braced for violence, and violence would have proved her right. It would be the other thing, the thing that had no name in any warning her mother would accept: a girl breaking a door with her bare hands to reach a hug, feeling nothing when the metal split her knuckles, and smiling. There was no word for a person who loved you too much to notice she was hurting you. Trauma had a word. Grief had a word. This wore their faces and answered to their names and was neither, and every time it happened it would look, to anyone who had not been standing in the room, exactly like a family that had almost lost each other and could not bear to let go.
+
 She wrote it down while it was sharp: the turning handle, the blood on the lever, *There you are*, Cooper forcing an inch of space. A written account was not proof, but it was what she had.
 
 Then she made herself add the parts that complicated it. Claire had stopped when Cooper intervened. Claire had not pushed him. Claire had looked confused. The hug had begun gently.

@@ -292,6 +292,8 @@ No demand. No reaching hand. No reminder about the key in her pocket.
 
 Brooke understood only that the method had changed. Sarah had raised her for seventeen years. She did not need whispers or secret instructions to know that direct pressure made Brooke pull away.
 
+That was the part Brooke could not make anyone else feel. It would have been easier if Sarah had gotten worse, if the change had been ugly and obvious, a mother turned stranger overnight. Instead she had gotten better at it. Every day, whatever was wearing her mother now grew a little more fluent in her, learned another of her gestures, retired a tactic that had not worked and kept the ones that had. It studied Brooke with Sarah's own memory of her, seventeen years of a daughter handed over like a manual, and it was a patient student. The whispers Brooke had strained to hear at the beginning had stopped mattering. The changed did not need to be told what to do. They only needed time, and they had all decided, without ever saying it, that they had plenty.
+
 That afternoon Sarah returned the key without being asked.
 
 She set it beside Brooke's laptop and said, "I don't want you to feel trapped."

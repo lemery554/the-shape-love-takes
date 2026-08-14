@@ -176,6 +176,8 @@ Brooke felt the words enter the empty place her biological mother had occupied f
 
 There were other meanings. Brooke could still see them if she tried.
 
+She was aware, even then, of how badly she needed it to be true, and how dangerous that made her. A month ago she would have taken this woman apart, cross-checked every claim, treated the wanting itself as the first reason for suspicion. But a month ago she had not yet learned how fast the people you counted on could turn into strangers wearing familiar faces, or become files at the bottom of a folder, or simply stop answering the phone. She was so tired of being the only one watching. Here was someone who had watched back, who had seen her clearly and come looking, and the part of Brooke that had spent seventeen years wondering whether anyone would ever come looking did not care in the slightest what the footage said. It only wanted to sit for a minute in the warmth of having been found.
+
 "You should not trust me because you want this to be true," Anna said.
 
 It was exactly what a safe person would say.
