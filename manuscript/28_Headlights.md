@@ -1,6 +1,4 @@
-# Chapter 28
-
-## Headlights
+# Chapter 28: Headlights
 
 The car waited at the curb with the engine running.
 
@@ -268,7 +266,7 @@ Anna returned her hand to her lap before Brooke pulled away.
 
 Brooke remained close for one breath after the pressure disappeared. She had not hugged anyone willingly since Claire got sick.
 
-"Try to sleep," she said.
+"Try to sleep," Anna said.
 
 "Where are we going?"
 

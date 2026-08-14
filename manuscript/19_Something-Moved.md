@@ -1,6 +1,4 @@
-# Chapter 19
-
-## Something Moved
+# Chapter 19: Something Moved
 
 Cooper planted himself against Brooke's knees when she came downstairs and refused to move.
 
@@ -16,7 +14,7 @@ Sarah insisted Brooke go to school anyway.
 
 Sarah stood at the front door with Brooke's lunch in one hand and Cooper's collar in the other. The dog had tried to follow Brooke outside. He kept his body angled away from Sarah while she held him.
 
-Sarah's work bag and office badge waited beside the door. After dropping the girls off, she was driving to her first onsite check-in since the fever.
+Sarah's work bag and office badge waited beside the door. After dropping the girls off, she was driving to her first on-site check-in since the fever.
 
 "Let him go," Brooke said.
 

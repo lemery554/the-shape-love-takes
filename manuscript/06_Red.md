@@ -92,7 +92,7 @@ A cart stood beside the medication station, loaded with sealed white cups. Throu
 
 Sarah shook her head. "Something they're using for vomiting."
 
-The doctor arrived before Brooke could ask more. Dr. Shah looked younger than Sarah and more tired than anyone Brooke had ever seen standing upright. He said Claire's labs showed significant dehydration and electrolyte imbalance. They were admitting her to pediatric observation for IV fluids, neurological checks, and the oral treatment being used under emergency guidance.
+The doctor arrived before Brooke could ask more. Dr. Shah looked younger than Sarah and more tired than anyone Brooke had ever seen standing upright. He said Claire's labs showed significant dehydration and electrolyte imbalance. They were moving her to pediatric observation for IV fluids, neurological checks, and the oral treatment being used under emergency guidance.
 
 He washed his hands while speaking, twenty seconds by the wall clock, then repeated the neurological questions the nurse had asked. Claire knew her name and the hospital but called Saturday Friday. Dr. Shah did not correct her immediately. He asked whether school had been open that day, whether anyone else at home was ill, whether Claire had eaten anything unusual, traveled, taken antibiotics, or been near untreated water.
 
@@ -104,7 +104,7 @@ It was a useful answer that explained nothing Brooke wanted explained.
 
 "What is it called?" Brooke asked.
 
-Dr. Shah pointed to the emergency-formulation code printed on the instruction sheet. It looked more like inventory than a name. "We don't have evidence that it treats the cause. The goal is to help patients tolerate fluids."
+Dr. Shah pointed to the emergency-formulary code printed on the instruction sheet. It looked more like inventory than a name. "We don't have evidence that it treats the cause. The goal is to help patients tolerate fluids."
 
 "Is it working?"
 
@@ -192,7 +192,7 @@ Brooke wrote *fear of separation after recovery?* in her notes, then added a que
 
 At four-ten, Claire kept down an ounce of water. Sarah cried quietly and laughed at herself for crying. Brooke filmed only the measurement marks on the cup and Sarah's hand holding it. Claire's face remained outside the frame.
 
-Her fever fell to 101.7. She kept down two ice chips, then four. By four, she answered her name, the hospital, and the day correctly. Around them, other patients improved with the same improbable speed.
+Her fever fell to 101.7. She kept down two ice chips, then four. By then, she answered her name, the hospital, and the day correctly. Around them, other patients improved with the same improbable speed.
 
 A woman across the aisle sat upright after hours beneath a blanket. When an orderly arrived to take her for imaging, she hooked two fingers through her husband's sleeve. He kissed her knuckles and promised he would wait. She kept hold of the fabric until the orderly gently separated them.
 

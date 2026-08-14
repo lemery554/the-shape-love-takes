@@ -1,6 +1,4 @@
-# Chapter 26
-
-## You Came Home
+# Chapter 26: You Came Home
 
 The front walk was longer than Brooke remembered.
 

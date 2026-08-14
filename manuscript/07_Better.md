@@ -48,7 +48,7 @@ Brooke lowered the camera. Before the hospital, Claire would have leaned across 
 
 Claire smiled. It was quick, crooked, and familiar enough that Brooke felt foolish for every second she had spent watching Cooper.
 
-Brooke sat at the kitchen table reviewing the hospital clips with the sound off. The red treatment cart. The cups. Claire's stained mouth. The room contracting almost together. She cropped out the other patients and the staff name badges, then chose a close frame of the emergency-formulation code. She cut away before Claire vomited, restored the section, and hated herself a little for deciding that removing it changed what happened.
+Brooke sat at the kitchen table reviewing the hospital clips with the sound off. The red treatment cart. The cups. Claire's stained mouth. The room contracting almost together. She cropped out the other patients and the staff name badges, then chose a close frame of the emergency-formulary code. She cut away before Claire vomited, restored the section, and hated herself a little for deciding that removing it changed what happened.
 
 When Claire entered, Brooke minimized the window.
 
@@ -92,7 +92,7 @@ Sarah woke at their voices and came into the kitchen. When Brooke explained, she
 
 "Since yesterday?"
 
-Sarah's smile disappeared. "She almost had to be admitted. Can we let one thing be good?"
+Sarah's smile disappeared. "She spent the weekend in pediatric observation. Can we let one thing be good?"
 
 Claire stood between them chewing a second slice.
 
@@ -166,7 +166,7 @@ Brooke looked down at her. "What else would happen?"
 
 Claire's eyes stayed on the frozen hospital frame. "Nothing."
 
-The pediatrician called before dinner. Sarah put the phone on speaker and carried it through the kitchen while checking Claire's temperature for the third time. Dr. Shah asked about fluids, urine, dizziness, abdominal pain, and whether Claire could keep down food. Claire answered each question with impatient precision.
+Saint Vincent's called before dinner. Sarah put the phone on speaker and carried it through the kitchen while checking Claire's temperature for the third time. Dr. Shah asked about fluids, urine, dizziness, abdominal pain, and whether Claire could keep down food. Claire answered each question with impatient precision.
 
 "Any confusion?" Dr. Shah asked.
 
@@ -200,11 +200,11 @@ The pause was brief but real. "Which medication?"
 
 "Then call the number on the packet tomorrow. My concern tonight is hydration and return of symptoms."
 
-Sarah thanked her before Brooke could ask again. When the call ended, she said, "You heard her. Quiet and predictable."
+Sarah thanked him before Brooke could ask again. When the call ended, she said, "You heard him. Quiet and predictable."
 
 "She also didn't answer."
 
-"She is Claire's pediatrician, not the hospital pharmacy."
+"He treated Claire, but he does not run the hospital pharmacy."
 
 Claire squeezed Brooke's hand. "I'm okay."
 

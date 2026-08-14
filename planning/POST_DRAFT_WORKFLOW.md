@@ -1,6 +1,6 @@
 # Post-Draft Workflow
 
-The first draft, major developmental rewrite, and Phase 6 structural revision are complete. The Phase 5 AI-agent simulated evaluation did not constitute human beta-reader validation. The author approved manuscript commit `182f96e` as the `LINE-EDIT CANDIDATE` on 2026-08-14 and accepted the explicitly AI-assisted line-edit manuscript at `c622787`. Copyediting and the final style sheet remain the next pass under #30.
+The first draft, major developmental rewrite, and Phase 6 structural revision are complete. The Phase 5 AI-agent simulated evaluation did not constitute human beta-reader validation. The author approved manuscript commit `182f96e` as the `LINE-EDIT CANDIDATE` on 2026-08-14 and accepted the explicitly AI-assisted line-edit manuscript at `c622787`. The author accepted the separate AI-assisted copyedit and final style sheet at manuscript commit `13a9783` on 2026-08-14. Neither pass is a professional human edit. PR #97 remains to be merged before production-manuscript designation.
 
 ## Completed foundation
 
@@ -34,5 +34,5 @@ The first draft, major developmental rewrite, and Phase 6 structural revision ar
 - **#93:** Shotgun climax causal bridge and physical credibility
 - **#94:** Book One positioning and current-volume closure
 
-The exact `LINE-EDIT CANDIDATE` is `182f96e`. Proceed to #30 for Phase 7 line editing and copyediting. Publishing-route, production, proof, distribution, launch, and post-launch work remain tracked in the publishing roadmap issues.
+The exact `LINE-EDIT CANDIDATE` is `182f96e`, the accepted line-edit manuscript is `c622787`, and the accepted copyedit manuscript is `13a9783`. Merge PR #97 next. Then record the merged manuscript as the `PRODUCTION MANUSCRIPT` and complete #30. Publishing-route, production, proof, distribution, launch, and post-launch work remain tracked in the publishing roadmap issues.
 

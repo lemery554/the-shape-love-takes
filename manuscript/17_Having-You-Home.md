@@ -1,6 +1,4 @@
-# Chapter 17
-
-## Having You Home
+# Chapter 17: Having You Home
 
 The next morning, Sarah made pancakes.
 

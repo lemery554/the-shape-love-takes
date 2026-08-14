@@ -68,7 +68,7 @@ She moved backward, then forward. The color appeared only once. It was not a glo
 
 Brooke spent the next hour testing the camera rather than Claire. Her own eyes reflected gray, then caught a weak green edge when she changed the angle. Sarah's flashed white under the phone's automatic processing. Cooper's returned yellow-green almost every time. Cameras made eyes strange in darkness. Claire's frame still looked different, the color sharp inside the pupil, but looking different was not proof.
 
-She copied the original file to the lockbox card and wrote one line beside the observation: *One frame reflected green. Could be the camera.*
+She copied the original file to the camera card and wrote one line beside the observation: *One frame reflected green. Could be the camera.*
 
 That evening she tried to reproduce it.
 

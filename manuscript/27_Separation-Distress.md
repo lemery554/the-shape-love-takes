@@ -1,6 +1,4 @@
-# Chapter 27
-
-## Separation Distress
+# Chapter 27: Separation Distress
 
 Brooke made it upstairs by pretending she was too tired to fight.
 
@@ -184,7 +182,7 @@ The dispatcher told her she could disconnect to preserve the phone battery. Broo
 
 Brooke stared at the screen. Two percent battery.
 
-The call log listed the address and duration. Brooke took a screenshot before the phone could die again. She held the screen toward the camera and repeated the dispatcher's phrases while they were fresh: separation distress, welfare return, secured weapon, unit pending. The words sounded less frightening without the dispatcher's calm voice. Brooke saved them anyway.
+The call log listed 911 and the duration. Brooke took a screenshot before the phone could die again. She held the screen toward the camera and repeated the dispatcher's phrases while they were fresh: separation distress, welfare return, secured weapon, unit pending. The words sounded less frightening without the dispatcher's calm voice. Brooke saved them anyway.
 
 Outside the door, Claire whispered, "They said to stay."
 

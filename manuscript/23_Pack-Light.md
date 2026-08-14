@@ -1,6 +1,4 @@
-# Chapter 23
-
-## Pack Light
+# Chapter 23: Pack Light
 
 Brooke learned how little of her life fit inside a backpack.
 
@@ -8,9 +6,9 @@ Two shirts. Underwear. Socks. Toothbrush. Charger. Camera batteries. The camera 
 
 She packed everything beneath a layer of schoolbooks and left the bag where it always sat beside the desk.
 
-The obvious things were too dangerous to take. The framed beach photograph would leave a clean rectangle in the dust. The keepsake box was locked and Sarah had the key. Brooke could not take every hard drive without Sarah noticing the empty shelf.
+The obvious things were too dangerous to take. The framed beach photograph would leave a clean rectangle in the dust. Brooke had the keepsake-box key, but taking the box would leave an obvious gap beneath the bed. Brooke could not take every hard drive without Sarah noticing the empty shelf.
 
-She copied the chemistry folder, observation list, hospital footage, and family recordings onto one external drive, then opened several files on the old laptop to verify the copy. Mark's final voicemail still contained the single word that might have meant home. She left the dated filenames unchanged and slipped a paper inventory beneath the camera-bag lining.
+She copied the chemistry folder, observation list, hospital footage, and family recordings onto one external drive, then opened several files on the old laptop to verify the copy. Mark's final voicemail still contained the single word that might have meant home. She left the dated filenames unchanged and slipped a paper inventory beneath the camera-bag lining. She recharged the old phone and left it powered on and connected at home.
 
 Her phone held the diner address, Anna's messages, and every current contact. Brooke turned off location sharing with Sarah, then discovered the family safety app would notify Sarah of the change. She left it on.
 
@@ -120,21 +118,9 @@ Cooper licked her chin and sneezed.
 
 She added a small towel, antiseptic wipes, and the roll of gauze Sarah kept in the upstairs bathroom. The items made the backpack heavier and the plan more real.
 
-At three, Sarah returned the tiny brass key.
+At three, Sarah stopped at Brooke's doorway, not entering farther.
 
-She placed it on Brooke's dresser. "I shouldn't have taken this."
-
-Brooke looked from the key to her mother. "Why are you giving it back?"
-
-"Because it belongs to you."
-
-"That's not an answer."
-
-"It is the answer."
-
-Sarah remained by the doorway, not entering farther. Her apology looked sincere. It was also useful, and Brooke had stopped believing the two canceled each other out.
-
-"The keypad company is sending someone Monday morning," Sarah said.
+"The keypad company is sending someone Monday morning," she said.
 
 It was Thursday.
 

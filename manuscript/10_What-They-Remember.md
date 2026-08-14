@@ -84,7 +84,7 @@ The rest of the afternoon went the way the days went now. Claire drifted in and 
 
 Claire had not moved it. She had let it stay there.
 
-"How long have you been in here," Brooke said.
+"How long have you been in here?" Brooke said.
 
 "A while. You were breathing loud."
 
@@ -166,7 +166,7 @@ Brooke heard them before she understood she was hearing them. Not the television
 
 A pause that was too long to be the delay. "Hotel's full," Mark said. "They put up families that couldn't get home. Everybody and their brother stuck here." His eyes moved off the camera, toward something to his left, and came back. "Listen, the building's a mess. They found more damage behind the panels than anybody wanted. I don't know when they're going to clear us to leave."
 
-"You said tomorrow night," Claire said. "Four days ago."
+"You said Saturday night," Claire said. "Four days ago."
 
 "I know, bug."
 

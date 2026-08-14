@@ -1,8 +1,6 @@
-# Chapter 16
+# Chapter 16: Carrying Them
 
-## Carrying Them
-
-Sarah's fever reached one hundred and three point four before midnight.
+Sarah's fever reached 103.4 before midnight.
 
 Brooke called the hospital twice. The first time she waited forty-three minutes and lost the connection. The second time a nurse asked whether Sarah could breathe, whether she had passed out, whether there was blood in the vomit, and whether another adult was present.
 
@@ -121,13 +119,13 @@ At four twelve, a voicemail appeared without a missed call.
 
 Mark's voice sounded distant and compressed.
 
-> "Brookie, I got your messages. Listen, keep your mom drinking. Tiny amounts, don't let her gulp it. If she passes out and you can't wake her, call an ambulance. The site manager says we may get the trucks out after daylight. I know I keep saying that. I'm sorry. Tell Sarah I'm trying. Tell Claire I love her. I love you. I'll call when I can."
+> Brookie, I got your messages. Listen, keep your mom drinking. Tiny amounts, don't let her gulp it. If she passes out and you can't wake her, call an ambulance. The site manager says we may get the trucks out after daylight. I know I keep saying that. I'm sorry. Tell Sarah I'm trying. Tell Claire I love her. I love you. I'll call when I can.
 
 Behind him, somebody said something too low to understand. Mark paused as if listening. Then the recording ended.
 
 Brooke played the voicemail for Sarah when she woke. Sarah smiled at *Brookie*. Claire asked to hear the part where he said he loved her again.
 
-Brooke replayed it twice. On the third time she listened only to the silence before the message ended.
+Brooke replayed it twice. The third time, she listened only to the silence before the message ended.
 
 She followed his instructions anyway. A bottle cap of electrolyte solution, then another after Sarah kept the first down. Mark's voice did not bring him home, but it gave Brooke the next thing to do.
 
@@ -209,7 +207,7 @@ Claire came forward reluctantly. She placed one hand beneath Sarah's elbow but k
 
 "You don't remember."
 
-"I was ten when Claire was born."
+"I was four when Claire was born."
 
 "Then maybe I remember wrong."
 

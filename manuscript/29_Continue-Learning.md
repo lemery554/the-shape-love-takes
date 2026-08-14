@@ -1,6 +1,4 @@
-# Chapter 29
-
-## Continue Learning
+# Chapter 29: Continue Learning
 
 Brooke slept against the passenger window.
 
@@ -12,7 +10,7 @@ He lay across the back seat with his sore paw extended, head raised whenever the
 
 Anna drove without the radio.
 
-The motel remained seventeen miles ahead according to the road sign. Anna passed one turnoff without slowing. The final-drive recording continued to collect tires, heater fan, Cooper's breathing, and the occasional click of a turn signal.
+The motel remained seventeen miles ahead according to the road sign. Anna passed one turnoff without slowing. The final-drive recording continued to collect tire noise, heater fan, Cooper's breathing, and the occasional click of a turn signal.
 
 At a long, empty stretch between intersections, she opened the center console.
 

@@ -1,8 +1,6 @@
-# Chapter 20
+# Chapter 20: Missing
 
-## Missing
-
-The next morning, Brooke checked the keepsake box before school.
+The next morning, Brooke checked the keepsake box before school. Before going downstairs, she started the old phone recording behind the books.
 
 The clasp was closed. The photograph matched the image on her phone. The beach frame remained where she had left it. The paper strip still bridged the keepsake-box seam.
 
@@ -150,7 +148,7 @@ Brooke stood. "Where is it?"
 
 "You showed me."
 
-At the beach video. Brooke remembered setting the journal back beneath the notebooks while Claire stood in the doorway.
+During the beach video, Brooke remembered setting the journal back beneath the notebooks while Claire stood in the doorway.
 
 "You watched me put it away."
 

@@ -1,6 +1,4 @@
-# Chapter 25
-
-## Contact
+# Chapter 25: Contact
 
 The girl followed Brooke for two blocks before calling her name.
 

@@ -1,6 +1,4 @@
-# Chapter 22
-
-## The List
+# Chapter 22: The List
 
 By morning, Brooke's warning had become harder to find than the advice telling people to ignore it.
 
@@ -74,7 +72,7 @@ Claire stopped at once.
 
 She went back into her room and shut the door.
 
-Brooke closed hers too. She took the keepsake box from beneath the bed and checked it again, although Sarah still had the key. The broken strip of paper remained on the carpet where Brooke had left it. She had photographed it, the empty place where the journal had been, and the front-door keypad. None of it proved who had entered.
+Brooke closed hers too. She took the keepsake box from beneath the bed and checked it again, using the key Sarah had returned. The broken strip of paper remained on the carpet where Brooke had left it. She had photographed it, the empty place where the journal had been, and the front-door keypad. None of it proved who had entered.
 
 Someone had known the code.
 

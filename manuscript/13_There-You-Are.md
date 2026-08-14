@@ -54,7 +54,7 @@ There was a pause. Brooke pictured her on the other side of the door, and the pi
 
 "Claire."
 
-"Please." That was the next rung, and Brooke heard it as a rung even then, the shift from asking to pleading, so smooth it barely had edges. "Please, I'll be so quiet. I don't want to be by myself. Why do you keep going where I can't be."
+"Please." That was the next rung, and Brooke heard it as a rung even then, the shift from asking to pleading, so smooth it barely had edges. "Please, I'll be so quiet. I don't want to be by myself. Why do you keep going where I can't be?"
 
 "Because sometimes people close a door. That's normal. That's allowed."
 
@@ -122,7 +122,7 @@ Sarah looked once more at the splintered jamb. "The lock was old." She reached f
 
 "She almost died last week, Brooke."
 
-"I know that. I keep saying I know that." Brooke heard her own voice climb and pulled it back down, because climbing lost. "Look at her hand. Mom. Look at it. She tore her hand open on the lock and she hasn't looked at it once. Does that seem like a scared kid to you, or does that seem like something else."
+"I know that. I keep saying I know that." Brooke heard her own voice climb and pulled it back down, because climbing lost. "Look at her hand. Mom. Look at it. She tore her hand open on the lock and she hasn't looked at it once. Does that seem like a scared kid to you, or does that seem like something else?"
 
 Sarah was pressing a towel to Claire's knuckles. Claire watched her do it with mild interest, the way you watch someone else's small injury being tended. "Kids get hurt and don't notice when they're upset," Sarah said. "Adrenaline. It's nothing."
 
