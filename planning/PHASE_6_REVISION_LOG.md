@@ -61,7 +61,7 @@ Chapters 2, 6, 7, 11, 16, 19, 22, 23, 27, and 28. Chapters 1 and 3 received cont
 - [x] No Albany, two-hour-hotel, false Saturday-correction, or Hawthorn spelling remains
 - [x] No em dash introduced in manuscript prose
 - [x] Chapter 29 journal image and final sentence unchanged
-- [ ] Author approves the exact revision commit as the `LINE-EDIT CANDIDATE`
+- [x] Author approved revision commit `182f96e` as the `LINE-EDIT CANDIDATE` on 2026-08-14
 
 ## Credibility references
 

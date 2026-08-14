@@ -1,6 +1,6 @@
 # Post-Draft Workflow
 
-The first draft and major developmental rewrite are complete. The Phase 5 AI-agent simulated evaluation is complete; it did not constitute human beta-reader validation. The active goal is Phase 6 post-evaluation revision and structural lock before line editing.
+The first draft, major developmental rewrite, and Phase 6 structural revision are complete. The Phase 5 AI-agent simulated evaluation did not constitute human beta-reader validation. The author approved manuscript commit `182f96e` as the `LINE-EDIT CANDIDATE` on 2026-08-14; Phase 7 issue #30 is next.
 
 ## Completed foundation
 
@@ -23,7 +23,7 @@ The first draft and major developmental rewrite are complete. The Phase 5 AI-age
 9. **#69:** Commercial-prose density and repetition pass
 10. **#65:** Ending position — superseded by the later explicit decision to present the novel as **Book One**, with a resolved current-volume emotional arc and protected continuation threads.
 
-## Active Phase 6 sequence
+## Completed Phase 6 sequence
 
 - **#81:** Post-evaluation manuscript revision and lock candidate
 - **#88:** Continuity corrections
@@ -34,5 +34,5 @@ The first draft and major developmental rewrite are complete. The Phase 5 AI-age
 - **#93:** Shotgun climax causal bridge and physical credibility
 - **#94:** Book One positioning and current-volume closure
 
-After author approval of the structural lock, designate the exact `LINE-EDIT CANDIDATE` and proceed to #30. Publishing-route, production, proof, distribution, launch, and post-launch work remain tracked in the publishing roadmap issues.
+The exact `LINE-EDIT CANDIDATE` is `182f96e`. Proceed to #30 for Phase 7 line editing and copyediting. Publishing-route, production, proof, distribution, launch, and post-launch work remain tracked in the publishing roadmap issues.
 

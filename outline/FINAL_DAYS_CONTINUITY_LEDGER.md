@@ -1,7 +1,7 @@
 # Final Days Continuity Ledger
 
 **Scope:** Chapters 23 through 29
-**Status:** Phase 6 continuity lock; awaiting author approval
+**Status:** Structurally locked at manuscript commit `182f96e`; author approved 2026-08-14
 
 ## Day convention
 
