@@ -4,7 +4,7 @@
 
 **Source manuscript:** merged Phase 7 line edit at `8932d0b`, 63,008 whitespace-delimited words
 
-**Copyedit candidate:** branch `agent/phase-7-copyedit`, 62,961 whitespace-delimited words
+**Author-accepted copyedit manuscript:** `13a9783`, 62,961 whitespace-delimited words
 
 **Provenance:** AI-assisted internal copyediting. This pass is not a professional human copyedit and must not be represented as one.
 
@@ -78,7 +78,7 @@ Codex reconciled definite corrections, queries, and protected ambiguity against 
 - [x] No em dash appears in manuscript prose
 - [x] `git diff --check` passes
 - [x] Exact word counts recorded: 63,008 to 62,961 (-47)
-- [ ] Author accepts the copyedit candidate
+- [x] Author accepted manuscript commit `13a9783` on 2026-08-14
 - [ ] Exact accepted commit designated as `PRODUCTION MANUSCRIPT`
 
-Issue #30 must remain open until the author accepts this pass and the exact production-manuscript commit is recorded.
+Issue #30 must remain open until PR #97 is merged and the exact production-manuscript commit is recorded.

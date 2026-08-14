@@ -1,8 +1,8 @@
 # Changelog
 
-## 2026-08-14 - Phase 7 AI-assisted copyedit candidate
+## 2026-08-14 - Phase 7 AI-assisted copyedit accepted
 
-- Completed three independent full-manuscript copyedit audits and implemented their reconciled definite corrections in non-overlapping chapter ranges. Corrected punctuation, syntax, age and clock errors, hospital-role wording, terminology, temperatures, a duplicate name, keepsake-key continuity, old-phone evidence continuity, call-log wording, pronoun references, and chapter-heading markup. Created the final manuscript style sheet and copyedit log. The candidate moved from 63,008 to 62,961 whitespace-delimited words (-47). This is AI-assisted internal copyediting, not professional human copyediting, and remains subject to author acceptance before designation as the `PRODUCTION MANUSCRIPT`.
+- Completed three independent full-manuscript copyedit audits and implemented their reconciled definite corrections in non-overlapping chapter ranges. Corrected punctuation, syntax, age and clock errors, hospital-role wording, terminology, temperatures, a duplicate name, keepsake-key continuity, old-phone evidence continuity, call-log wording, pronoun references, and chapter-heading markup. Created the final manuscript style sheet and copyedit log. The manuscript moved from 63,008 to 62,961 whitespace-delimited words (-47), and the author accepted copyedit manuscript commit `13a9783` on 2026-08-14. This is AI-assisted internal copyediting, not professional human copyediting. PR #97 must be merged before designation as the `PRODUCTION MANUSCRIPT`.
 
 ## 2026-08-14 — Phase 7 AI-assisted line edit
 
