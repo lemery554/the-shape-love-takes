@@ -1,0 +1,36 @@
+{
+  "title": "The Shape Love Takes",
+  "author": "Jesse Lemery",
+  "production_stage": "Phase 8 proof cover; not a final master",
+  "public_credit": "Edited by Jesse Lemery",
+  "front_art_source": "production/cover/the-shape-love-takes-art-plate-v1.png",
+  "ebook": {
+    "file": "production/cover/the-shape-love-takes-ebook-cover.jpg",
+    "pixels": {
+      "width": 1600,
+      "height": 2560
+    },
+    "sha256": "f80c827db5739ac1f485e44bbeae1a21f6db3112aa57b8c72f16594448bfecbb"
+  },
+  "kdp_paperback": {
+    "file": "production/cover/the-shape-love-takes-kdp-paperback-proof.pdf",
+    "trim_inches": {
+      "width": 5.25,
+      "height": 8.0
+    },
+    "pages": 234,
+    "paper": "cream",
+    "spine_inches": 0.585,
+    "bleed_inches": 0.125,
+    "full_cover_inches": {
+      "width": 11.335,
+      "height": 8.25
+    },
+    "sha256": "fd425f47773bdfaf08c7936ad18642629e4961c0bae8f640f11d0b4afa617770"
+  },
+  "ingramspark": {
+    "status": "Awaiting purchased Bowker ISBN and official ISBN-specific cover template",
+    "reason": "The official IngramSpark template generator requires the assigned ISBN."
+  },
+  "barcode": "Reserved blank area; platform barcode not yet generated"
+}

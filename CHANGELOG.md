@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-08-14 - Phase 8 proof-stage book production
+
+- Produced deterministic 5.25 x 8 paperback and reflowable EPUB proof candidates from the locked 62,961-word `PRODUCTION MANUSCRIPT` without changing manuscript prose. The black-and-white interior is 234 pages with embedded Georgia subsets, restrained found-media treatment, unnumbered front matter, fresh-page chapter openings, running heads, and author-edited copyright credit. Rebuilt the approved cover concept as a high-resolution art plate, created a 1600 x 2560 ebook cover, and produced a 300-DPI CMYK KDP paperback wrap at 11.335 x 8.25 inches with a 0.585-inch cream-paper spine. Technical validation passes for manuscript lock, PDF geometry, embedded fonts, EPUB packaging/XML/manifest/spine/navigation, cover geometry, and checksums. These are Phase 8 proof candidates, not final masters. The IngramSpark cover export remains pending the purchased Bowker ISBN because the official template generator requires the assigned number; Phase 9 digital and physical proof approval remains mandatory.
+
 ## 2026-08-14 - Phase 7 AI-assisted copyedit accepted
 
 - Completed three independent full-manuscript copyedit audits and implemented their reconciled definite corrections in non-overlapping chapter ranges. Corrected punctuation, syntax, age and clock errors, hospital-role wording, terminology, temperatures, a duplicate name, keepsake-key continuity, old-phone evidence continuity, call-log wording, pronoun references, and chapter-heading markup. Created the final manuscript style sheet and copyedit log. The manuscript moved from 63,008 to 62,961 whitespace-delimited words (-47), and the author accepted copyedit manuscript commit `13a9783` on 2026-08-14. This is AI-assisted internal copyediting, not professional human copyediting. PR #97 merged, and merged commit `44e1ed3` is the exact `PRODUCTION MANUSCRIPT`.

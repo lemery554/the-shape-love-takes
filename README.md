@@ -29,6 +29,8 @@ Full, spoiler-inclusive dossiers live in `bible/characters/MAIN_CAST.md`.
 
 The complete manuscript has passed major developmental revision, structural audits, and the Phase 5 AI-agent simulated evaluation. Phase 6 post-evaluation revisions are complete; the author approved commit `182f96e` as the structurally locked `LINE-EDIT CANDIDATE` on August 14, 2026. The author accepted the explicitly AI-assisted Phase 7 line edit at manuscript commit `c622787`; it is not a professional human edit. The author accepted the separate AI-assisted copyedit and final style sheet at manuscript commit `13a9783`; they are not a professional human copyedit. PR #97 merged, and merged commit `44e1ed3` is the exact `PRODUCTION MANUSCRIPT`. The publishing position is **adult psychological horror with strong upper-YA crossover appeal**, explicitly presented as **Book One**. No series title, sequel title, or planned volume count is set.
 
+Phase 8 proof-stage production now includes a validated 234-page, 5.25 x 8 print interior; a reflowable EPUB; a high-resolution ebook cover; and a page-count-specific KDP paperback wrap. These files are not final masters before Phase 9 digital and physical proof approval. The IngramSpark wrap remains pending the purchased Bowker ISBN and official ISBN-specific template.
+
 The current volume resolves Brooke's decision to trust her own evidence, escape coercive home and institutional return, and exercise agency over closeness. Anna's nature and study, Mark's fate, the illness and red-formulation mechanism, Claire and Sarah's agency, and Cooper's unease remain intentional continuation promises.
 
 ## Creative north star
@@ -48,6 +50,7 @@ The people who recover from the illness remain recognizable, retain their memori
 - `research/`: factual and setting research
 - `archive/`: retired material retained for history
 - `assets/cover-concepts/`: exploratory cover artwork
+- `production/`: deterministic book builds, manifests, and Phase 8 proof candidates
 
 When files conflict, use the complete project brief and the latest explicit canon decision. Record material changes in `CHANGELOG.md`.
 

@@ -1,0 +1,30 @@
+{
+  "title": "The Shape Love Takes",
+  "author": "Jesse Lemery",
+  "book_position": "Book One",
+  "production_stage": "Phase 8 proof candidate; not a final master",
+  "production_manuscript_commit": "44e1ed3",
+  "build_head": "e5526fb5f6abc5d3b96e44473cc63f3aab19b38e",
+  "source_word_count": 62961,
+  "trim_inches": {
+    "width": 5.25,
+    "height": 8.0
+  },
+  "print": {
+    "file": "production/print/the-shape-love-takes-5.25x8-proof.pdf",
+    "pages": 234,
+    "sha256": "f76dca5284a1b6f03f6d218905f69437e1e388cf8552d4aceec0c71746067247"
+  },
+  "epub": {
+    "file": "production/ebook/the-shape-love-takes-proof.epub",
+    "sha256": "9bc36b57aac394c28fe13a293e177ce104e072df957013e1e708c581c9285944",
+    "cover_included": true
+  },
+  "production_credit": "Edited by Jesse Lemery",
+  "isbn": null,
+  "notes": [
+    "The author selected one Bowker ISBN for the identical KDP/IngramSpark paperback.",
+    "The ISBN is intentionally absent until purchased and assigned.",
+    "These files require Phase 9 digital and physical proof approval before designation as masters."
+  ]
+}

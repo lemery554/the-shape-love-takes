@@ -1,0 +1,7 @@
+production/**/*.pdf binary
+production/**/*.epub binary
+production/**/*.jpg binary
+production/**/*.png binary
+production/**/*.py text eol=lf
+production/**/*.json text eol=lf
+production/**/*.md text eol=lf
