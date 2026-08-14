@@ -4,9 +4,7 @@
 
 By morning, Brooke's warning had become harder to find than the advice telling people to ignore it.
 
-Upload Six still existed. The platform had not removed it, but searching its exact title while logged out placed a health-department information panel above the results. Two local-news clips with nearly the same wording ranked ahead of Brooke's upload. Hers appeared fourth with a gray medical-context notice beneath the thumbnail.
-
-The comments had changed too. The frightened reports were still there if she sorted by newest, but the default ranking favored calm replies from verified local accounts and comments linking to official guidance.
+Upload Six still existed, but an exact-title search while logged out placed a health-department panel and two similarly worded news clips ahead of it. Brooke's appeared fourth with a gray medical-context notice. The frightened reports remained under newest; the default ranking favored verified local accounts and official guidance.
 
 *Do not isolate someone who loves you.*
 
@@ -14,9 +12,7 @@ The comments had changed too. The frightened reports were still there if she sor
 
 *Brooke's mother is trying to keep her safe.*
 
-Brooke took one dated screenshot of each search state, then stopped when her phone storage warning appeared. The largest files were ordinary family footage cached in three places: Claire dancing in the kitchen, Mark showing her how to change a light fixture, Sarah laughing after dropping a pancake.
-
-Deleting any of them felt like cooperating with the thing happening to the house. She moved the verified originals, hospital footage, uploads, Mark calls, keypad clip, and observation file onto the external drive, then put a second copy of the observation file on the camera card. Three copies in the same house were not real backup, but cloud storage felt like handing the files to the systems already burying her uploads.
+Brooke took one dated screenshot of each search state, then stopped when her phone storage warning appeared. Deleting ordinary family footage felt like cooperating with the thing happening to the house. She moved the verified originals, hospital footage, uploads, Mark calls, keypad clip, and observation file onto the external drive, then put a second copy of the observation file on the camera card. Three copies in the same house were not real backup, but cloud storage felt like handing the files to the systems already burying her uploads.
 
 *Dogs notice first.*
 

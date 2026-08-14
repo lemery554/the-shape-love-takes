@@ -254,8 +254,6 @@ Brooke almost laughed. "That's nothing."
 
 "Angry in one photograph. Asleep in another. There was a yellow blanket."
 
-Those photographs had been in the adoption folder. Brooke had never shown them online. Her heart accelerated anyway, translating access into intimacy.
-
 "What hospital?"
 
 "I do not know."
@@ -268,11 +266,9 @@ Those photographs had been in the adoption folder. Brooke had never shown them o
 
 Anna's fingers tightened around the paper cup. "A name that was changed."
 
-The original name appeared on the letter and amended records. Anna had not said it. Restraint felt like respect.
+Brooke had never shown the baby photographs online. The original name appeared on the letter and amended records, but Anna had not said it. Brooke kept asking until she reached the edge of the materials in the keepsake box. Anna knew the biological mother's full name, the yellow blanket, and the copied letter. She did not know the delivery room, the weather, or whether Brooke had cried immediately.
 
-Brooke asked questions until she reached the edge of the materials in the keepsake box. Anna knew the biological mother's full name, the yellow blanket, and the copied letter. She did not know the delivery room, the weather, or whether Brooke had cried immediately. The missing knowledge should have disproved the story Brooke wanted.
-
-Instead it resembled trauma. Seventeen years was enough time to forget details. Shame was enough reason not to volunteer them.
+Those gaps should have disproved the story Brooke wanted. Instead they resembled trauma. Seventeen years was enough time to forget details. Shame was enough reason not to volunteer them.
 
 Cooper rose and pressed his shoulder against Brooke's shin. Anna watched him, then looked toward the diner window. A girl eating alone had glanced up from her phone and seemed to recognize Brooke.
 
@@ -318,9 +314,7 @@ Brooke led Cooper through the patio gate. When she looked back, Anna remained se
 
 She had not asked for a hug.
 
-At the corner, Brooke stopped the audio recording. The file showed twenty-eight minutes and saved locally beneath the neutral title her phone assigned it.
-
-She checked the waveform before locking the screen. Anna's voice was clear. So were Brooke's questions. The recording proved that Anna knew the biological mother's name and refused to answer whether she entered the house. It did not prove who Anna was.
+At the corner, Brooke stopped the audio recording. Anna's voice and Brooke's questions were clear. The file proved that Anna knew the biological mother's name and refused to answer whether she entered the house. It did not prove who Anna was.
 
 Brooke copied the file to the camera card through the short adapter in her bag. The transfer consumed another three percent of the phone battery. She kept both copies.
 

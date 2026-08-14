@@ -230,9 +230,9 @@ At home, Sarah was still on a call. Brooke went upstairs and refreshed the outbr
 
 Brooke clicked the account, but it contained no videos and no name she recognized. She typed *What hospital?* and deleted it before posting. The comment could be true. It could be a lie. It could be somebody bored during study hall.
 
-The neighborhood page she followed, because a camera taught you to keep watching after other people looked away, had a post she read twice. Someone was asking for prayers for Hector Alvarez, the crossing guard at the Field Street elementary school, taken to Saint Vincent's on Wednesday and not yet home.
+The neighborhood page she followed had a post she read twice. Someone was asking for prayers for Hector Alvarez, the crossing guard at the Field Street elementary school, taken to Saint Vincent's on Wednesday and not yet home.
 
-Brooke knew the name the way she knew her own footage. She had spent three winter mornings across the street from that crossing with a borrowed lens, filming a man warm a child's dropped mitten inside his coat and check an empty intersection twice out of a habit of care that had outlived the traffic. He was the reason the workshop had wanted her. She had two minutes of him that nobody else on the page would ever see, and she sat with the phone in the dark and did not comment, because there was no way to write *I have footage of him being kind* that was not also, underneath, about her.
+Brooke knew the name from her application film. He was the reason the workshop had wanted her. She had two minutes of his unperformed kindness that nobody else on the page would ever see, and she sat with the phone in the dark and did not comment. There was no way to write *I have footage of him being kind* that was not also, underneath, about her.
 
 Her phone rang at 7:26. Mark's face appeared frozen at an angle that showed mostly ceiling. When the connection corrected, he sat on the edge of a hotel bed in his work shirt, a white smear of plaster across one shoulder.
 

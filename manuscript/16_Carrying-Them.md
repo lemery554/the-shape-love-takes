@@ -47,9 +47,7 @@ Brooke took a screenshot.
 
 Sarah vomited again.
 
-The next twelve hours reduced the house to water, temperatures, and the distance between rooms. Brooke kept the thermometer and electrolyte packets on the bathroom counter and wrote down enough to know when the numbers changed.
-
-Sarah's body seemed determined to empty itself beyond what a body could contain. When vomiting paused, diarrhea began. When that stopped, tremors shook the mattress hard enough to tap the headboard against the wall. Brooke changed towels, tied off trash bags, wiped the floor, and learned not to react when Sarah could no longer reach the bathroom in time.
+The next twelve hours reduced the house to water, temperatures, and the distance between rooms. When vomiting paused, diarrhea began. When that stopped, tremors tapped the headboard against the wall. Brooke kept the supplies on the bathroom counter, recorded the changes, and cleaned what Sarah could not reach in time.
 
 "Don't look at me," Sarah said once.
 
@@ -73,9 +71,7 @@ The sentence hurt more than the work. Brooke fastened the clean clothes and pull
 
 Claire moved closer at that, offended by being excluded even from a burden she would not carry alone.
 
-Claire followed Brooke through every task.
-
-When Brooke went to the kitchen, Claire carried the empty cup. When Brooke returned upstairs, Claire walked so close behind that her socks brushed Brooke's heels. If Brooke closed the bathroom door to help Sarah change, Claire stood outside and turned the handle until Brooke opened it again.
+Claire followed Brooke through every task, carrying empty cups and walking so close that her socks brushed Brooke's heels. If Brooke closed the bathroom door to help Sarah change, Claire turned the handle until Brooke opened it again.
 
 "I need space to move," Brooke said.
 
@@ -363,6 +359,4 @@ Sarah looked at Claire. Something quiet passed between them, not a signal Brooke
 
 "Of course he will," Sarah said.
 
-Brooke was still inside her arms. She noticed that Sarah had begun rubbing slow circles between her shoulder blades, the exact motion she used when Brooke was little and homesick after sleepovers. It soothed her before she could decide whether she wanted it to.
-
-That was the first thing Sarah's recovery gave back: the knowledge of how to make Brooke stay.
+Brooke was still inside her arms. Sarah rubbed slow circles between her shoulder blades, the motion she had used when Brooke was little and homesick after sleepovers. It soothed Brooke before she could decide whether she wanted to stay.

@@ -272,8 +272,6 @@ Sarah stepped between them. "Brooke, enough."
 
 "You remember being my sister when it's useful."
 
-The sentence entered the room and changed it. It was not the same cruelty as the sentence before Claire got sick, but it came from the same place in Brooke: the place that reached for whatever would hurt fastest.
-
 Claire's tears stopped moving. Sarah went still.
 
 Brooke wanted to pull the words back before they became another last thing the real Claire heard. Instead she stood there breathing hard while Cooper pressed against her leg.
@@ -284,7 +282,7 @@ Nothing in her voice proved who was speaking.
 
 Brooke left the room.
 
-She made it as far as the hall before the shame caught her. The same sentence from before Claire's purge waited beneath it, the one about real mothers and being wanted. Brooke had promised herself she would not reach for that kind of wound again. She had done it anyway, simply with different words.
+In the hall, shame caught her. She had reached for the same wound again, only with different words.
 
 She returned to Claire's doorway.
 

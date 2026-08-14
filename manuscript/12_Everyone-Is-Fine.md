@@ -10,7 +10,7 @@ It was not, when she looked, quite full. Three lockers down from hers, one had b
 
 Then she started to see it, and once she started she could not stop, because seeing was the only thing she was good at.
 
-It was in the way people sat. In the library, two girls she was fairly sure did not know each other, one a senior, one a freshman, sat pressed together at a four-person table with the whole rest of the table empty, shoulder to shoulder, hip to hip, sharing nothing, saying nothing, comfortable in a way that people who had just met were not comfortable. Neither of them looked at the other. They did not need to. They sat the way a family sits in a waiting room, close for the sake of closeness, and when the freshman got up for a book the senior turned to keep her in view the entire time she was gone.
+It was in the way people sat. In the library, a senior and a freshman Brooke was fairly sure did not know each other shared one edge of an otherwise empty table. When the freshman got up for a book, the senior turned to keep her in view.
 
 In homeroom, Mr. Bell passed around a plastic container of olives. He had spent three years complaining that the smell of olives ruined the faculty refrigerator. Now he ate them between attendance names and offered them to students with an absent generosity. Three people accepted. One was a girl Brooke had once watched remove an olive from nachos with a napkin.
 
@@ -19,18 +19,6 @@ In homeroom, Mr. Bell passed around a plastic container of olives. He had spent 
 Mr. Bell looked at the olive pinched between his fingers as if he had forgotten it was there. "They taste clean."
 
 The room laughed. He laughed too, a little late, and set the container on the desk where anybody could reach it.
-
-In the hall after second period, an assistant principal stood beside the exit telling a boy he could not leave until his mother arrived.
-
-"She told me to walk home," the boy said.
-
-"Families need to know where everyone is right now."
-
-"She knows."
-
-"Then waiting won't hurt."
-
-The assistant principal's hand stayed lightly on the boy's shoulder. Not restraining him. Not quite.
 
 And it was outside the second-floor bathroom, where a girl stood waiting.
 

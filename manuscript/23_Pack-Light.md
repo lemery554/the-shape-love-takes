@@ -162,15 +162,11 @@ She did not send it. If Mark had changed, the message told him she planned to le
 
 She saved it as a draft.
 
-Then she recorded a message instead.
-
-"Dad, if you get this later, I left because I couldn't tell what was safe anymore. Mom and Claire remember everything, but they don't hear no the same way. Someone used the front-door code. My journal is missing. I have Cooper and the camera."
-
-She stopped, deleted it, and began again without diagnosing anyone.
+She recorded one version instead.
 
 "Dad, I'm leaving the house tonight. I'm taking Cooper. The evidence drive is with me. I tried calling you."
 
-That version sounded like a note police would play after something terrible happened. She deleted it too.
+The recording sounded like a note police would play after something terrible happened. She deleted it.
 
 In the end, she left the unsent text exactly as it was. Uncertainty was not a reason to leave no record. It was also not permission to tell a possibly changed father how to find her.
 
