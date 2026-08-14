@@ -180,15 +180,7 @@ Claire appeared behind Sarah and took the basket from her.
 
 The broadcast moved to a commercial. A family gathered around a dining table while a soft voice described the importance of staying connected.
 
-The station returned with a panel that would once have included an infectious-disease physician and a county official. Now the guests were a family therapist and the hospital administrator. The questions beneath their names concerned stigma, fear, and rebuilding trust after illness.
-
-"Some family members report feeling overwhelmed by a recovered loved one's need for reassurance," the therapist said. "We encourage them to remember that withdrawal can intensify separation distress. Set gentle boundaries, but do not use isolation as punishment."
-
-The anchor nodded with grave sympathy. "So closing a door could make the behavior worse."
-
-"Abrupt separation can be experienced as rejection."
-
-Brooke turned up the volume.
+The station returned with a family therapist and the hospital administrator. Their panel concerned stigma, fear, and rebuilding trust. The therapist advised gentle boundaries but warned that withdrawal could intensify separation distress.
 
 No one asked whether the recovered person had broken the door.
 

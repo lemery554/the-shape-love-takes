@@ -140,7 +140,7 @@ Sarah performed the hand thermometer again. This time Claire ducked away.
 
 "Your hands are cold."
 
-Both could be true. Brooke looked down at Cooper. He had raised his head.
+Brooke looked down at Cooper. He had raised his head.
 
 Claire carried her bowl to the sink and left it on the counter. Cooper watched her cross the kitchen. When she passed behind Brooke, his body tightened against her chair.
 

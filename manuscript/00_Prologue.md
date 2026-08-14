@@ -10,7 +10,7 @@ None of the footage was hers. Normally that alone would have made her close it. 
 
 She had learned to distrust dramatic footage while editing weddings. The important moment was rarely the kiss or the speech. It was the groom checking the exit while his father talked, or a bridesmaid removing her smile the instant the photographer turned away. Brooke's clients asked her to cut those moments. They called them unflattering. She called them the part that had happened.
 
-Tonight she had built a spreadsheet before opening the editor. Source account. Upload time. Claimed location. Earliest repost she could find. Weather visible through windows. Hospital signage. Whether the clip began before the action or conveniently at its most shocking second. Three videos had failed and gone into a folder labeled UNSOURCED. She kept them anyway, separate from the ones she trusted. False things could still teach people what they wanted to believe.
+Tonight she had built a spreadsheet before opening the editor. Source account. Upload time. Claimed location. Earliest repost. Weather and hospital signage. Whether the clip began before the action or conveniently at its most shocking second. Three videos had failed her checks and gone into a folder labeled UNSOURCED, separate from the ones she trusted. False things could still teach people what they wanted to believe.
 
 For two nights, she had been finding seams everywhere.
 
@@ -48,21 +48,21 @@ Brooke rewound the fall once. The woman did not hesitate the second time either.
 
 A comment beneath another clip claimed hospitals had received cases of red liquid in sealed cups. The writer said patients vomited it almost as soon as they swallowed. The writer claimed to be a nurse. Brooke had no way to know whether that part was true.
 
-She opened the account. It was six years old and mostly contained photographs of houseplants, a graduation, and a gray cat asleep in increasingly impossible positions. That did not prove the writer was a nurse. It made the account harder to dismiss than one created that afternoon.
+The account was six years old and mostly contained houseplants, a graduation, and a gray cat asleep in increasingly impossible positions. That did not prove the writer was a nurse. It made the account harder to dismiss than one created that afternoon.
 
 Brooke copied the comment into her source notes, then wrote beside it: *Identity not verified. Same visual reported at three locations.* She disliked the sentence because it sounded official. Official language made uncertainty seem organized.
 
-The liquid on the pavement could have been the treatment. The caller had said the medicine came back up. Similar red stains appeared in videos from three hospitals. That was a pattern, not an answer.
+The liquid on the pavement could have been the treatment. Similar red stains appeared in videos from three hospitals. That was a pattern, not an answer.
 
 Brooke muted the hospital video. She sometimes edited wedding footage for gas money, and voices were often the least reliable part of a room. People said they were happy while their shoulders drew tight. They said they were fine while watching an exit.
 
 Bodies did not know how to lie the way voices did. Without sound, she found the timing.
 
-She pulled two more hospital clips into the project. One came from another state. The other had been filmed by a phone propped against a vending machine. She aligned their timestamps as closely as the posts allowed and ran them together.
+She pulled in two more hospital clips, one from another state and one filmed by a phone propped against a vending machine. She aligned their timestamps as closely as the posts allowed.
 
 In the first clip, six patients along a wall stopped moving. In the second, a woman lowered a paper cup without drinking. In the third, two nurses looked toward opposite ends of a corridor. Then the patients folded forward.
 
-Not one and then another. The movement passed through each room in a narrow wave, close enough to simultaneous that Brooke replayed it at half speed. Shoulders tightened. Heads turned. Bodies doubled over as if something had been said that only they could hear. Her mouth had gone dry. She played the sequence again. Muted. Full speed. Half speed.
+Not one and then another. The movement passed through each room in a narrow wave. Shoulders tightened. Heads turned. Bodies doubled over as if something had been said that only they could hear. Her mouth had gone dry. She replayed it muted, then at half speed.
 
 The refrigerator cycled off downstairs, leaving Claire's white noise and the faint click of Cooper's collar near the foot of the stairs. Sarah, Brooke's mother, had gone to bed hours ago after reminding her twice that it was a school night. Claire, her thirteen-year-old sister, was asleep behind the manufactured ocean.
 
@@ -70,13 +70,13 @@ The house sounded ordinary. Brooke let it, then opened a news tab.
 
 The anchor spoke with the careful calm used for storms that might turn away. The lower third read *REGIONAL ILLNESS UNDER INVESTIGATION*. An official described the situation as serious but responsive to treatment. Behind him, through a window in a hospital door, someone dragged a red mop bucket across the hall.
 
-The report was not necessarily false. The footage was not necessarily complete. Brooke could not make them occupy the same room.
+The report was not necessarily false. The footage was not complete. Brooke could not make them occupy the same room.
 
-She cut fifteen seconds from the broadcast and placed it above the hospital video. On one track, the official said treatment capacity remained stable. On the other, an ambulance reversed because two more blocked the bay. Brooke aligned the words *remained stable* with the worker slipping in the red liquid, watched it once, and deleted the edit.
+She placed fifteen seconds of the broadcast above the hospital video. On one track, the official said treatment capacity remained stable. On the other, an ambulance reversed because two more blocked the bay. Brooke aligned *remained stable* with the worker slipping in the red liquid, watched once, and deleted the edit.
 
 It was persuasive in a way she did not trust. She could make the official look like a liar without proving he had seen the ambulance bay or knew what the camera showed. Editing did not only preserve truth. It could manufacture a cleaner one.
 
-Brooke restored both clips to their original lengths and added a note instead. Context before conclusion. It was a rule she obeyed more reliably with strangers than with her family.
+Brooke restored the original lengths and added a note instead. Context before conclusion. She obeyed the rule more reliably with strangers than with her family.
 
 The unplayed recovery clip waited in the fourth window. She clicked it.
 
@@ -98,13 +98,13 @@ The phone swung back. The woman returned to the bedside, laughing softly as she 
 
 The girl caught her wrist with both hands, and her face relaxed at once.
 
-It could have been fear. After hours of vomiting and strangers and bright hospital rooms, anyone might panic when the one familiar person stepped away. Brooke knew that. She watched the mother bend and kiss the girl's forehead. She watched the girl's fingers remain closed around the wrist.
+It could have been fear. After hours of vomiting and bright hospital rooms, anyone might panic when the one familiar person stepped away. The mother bent to kiss the girl's forehead. The girl's fingers remained closed around her wrist.
 
 When a nurse asked the mother to move so she could check the IV, the girl said, very quietly, *She can stay.*
 
 Not a question. Not anger. The same exhausted voice she had used for *Mom?*
 
-The clip ended with the mother still beside the bed. Brooke played it again. The smile was not late. It was not false. That would have been easier. The relief in it seemed to belong to the girl completely. So did the fear when the doorway emptied.
+The clip ended with the mother still beside the bed. The smile was not late or false. That would have been easier. The relief belonged to the girl completely. So did the fear when the doorway emptied.
 
 Brooke opened the automated transcript. It had rendered *She can stay* as *chicken steak*. She corrected the words, added the time code, and listened with her eyes closed. The girl's voice did not contain menace. It contained the exhausted certainty of somebody asking for the only thing that still made sense.
 
@@ -118,7 +118,7 @@ She created a new sequence called SOURCES and placed each clip in full, with its
 
 She also opened a blank document and typed the sentence she used whenever an idea threatened to become a conclusion too soon: *What would prove me wrong?*
 
-If the red liquid appeared only in reposts of the same hospital, the pattern failed. If recovery clips showed ordinary fear that disappeared with rest, the doorway marker meant nothing. If timestamps had been altered, if captions had been copied, if the simultaneous vomiting existed only because somebody had cut separate moments together, then Brooke wanted to know before she built a story around it.
+If the red liquid appeared only in reposts of one hospital, the pattern failed. If ordinary fear disappeared with rest, the doorway marker meant nothing. Altered timestamps, copied captions, or separate moments cut together could explain the rest. Brooke wanted to know before she built a story around it.
 
 She listed each possibility beneath the question. The list made the clips less frightening because it gave fear jobs to do.
 

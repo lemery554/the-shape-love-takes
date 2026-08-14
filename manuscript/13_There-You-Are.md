@@ -114,11 +114,9 @@ Sarah looked once more at the splintered jamb. "The lock was old." She reached f
 
 "I wanted to be with Brooke."
 
-"You can't break a door because you want to be with someone."
-
 "She wouldn't let me in."
 
-Sarah looked at Brooke, and there it was, the thing Brooke had been watching arrive for a week, the small terrible pivot where the fact of a broken lock and a bleeding child became, in a loving mother's face, a story about a big sister who kept shutting her frightened little sister out. "Why did you lock the door on her?"
+"You can't break a door because you want to be with someone." Sarah looked again at the splintered jamb before her gaze returned to Brooke. "Why did you lock it?"
 
 "Because I wanted to be alone for four minutes."
 

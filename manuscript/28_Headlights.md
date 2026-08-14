@@ -240,15 +240,7 @@ Brooke took out her phone and started an audio recording. She left it facedown i
 
 "No."
 
-"Can I choose a different motel?"
-
-"Yes."
-
-"Can I keep the room key?"
-
-"Yes."
-
-Brooke asked until she ran out of practical tests. Anna never sounded offended by suspicion. Sarah had always treated distrust as an injury. Anna treated it as a right.
+Brooke asked whether she could choose a different motel and keep the room key. Anna said yes to both. She never sounded offended by suspicion. Sarah had treated distrust as an injury. Anna treated it as a right.
 
 The car heater warmed Brooke's wet jeans. Cooper's breathing slowed behind her.
 
@@ -272,11 +264,9 @@ No grip. No pull. Only enough pressure to answer.
 
 Brooke closed her eyes.
 
-She had not hugged anyone willingly since Claire got sick.
-
 Anna returned her hand to her lap before Brooke pulled away.
 
-Brooke remained close for one breath after the pressure disappeared. Anna had answered the hug without converting it into restraint. That single absence felt larger than every promise made that night.
+Brooke remained close for one breath after the pressure disappeared. She had not hugged anyone willingly since Claire got sick.
 
 "Try to sleep," she said.
 

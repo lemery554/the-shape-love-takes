@@ -24,9 +24,7 @@ Sarah almost smiled. "Both."
 
 The nurse pressed a fingernail until the color left it and counted the seconds until it returned. She asked Claire to stick out her tongue, then noted dry mucous membranes and delayed capillary refill in the chart. When Claire stood for the scale, her knees softened. The nurse caught her elbow and changed something on the screen.
 
-Brooke watched the order of questions. The staff were not guessing. Each answer moved Claire through a system that had worked before tonight. The horror was not that nobody knew what to do. It was that the same competent sequence was being asked to hold too many people at once.
-
-Competence survived everywhere. There was simply too much required of it.
+Brooke watched the order of questions. The staff were not guessing. Each answer moved Claire through a system that had worked before tonight and was now being asked to hold too many people at once.
 
 Patients filled the waiting-room chairs and the corridor beyond them. Plastic basins sat beneath seats. A custodian changed gloves beside a yellow spill sign while a second stain spread near the vending machines. Gurneys lined one wall, each separated by a curtain that stopped several feet short of privacy.
 

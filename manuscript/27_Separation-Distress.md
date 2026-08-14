@@ -184,19 +184,7 @@ The dispatcher told her she could disconnect to preserve the phone battery. Broo
 
 Brooke stared at the screen. Two percent battery.
 
-The call log listed the address and duration. Brooke took a screenshot before the phone could die again. She held the screen toward the camera and read the dispatcher's exact phrases from memory while they were fresh.
-
-> Do not antagonize your mother.
->
-> Separation distress.
->
-> Welfare return.
->
-> Secured weapon.
-
-> Unit pending.
-
-The list sounded less frightening without the dispatcher's calm voice. Brooke saved it anyway.
+The call log listed the address and duration. Brooke took a screenshot before the phone could die again. She held the screen toward the camera and repeated the dispatcher's phrases while they were fresh: separation distress, welfare return, secured weapon, unit pending. The words sounded less frightening without the dispatcher's calm voice. Brooke saved them anyway.
 
 Outside the door, Claire whispered, "They said to stay."
 
@@ -400,9 +388,11 @@ Brooke crouched outside below the window line, one hand locked in Cooper's harne
 
 The shotgun fired.
 
-Sarah fired low and diagonally at the latch-side jamb, away from the center of the room where she believed Brooke had been. It was a guess made through wood. The buckshot tore through the jamb, lock metal, and the front corner of the dresser before striking the floor and side wall. The chair overturned. The damaged door kicked inward against the barricade.
+The blast carved a low diagonal path through the latch-side jamb, lock metal, and the front corner of the dresser. Pellets struck the floor and side wall. The chair overturned. The damaged door kicked inward against the barricade.
 
-For an instant the room filled with powdered drywall and the bitter smell of burned propellant. A lamp fell from the dresser. Pellets struck the side wall in a pattern Brooke would later have been able to measure if later still belonged to her. Inside the backpack on the roof, the camera continued recording darkness, the gunshot, Brooke's breath, and the dispatcher saying that shots had been fired and the call was now priority.
+Brooke could not see Sarah or the barrel through the wall. She knew only the path the shot left through opaque wood. Sarah had fired without a view of where Brooke was beyond it.
+
+Powdered drywall blew through the open window with the bitter smell of burned propellant. A lamp crashed inside. In the backpack on the roof, the camera continued recording darkness, the gunshot, Brooke's breath, and the dispatcher saying that shots had been fired and the call was now priority.
 
 Cooper tried to bolt down the roof. Brooke held him until the echo left the air.
 

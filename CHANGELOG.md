@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-08-14 — Phase 7 AI-assisted line edit
+
+- Implemented the author-approved AI line-editor board recommendations as a controlled sentence/paragraph pass. Three agents edited non-overlapping chapter ranges and reread the complete manuscript collectively; Codex reconciled the combined diff. Reduced explanatory overhang, repeated procedure, lateral pattern examples, and immediate thematic interpretation while protecting voice, clues, ambiguity, climax causality, voluntary closeness, and the ending. The manuscript moved from 64,245 to 63,008 whitespace-delimited words (-1,237; 1.93%). This is AI-assisted internal editing, not professional human editing. Detailed provenance, chapter counts, decisions, and verification are recorded in `planning/PHASE_7_LINE_EDIT_LOG.md`. Copyediting remains pending under #30.
+
 All notable project-development changes are recorded here.
 
 ## 2026-08-14

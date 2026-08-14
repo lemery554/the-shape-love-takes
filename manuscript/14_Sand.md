@@ -314,7 +314,7 @@ Claire did not answer. They walked the rest of the way with only an arm's length
 
 That evening, Brooke opened the old family video.
 
-Mark's laughter shook the frame. Sarah's shadow crossed the sand. Claire knelt in a purple swimsuit with wet hair pasted to her face, packing both hands around Brooke's knees.
+Mark's laughter shook the frame. Claire knelt in a purple swimsuit with wet hair pasted to her face, packing sand around Brooke's knees.
 
 "Don't move," six-year-old Claire ordered.
 
@@ -324,15 +324,13 @@ Mark's laughter shook the frame. Sarah's shadow crossed the sand. Claire knelt i
 
 The camera dipped while Mark laughed. The tide came in and collapsed one side of the mound. Claire shouted at it, then began rebuilding before the water had gone out.
 
-Brooke paused on Claire's face. There was nothing hidden there. No reflective flicker. No second expression. Just a little girl taking an impossible job seriously because she loved the person she was trying to keep.
+Brooke paused on Claire's face. No reflective flicker. No second expression. Just a little girl rebuilding before the water went out.
 
 Brooke opened the bottom drawer of her desk and moved aside a stack of old notebooks. The journal was beneath them, its blue cloth cover faded along the spine. She had not written in it regularly since she started filming. Near the middle, tucked between entries about school and Sarah's rules, she found the beach.
 
-Her ten-year-old handwriting leaned hard to the right.
+Her ten-year-old handwriting leaned hard to the right: *Claire buried me and said I had to stay forever. I let her because she looked so happy. We put all the shells back after.*
 
-*Claire buried me and said I had to stay forever. I let her because she looked so happy. We put all the shells back after.*
-
-Brooke read it twice. The memory in the journal was simpler than the video and simpler than what had happened in the library. Claire had wanted her to stay then too. That did not tell Brooke what the wanting meant now.
+The journal made the memory simpler than the video. Claire had wanted her to stay then too. That did not explain the wanting now.
 
 Tucked into the back cover were the lines she had copied out as a child, her careful print imitating the unfamiliar hand from the letter itself. The letter she kept apart from the journal, in the keepsake box with the adoption papers, the envelope Sarah had given her years ago and then regretted giving her. Brooke's first name, the original one, was written on the front in that same unfamiliar hand. She did not need to open it. She knew it almost by memory, every vague apology and every sentence that could be read as love or abandonment depending on the day.
 

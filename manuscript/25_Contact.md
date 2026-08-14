@@ -266,13 +266,7 @@ The woman stepped onto the patio barefoot. Cooper growled.
 
 Brooke returned to the drainage channel. The woman called the police before Brooke reached the trees.
 
-Near three in the morning, Cooper began to limp. Her phone showed six percent. The temperature had dropped, and every public place would recognize her as soon as someone checked the bulletin.
-
-Brooke considered the fire station on Hawthorne. Its bay lights were on. Through the windows she saw two firefighters sitting shoulder to shoulder at a table while a third stood behind them with both hands resting on their backs. A television above the lockers displayed the same family-reunification number as Saint Vincent's.
-
-She kept walking.
-
-At a twenty-four-hour pharmacy, the automatic doors opened and an employee looked up from beneath a blue *FAMILIES HEAL TOGETHER* poster. Brooke did not cross the threshold.
+Near three in the morning, Cooper began to limp. Her phone showed six percent. The temperature had dropped, and every public place would recognize her as soon as someone checked the bulletin. A television inside the Hawthorne fire station displayed the Saint Vincent's family-reunification number. At a twenty-four-hour pharmacy, an employee looked up from beneath a blue *FAMILIES HEAL TOGETHER* poster. Brooke kept walking.
 
 Every lit building offered warmth on the condition that somebody decide where she belonged.
 

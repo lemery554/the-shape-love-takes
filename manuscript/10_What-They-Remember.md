@@ -1,10 +1,8 @@
 # Chapter 10: What They Remember
 
-In less than a week the following had stopped being news.
+In less than a week, Brooke had stopped startling when she found Claire in a doorway. Her alarm had faded without the danger passing. Sarah called that getting used to her sister again.
 
-Brooke no longer turned and startled to find Claire in a doorway. That was the part she could not explain to Sarah, and had stopped trying to: that her own alarm had a half-life, that a thing could frighten her on Monday and be furniture by Thursday, and that the fading was not the danger passing but the danger settling in. Sarah called it getting used to her sister again. Claire had found something quieter than standing in doorways anyway. She had begun reaching back for things that were not in any of Brooke's footage and finding them exactly where she had left them.
-
-That afternoon Brooke came out of the bathroom and found Claire sitting against the wall in the hall, knees drawn up, waiting. Cooper lay at the far end near the stairs, chin on his paws, watching them both.
+That afternoon Brooke came out of the bathroom and found Claire sitting against the hall wall, knees drawn up, waiting. Cooper lay near the stairs, watching them both. Claire had begun reaching for memories absent from Brooke's footage and finding them exactly where she had left them.
 
 "You were in there a long time," Claire said.
 
@@ -30,7 +28,7 @@ Claire hummed. The tune had no shape Brooke could name. It stopped and started w
 
 "I liked sitting with you while you did the fun part."
 
-It was true, and the truth of it was the problem. Everything Claire said now was true and slightly to the left of what it should have been, aimed at a target Brooke could not see until it was hit. Brooke saved the project and closed the laptop.
+It was true. Everything Claire said now sat slightly to the left of where it should have been, aimed at a target Brooke could not see until it was hit. Brooke saved the project and closed the laptop.
 
 "I'm going to get coffee," she said.
 
@@ -60,11 +58,11 @@ Sarah looked up. "She's just glad you're around. She spent the whole weekend sca
 
 "Then let her be glad."
 
-There was a version of the morning where Brooke let her be glad. She could feel it available, the easy version, the one where Claire's need was ordinary and the price of peace was letting her little sister lean on her arm in the kitchen. Sarah wanted that version so badly that she had begun narrating it, laying it over the top of the real one like a track of pleasant music under footage of something else.
+An easier version of the morning was available if Brooke let Claire lean against her and called it ordinary. Sarah wanted that version badly enough to narrate it, laying pleasant music beneath different footage.
 
 Brooke took her coffee upstairs. Claire did not follow this time, which was somehow worse, because it meant she had decided to wait.
 
-Brooke opened *Things I Have Seen*. Four observations waited beneath the title, each one ordinary enough to explain alone. Together they still sounded less like evidence than an accusation against a kid who had almost died over the weekend. She checked the file's timestamp anyway. The point was not to convince anyone yet. The point was to have it later, when everyone agreed it had not been like this.
+Brooke opened *Things I Have Seen*. Four observations waited beneath the title, each ordinary enough to explain alone. Together they sounded like an accusation against a kid who had almost died. She checked the timestamp anyway. She wanted the record for later, when everyone agreed it had not been like this.
 
 She added a second heading beneath the list.
 
@@ -212,4 +210,4 @@ She stopped the recording. She sat on the closed lid of the toilet for a while w
 
 Then she took out her phone and opened *Things I Have Seen*.
 
-*They remember everything.* She thought of Claire counting breaths in the dark, a memory that lived nowhere but inside the two of them, on no card in the lockbox, in none of the footage she had spent her life keeping. It was the one thing she could not hold up to the light or hand to Sarah. Claire might only have wanted to remind her that she had once been welcome. Brooke could not tell where remembering ended and pressure began, and she was no longer sure the two could be separated.
+*They remember everything.* Claire counting breaths in the dark lived nowhere but inside the two of them, on no card in the lockbox or footage Brooke had kept. Claire might only have wanted to remind her that she had once been welcome. Brooke could not tell where remembering ended and pressure began.
