@@ -36,6 +36,8 @@ Claire finished the toast in two bites and followed Sarah outside. She was still
 
 At school, the outbreak had become ordinary enough to schedule around. The nurse's office sent an email asking families to report gastrointestinal symptoms before sending students in. Two teachers kept bottles of disinfectant beside their classroom doors. The principal repeated that Ashcroft High remained open, then asked everyone to respect classmates who might be anxious about inaccurate social-media reports.
 
+It was not quite the school it had been on Monday. Two desks in first period stayed empty all morning, and one in chemistry, and a scatter of others across the day that the teachers worked around without comment. Absence was ordinary during a stomach bug. The unusual part was the care everyone took not to count, the way the roll was read now with certain names skipped so smoothly that skipping them had clearly been decided somewhere above the teachers.
+
 Brooke heard three people repeat *inaccurate social-media reports* before lunch. None of them knew which reports were inaccurate.
 
 She saved the nurse's email and a screenshot of the district notice. During study hall, she opened the folder called *the color* and built a sequence from the clips she had collected: the red pavement, the synchronized movement in hospital corridors, the recovering girl tightening both hands around her mother's wrist, and the white intake screens outside Saint Vincent's.
@@ -204,7 +206,7 @@ Claire wiped one eye with the sleeve of the stolen hoodie. "Then go."
 
 Brooke almost smiled because the answer sounded like Claire again. Claire did not smile back.
 
-They walked home several feet apart. Claire did not narrate the route. She did not complain about school or ask Brooke to film anything. At Hawthorn Road, an ambulance passed toward Saint Vincent's without using its siren. Both sisters watched it disappear around the bend.
+They walked home several feet apart. Claire did not narrate the route. She did not complain about school or ask Brooke to film anything. At Hawthorne Road, an ambulance passed toward Saint Vincent's without using its siren. Both sisters watched it disappear around the bend.
 
 At the path behind the fields, Claire stopped at the bench where they sometimes waited out rain. She took Brooke's hat from her backpack and set it on the damp wood.
 
@@ -227,6 +229,10 @@ Brooke took the hoodie because refusing would have required an apology or anothe
 At home, Sarah was still on a call. Brooke went upstairs and refreshed the outbreak upload. Thirty-eight views. Four dislikes. A new comment read, *My brother had this. He was fine the next day.*
 
 Brooke clicked the account, but it contained no videos and no name she recognized. She typed *What hospital?* and deleted it before posting. The comment could be true. It could be a lie. It could be somebody bored during study hall.
+
+The neighborhood page she followed, because a camera taught you to keep watching after other people looked away, had a post she read twice. Someone was asking for prayers for Hector Alvarez, the crossing guard at the Field Street elementary school, taken to Saint Vincent's on Wednesday and not yet home.
+
+Brooke knew the name the way she knew her own footage. She had spent three winter mornings across the street from that crossing with a borrowed lens, filming a man warm a child's dropped mitten inside his coat and check an empty intersection twice out of a habit of care that had outlived the traffic. He was the reason the workshop had wanted her. She had two minutes of him that nobody else on the page would ever see, and she sat with the phone in the dark and did not comment, because there was no way to write *I have footage of him being kind* that was not also, underneath, about her.
 
 Her phone rang at 7:26. Mark's face appeared frozen at an angle that showed mostly ceiling. When the connection corrected, he sat on the edge of a hotel bed in his work shirt, a white smear of plaster across one shoulder.
 
@@ -262,7 +268,7 @@ Mark's eyes shifted toward her voice. "Tomorrow night. That's the plan."
 
 Claire leaned against the frame without laughing. She had changed into her own sweatshirt.
 
-The call continued until Mark repeated that tomorrow night was still the plan. By the end, the family almost sounded normal.
+The call continued until the connection began failing. By the end, the family almost sounded normal.
 
 When the screen went dark, Claire left first. Brooke waited for Sarah to mention the workshop or the laundry room. Sarah only said, "Good night," and followed her.
 

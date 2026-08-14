@@ -84,7 +84,7 @@ Brooke powered on the camera instead of answering. The battery showed forty-one 
 
 "It is Saturday morning," she said quietly. "I got home after the police and other people tried to return me. My mother let me in. Now she won't let me leave my room unless I leave the door open."
 
-She gave the date, then corrected herself when exhaustion made her say Saturday. The correction stayed in the recording. A trustworthy record did not pretend the witness was perfect.
+She gave the date and repeated it once to make sure the numbers were clear. A trustworthy record did not ask exhaustion to remember for her.
 
 "That is not what I said," Sarah called.
 
@@ -136,15 +136,23 @@ The dispatcher said, "Try to remain calm."
 
 "Right now."
 
-Keys clicked beneath the dispatcher's voice. "Your address is attached to an active missing-minor return. A unit has been notified. Do not antagonize your mother while you wait."
+Keys clicked beneath the dispatcher's voice. "The calling number and address match an active missing-minor return for Brooke Bennett. Is that you?"
+
+"Yes."
+
+"A unit has been notified. The weapon is still in the safe, correct?"
+
+"Yes. My mother knows the combination."
+
+"Tell me immediately if that changes. Do not antagonize her while you wait."
 
 "She can hear this."
 
-"That is all right."
+"Then keep your voice low if you can."
 
 Brooke gripped the phone. "No, it isn't."
 
-"Your mother may be experiencing separation distress. Staying inside with her is the safest immediate option."
+More keys. Then the dispatcher read in the flattened cadence of words supplied by a screen. "The return notes say the missing minor may resist reunification because of separation distress. Staying in a secured room is the safest immediate option while the weapon remains locked."
 
 The words matched the school handout.
 
@@ -156,29 +164,23 @@ The words matched the school handout.
 
 Sarah had gone completely silent.
 
-"Do not make any sudden attempt to leave. She is still your mother, Brooke."
+"Do not make any sudden attempt to leave while she is at the door."
 
-Brooke stopped breathing.
+Brooke stopped breathing. Her name had not come from recognition. It had arrived with the address, phone, and return file. The system had explained exactly how it knew her and made the knowledge worse.
 
-She had given the address. She had not given her name.
-
-"How do you know who I am?"
-
-The dispatcher did not answer the question.
-
-"Brooke, officers are managing multiple family-reunification calls. Your report is coded as a welfare return because the weapon remains secured. If your mother is calm, do not escalate the situation."
+"Officers are managing multiple family-reunification calls," the dispatcher said. "Your report is currently coded as a welfare return with a secured weapon. If the safe is opened or the weapon is moved, call back immediately and say that first."
 
 "You didn't send anyone."
 
-"A unit has been notified."
+"A unit is pending."
 
 "Is one coming?"
 
 A pause.
 
-"Reduced staffing has extended response times. Remain with your family."
+"Reduced staffing has extended response times. Remain in the secured room and call back if the weapon status changes."
 
-The call ended.
+The dispatcher told her she could disconnect to preserve the phone battery. Brooke ended the call.
 
 Brooke stared at the screen. Two percent battery.
 
@@ -188,11 +190,11 @@ The call log listed the address and duration. Brooke took a screenshot before th
 >
 > Separation distress.
 >
-> She is still your mother, Brooke.
->
 > Welfare return.
 >
-> Remain with your family.
+> Secured weapon.
+
+> Unit pending.
 
 The list sounded less frightening without the dispatcher's calm voice. Brooke saved it anyway.
 
@@ -376,23 +378,31 @@ The bedroom doorknob turned.
 
 "Brooke," Sarah called. "Move away from the window."
 
+Brooke dialed 911 again and put the call on speaker while she pulled Cooper toward the sill.
+
+"Weapon out of the safe," she said as soon as a new dispatcher answered. "My mother has the shotgun in the hall."
+
+The second voice sharpened. "I am upgrading the call. Stay away from the door. If you have a safe exit that does not take you toward her, use it now."
+
+Brooke pushed the phone into her coat pocket without ending the call.
+
 Brooke grabbed Cooper's harness and guided his front legs over the sill. He scrambled, nails striking wood, and Brooke pulled until his weight carried him onto the roof beside her.
 
 The door shuddered.
 
-"I don't want to hurt you," Sarah said.
+"I don't want to hurt you," Sarah said. "Stay below the window. I only need the latch."
 
 Brooke heard Sarah order Claire downstairs. Claire protested once, then her footsteps retreated toward the landing.
 
-Brooke crouched outside below the window line, one hand locked in Cooper's harness. From the hall, Sarah could hear the open window and the scrape of Cooper's nails. She knew Brooke was no longer standing behind the door.
+Brooke crouched outside below the window line, one hand locked in Cooper's harness. From the hall, Sarah could hear the open window and the scrape of Cooper's nails. She knew Brooke was no longer standing where she had been, but she could not know exactly where Brooke's body ended beyond the wall.
 
 "I'm opening it," Sarah said.
 
 The shotgun fired.
 
-Sarah fired low and diagonally through the latch-side jamb, away from the center of the room. The buckshot tore through wood, lock metal, and the front corner of the dresser before burying itself in the floor and side wall. The chair overturned. The damaged door kicked inward against the barricade.
+Sarah fired low and diagonally at the latch-side jamb, away from the center of the room where she believed Brooke had been. It was a guess made through wood. The buckshot tore through the jamb, lock metal, and the front corner of the dresser before striking the floor and side wall. The chair overturned. The damaged door kicked inward against the barricade.
 
-For an instant the room filled with powdered drywall and the bitter smell of burned propellant. A lamp fell from the dresser. Pellets struck the side wall in a pattern Brooke would later have been able to measure if later still belonged to her. Inside the backpack on the roof, the camera continued recording darkness, the gunshot, and Brooke's breath.
+For an instant the room filled with powdered drywall and the bitter smell of burned propellant. A lamp fell from the dresser. Pellets struck the side wall in a pattern Brooke would later have been able to measure if later still belonged to her. Inside the backpack on the roof, the camera continued recording darkness, the gunshot, Brooke's breath, and the dispatcher saying that shots had been fired and the call was now priority.
 
 Cooper tried to bolt down the roof. Brooke held him until the echo left the air.
 
@@ -416,7 +426,7 @@ She ran through the side gate and into the street.
 
 The backpack struck her spine with every step. The camera inside was still recording. Her phone, external drive, diner audio, gas-station video, and photographs remained with her. For once the evidence and the person who made it escaped together.
 
-A car alarm began shrieking two houses away. Porch lights came on. A man opened his front door, saw Sarah in the upstairs window with the shotgun, and disappeared inside again.
+A car alarm began shrieking two houses away. Porch lights came on. A man opened his front door, saw Sarah in the upstairs window with the shotgun, and disappeared inside with his phone already raised.
 
 No siren came. No cruiser turned the corner. The house remained lit behind Brooke, warm in every window.
 

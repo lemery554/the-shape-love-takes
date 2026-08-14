@@ -18,7 +18,7 @@ Maps each character's starting belief, the pressure applied across the month, th
 
 **Climax behavior:** In the one-night climax Brooke escapes the siege out the window with Cooper, runs down the street, and — when Anna's car appears — chooses to get in herself, then initiates the one closeness beat as they drive (Anna never reaches first). Per STORY_RULES Rule 15, Anna wins through consent, not force: even under terror, Brooke's own coping mechanism (trusting a curated, undemanding connection over messy family intimacy) is exactly what makes her run *to* Anna rather than away.
 
-**Ending state:** Alive, but the final journal-reading image — the same night — confirms to the reader, not fully to Brooke, that the rescue was engineered, not luck, and that Anna was studying her all along. Brooke's arc doesn't resolve into safety; it resolves into the same isolation that created her vulnerability, now confirmed rather than suspected.
+**Ending state:** Alive and no longer waiting for a camera, parent, or institution to define whether her experience is real. Brooke acts on her own evidence, escapes, keeps Cooper and the record with her, leaves Sarah's technically true plea unanswered, tests Anna's boundaries, and chooses the final embrace herself. That agency is Book One's emotional resolution, not proof of safety. The reader-only journal image confirms that the rescue was engineered and that Brooke's newly exercised capacity for chosen closeness has carried her into the continuation threat.
 
 ---
 
@@ -64,7 +64,7 @@ Maps each character's starting belief, the pressure applied across the month, th
 
 **Pressure / Choices / Reversals / Lowest point / Climax behavior:** Deliberately unresolved. Per TWI-001 and the MAIN_CAST dossier notes, inventing any of these risks implying a resolution STORY_RULES doesn't authorize. Recommend these fields stay blank in canon rather than filled for the sake of a template.
 
-**Ending state:** Unknown. This is intentional and permanent, not an oversight to fix later.
+**Ending state:** Unknown at the end of Book One. The family has made a reasonable hotel/employer verification attempt, and his small-sip voicemail materially helps Brooke care for Sarah, but neither fact resolves whether Mark is unchanged, changed, captive, dead, or voluntarily absent. The open fate is an intentional continuation promise, not missing current-volume causality.
 
 ---
 

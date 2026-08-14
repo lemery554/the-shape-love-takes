@@ -58,29 +58,17 @@ In the second, she wrote what she believed: Claire was watching. Claire wanted t
 
 The first column looked harmless. The second looked paranoid. Both described the same clip.
 
-Brooke spent the next hour testing the camera rather than Claire. She filmed herself in the hall at the same distance, with the same streetlight crossing the landing. Her eyes reflected gray. She moved the camera two inches and caught a weak green edge that vanished when she turned her head. She filmed Sarah carrying laundry. Brown eyes, then a white flash from the phone's automatic processing. Cooper's eyes returned a bright yellow-green in nearly every angle.
-
-The result should have closed the question. Cameras made eyes strange in darkness. Brooke knew that. She had corrected red-eye in family photographs since she was twelve.
-
-But Claire's single frame did not resemble the others. The color sat inside the pupil rather than across it, sharp at one edge and gone before the software adjusted the exposure. Brooke could explain it and remain afraid of it at the same time.
-
-She copied the original file to a memory card and put it in the small lockbox where she kept finished-film masters. Then she wrote the reproduction results beside the observation.
-
-*Could create green reflection on myself at a different angle. Not identical. This does not prove anything.*
-
-The sentence felt responsible. It also felt like a plea.
-
 She found the frame in a twelve-second hallway clip from two nights earlier. Claire stood at the dark end of the landing, looking toward the stairs while Cooper remained below. When Claire lifted her face, her eyes caught the weak streetlight and returned a greenish shine.
 
 Brooke stopped.
 
 One frame later, it was gone.
 
-She moved backward, then forward. The color appeared only once. It was not a glow. It could have been the sensor forcing detail out of darkness, a passing car, or the ordinary reflection cameras sometimes pulled from animal eyes and occasionally human ones at the wrong angle. Brooke exported the frame anyway.
+She moved backward, then forward. The color appeared only once. It was not a glow. It could have been the sensor forcing detail out of darkness, a passing car, or an ordinary reflection at the wrong angle.
 
-She searched the other clips and found nothing she trusted. Twice she thought she saw the same color, but enlarging the image broke it into compression blocks. Green became gray when she changed the monitor brightness. A shape at the edge of Claire's pupil vanished when Brooke stopped wanting it to be there.
+Brooke spent the next hour testing the camera rather than Claire. Her own eyes reflected gray, then caught a weak green edge when she changed the angle. Sarah's flashed white under the phone's automatic processing. Cooper's returned yellow-green almost every time. Cameras made eyes strange in darkness. Claire's frame still looked different, the color sharp inside the pupil, but looking different was not proof.
 
-One frame was not proof.
+She copied the original file to the lockbox card and wrote one line beside the observation: *One frame reflected green. Could be the camera.*
 
 That evening she tried to reproduce it.
 
@@ -207,8 +195,6 @@ Downstairs, Claire laughed at something Sarah said. The sound was warm and famil
 Brooke considered showing Sarah the frame and the audio. She could already hear the reasonable answers: cameras invented color in darkness; a girl alone in her sister's room might say her sister's name, or tell her to wait, or talk to herself. Sarah would be right about the evidence even if she was wrong about Claire.
 
 Brooke saved the original hallway clip and the accidental bedroom recording. She did not label either as proof. In *Things I Have Seen*, she added:
-
-*One frame reflected green. Could be the camera.*
 
 *She may have said wait when she thought she was alone. Audio unclear.*
 

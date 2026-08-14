@@ -72,9 +72,7 @@ Anna did not reach for his leash.
 
 Sarah came closer. "It isn't safe out here."
 
-That was true.
-
-Brooke climbed into the car.
+It was true. Brooke climbed into the car anyway.
 
 She pulled the seat forward and Cooper climbed into the back, dragging the sore paw. He turned twice without lying down.
 
@@ -97,6 +95,8 @@ Brooke watched the Bennett house shrink in the side mirror.
 Claire remained on the porch. Sarah stood in the street. The shotgun was no longer visible. For one second they looked like a mother and daughter watching someone leave for an ordinary trip.
 
 Then the trees hid them.
+
+Far behind, a siren rose on another road. It had come after the shot, after the neighbor saw the gun, after Brooke was already in a stranger's car. Whether it was finally coming for the Bennett house or passing toward another emergency, Brooke could not tell.
 
 Brooke's phone vibrated.
 
@@ -160,7 +160,7 @@ For the first time, Anna sounded frustrated. The single word came too quickly, a
 
 Anna's jaw tightened. "You are hurt and exhausted."
 
-"That's true and not an answer."
+"That's true. You're avoiding it."
 
 "Yes."
 

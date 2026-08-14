@@ -11,6 +11,7 @@ This plan converts the post-draft character audit into chapter-level development
 - Give her a recognizable school and social life without adding romance.
 - Track guilt over filming Claire, accusing Claire, and using Sarah's love to gain entry.
 - Make her choice of Anna consciously desperate rather than naive.
+- Root her documentation compulsion in grief (issue #80): the death of Mr. Alvarez, the subject of her application film, teaches her that footage is the only thing that has ever kept anyone. This drives her inability to stop recording Claire and her need to read Claire's survival as miraculous, and it deepens her fear each time Mark's contact degrades.
 
 ### Chapter placements
 

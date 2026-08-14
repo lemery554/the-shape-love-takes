@@ -1,10 +1,10 @@
 # Chapter 10: What They Remember
 
-In less than a week, the house had learned a new shape around Claire.
+In less than a week the following had stopped being news.
 
-The old shape had corners a person could stand in alone. Brooke could edit at her desk while Claire watched something in her room, and the two activities happened in separate parts of the day without anyone deciding they should. That house was gone. In its place was one where Claire appeared in doorways. She did not announce herself or ask for anything. She arrived the way weather arrived, and then she stayed, humming under her breath in a way that had once been occasional and was now a thing the house did.
+Brooke no longer turned and startled to find Claire in a doorway. That was the part she could not explain to Sarah, and had stopped trying to: that her own alarm had a half-life, that a thing could frighten her on Monday and be furniture by Thursday, and that the fading was not the danger passing but the danger settling in. Sarah called it getting used to her sister again. Claire had found something quieter than standing in doorways anyway. She had begun reaching back for things that were not in any of Brooke's footage and finding them exactly where she had left them.
 
-That afternoon, Brooke came out of the bathroom and found Claire sitting against the wall in the hall, knees drawn up, waiting. Cooper lay at the far end near the stairs with his chin on his paws, watching both of them.
+That afternoon Brooke came out of the bathroom and found Claire sitting against the wall in the hall, knees drawn up, waiting. Cooper lay at the far end near the stairs, chin on his paws, watching them both.
 
 "You were in there a long time," Claire said.
 
@@ -212,6 +212,4 @@ She stopped the recording. She sat on the closed lid of the toilet for a while w
 
 Then she took out her phone and opened *Things I Have Seen*.
 
-*They remember everything.* She thought of Claire counting breaths in the dark, a memory that lived nowhere but inside the two of them. Claire might only have wanted to remind her that she had once been welcome. Brooke could not tell where remembering ended and pressure began.
-
-Upstairs, faint through the floor, Claire was still humming.
+*They remember everything.* She thought of Claire counting breaths in the dark, a memory that lived nowhere but inside the two of them, on no card in the lockbox, in none of the footage she had spent her life keeping. It was the one thing she could not hold up to the light or hand to Sarah. Claire might only have wanted to remind her that she had once been welcome. Brooke could not tell where remembering ended and pressure began, and she was no longer sure the two could be separated.

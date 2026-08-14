@@ -120,11 +120,11 @@ The sentence made Brooke stand.
 
 Brooke left before the bell.
 
-In the bathroom, she searched her own name. A local discussion board had posted the neighborhood where the Bennetts lived, narrowed from the school bus route visible in an old snow-day video. The exact house was not listed. In the replies, one person claimed to know it.
+In the bathroom, she searched her own name. A local discussion board had posted the neighborhood where the Bennetts lived, narrowed from the school bus route visible in an old snow-day video. One reply named Sarah and Mark and linked a county property record. The board had hidden the link, but its cached preview still showed the front windows, the split maple by the walk, and enough of the street number for Brooke to recognize her own house. Another person claimed to have driven past it.
 
 Brooke reported the post. The automated response thanked her and said location context did not necessarily violate policy unless it included a precise address or credible threat.
 
-She sent Sarah a screenshot.
+She sent Sarah one screenshot containing the post, preview, and time.
 
 Sarah called immediately.
 
@@ -140,7 +140,9 @@ Sarah called immediately.
 
 The fear in Sarah's voice was real. It was also useful to whatever part of her wanted Brooke contained. Brooke hated that she could no longer separate those truths.
 
-The exterior doors near the gym were locked. A security officer asked where she was going.
+The exterior doors near the gym had been locked from a panel Brooke could not reach. She pushed the bar anyway, out of disbelief more than hope, and it gave the flat quarter inch of a door that was not going to open. A security officer stood a few feet back, polite and unbothered, a laminated card clipped to his jacket.
+
+"Where are you headed?"
 
 "Home."
 
@@ -150,7 +152,7 @@ The exterior doors near the gym were locked. A security officer asked where she 
 
 "That's not approval."
 
-Brooke showed him the counselor message and said she felt sick. The officer directed her to the nurse instead of opening the door.
+Brooke showed him the counselor message and said she felt sick. He nodded like a man who had been told this might happen and directed her to the nurse. He did not open the door. He was still standing beside it when she looked back from the end of the hall.
 
 At Student Services, the counselor spoke about harassment, family privacy, and how public attention could distort judgment. She recommended Brooke take a forty-eight-hour break from uploading and asked whether Sarah could pick her up.
 
@@ -286,7 +288,7 @@ The answer was narrow enough to be truthful and broad enough to leave Brooke now
 
 Brooke closed the bedroom door and knelt at the foot of the bed. The keepsake box was pushed beneath the frame, where it always stayed. She drew it out.
 
-Inside were birthday cards, old film-festival programs, the adoption folder, and the blue journal. The slim paper container holding copies of her adoption documents was not fully closed. One corner of the lid rested above the clasp.
+Inside were birthday cards, old film-festival programs, and the adoption folder. The slim paper container holding copies of her adoption documents was not fully closed. One corner of the lid rested above the clasp.
 
 Brooke lifted it. The papers inside appeared untouched: amended birth certificate, agency summaries, copies Sarah had given her when she turned sixteen. Beneath them was the envelope containing the original letter from her biological mother.
 
@@ -300,7 +302,9 @@ There was no footage of the room. No timestamp. No way to prove whether anything
 
 Downstairs, Sarah called that dinner was ready.
 
-Brooke closed the adoption container carefully and pressed the clasp until it clicked. She took photographs of the box, the drawer, the dresser, and the bedroom door. Then she tore a sliver from the blank edge of a sticky note, laid it across the keepsake-box seam, and photographed that too. It would fall if someone lifted the lid.
+Brooke closed the adoption container carefully and pressed the clasp until it clicked. Then she crossed to the desk, drew the blue journal from beneath the notebooks in the bottom drawer, and set it inside the keepsake box beside the adoption folder. If someone had been standing in her room, the things she could not replace belonged together, in one place she could seal.
+
+She took photographs of the box, the drawer, the dresser, and the bedroom door. Then she tore a sliver from the blank edge of a sticky note, laid it across the keepsake-box seam, and photographed that too. It would fall if someone lifted the lid.
 
 She wedged an old phone behind the books on her desk with its camera facing the room. The battery would not last all day, but it could record while they were gone.
 

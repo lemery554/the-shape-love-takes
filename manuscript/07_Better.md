@@ -8,7 +8,7 @@ Sarah carried the discharge folder, two plastic bags, and the gray blanket. Broo
 
 Her voice sounded like hers again.
 
-The discharge nurse had called the improvement typical. Continue fluids. Offer bland foods. Return for confusion, persistent vomiting, or inability to drink. Follow up with the pediatrician. The printed page described a gastrointestinal illness and did not mention the red treatment beyond a handwritten time.
+The discharge nurse had called the improvement typical. Continue fluids. Offer bland foods. Return for confusion, persistent vomiting, or inability to drink. Follow up with the pediatrician. The printed page described a gastrointestinal illness. Under medications, the red treatment appeared only as the same emergency-formulary code, a handwritten time, and *pending reconciliation*. There was no product name or batch number for Sarah to ask about.
 
 At home, the kitchen smelled faintly of coffee left in the pot and the lavender cleaner Sarah used on the counters. Cooper waited behind the gate. His tail moved when Sarah entered, faster when he saw Brooke, then stopped when Claire stepped through.
 
@@ -133,6 +133,10 @@ The upload began collecting comments before dinner. The first criticism that sta
 She reopened the project instead and watched the cut as if someone else had made it. The hospital employees were unidentifiable. The children in the waiting room appeared only as shoes, blankets, and hands. Claire's face showed for eleven seconds. Brooke had chosen the seconds in which she looked sick enough to prove the story and well enough that posting her did not feel cruel.
 
 That choice bothered Brooke more than the comment.
+
+Before she closed the laptop she opened a different file, one she had not touched since the workshop email. Two minutes of a crossing guard in gray snow. She watched it with the sound off, the way she watched everything she was afraid of. Mr. Alvarez warmed the mitten. He checked the empty intersection twice. He waved at the bus driver who never waved back, and the film ended, and he was still dead.
+
+She could not have said it out loud, but she understood it while the last frame held. She filmed people because film was the only thing that had ever kept anyone. The hard drive that died when she was twelve had taken four months she never got back, and some wordless part of her had promised it would not happen again, and it kept happening anyway, to Mr. Alvarez, maybe to her father on the far end of a failing call. The camera did nothing to stop it. It only made the loss legible afterward. That was the part of the truth she had been hiding from herself while she pointed the lens at Claire and called it evidence. It was not only suspicion. She had her sister back, and she was going to keep every frame of her this time, because keeping might be the only kind of saving she was going to get.
 
 She carried the laptop to Claire and paused before the first hospital shot. "Watch this."
 

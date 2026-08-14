@@ -5,6 +5,7 @@
 | ID | Reveal supported | Earlier clue | First-read interpretation | True meaning | Timing | Status |
 |---|---|---|---|---|---|---|
 | AN-01 | Anna accessed the house | An old family video clearly shows the keypad while someone enters the code; Brooke recognizes the breach, makes the clip private, and demands a reset, but Sarah cannot immediately change it without Mark's installer credentials | Brooke believes privacy plus a delayed service call may contain the mistake | Anna saved the still-active code before the privacy change and uses it twice | Archive established Day 1; Anna saves it Day 17; entries Days 20-21 | Locked |
+| AN-01A | Anna identified the exact house | Brooke finds a local post that narrows her neighborhood from a public snow-day bus route; a cached county-property preview tied to Sarah and Mark shows recognizable frontage and part of the street number | General doxxing and reporter risk | Anna can correlate Brooke's public identity to the exact house, then observe school/work departures | Public discovery visible Day 20; available to Anna earlier | Locked |
 | AN-02 | Anna entered the house | Brooke notices the adoption-papers container left slightly ajar; Cooper is agitated, his water bowl is overturned, and damp paw prints end near the front door | Claire, family disorder, or an unsettled dog | Anna searched the home while Brooke was at school, avoided or waited out Cooper, and did not harm him | Monday Day 20 | Locked |
 | AN-03 | Anna took the journal | Brooke cannot find her old journal and assumes Claire took it | Claire's escalating boundary violation | Anna removed it during the house visit | Tuesday Day 21 | Locked |
 | AN-04 | Anna studied Brooke online | Anna repeats Brooke's own phrasing | Empathy or family resemblance | She learned Brooke's emotional language from videos | Day 24 diner; Day 25 car | Drafted |
@@ -16,7 +17,7 @@
 | AN-10 | Anna still receives guidance | No final explicit fragment is required | Her patience remains humanly interpretable | The whispers continue without becoming a visible instruction system | Not directly paid off | Optional and restrained |
 | AN-11 | Anna is still studying Brooke | Anna rereads the beach memory while Brooke sleeps and Cooper watches | Final image | Her understanding remains researched and unfinished | Day 25 early morning | Locked image and drafted prose |
 | EM-01 | Claire's original personality persists in fragments | Brooke and Claire remember playing in beach sand | Ordinary happy sister memory | The memory becomes an emotional route through the dominant presence | Setup Days 1-3; payoff Day 13 | Days locked; chapters open |
-| IN-01 | Public systems are already compromised | The 911 dispatcher uses Brooke's name from the active missing-minor return | Automated competence or surveillance | A functioning system has reclassified confinement as family reunion | Day 25 dawn | Locked |
+| IN-01 | Public systems are already compromised | The 911 system supplies Brooke's name from the calling number, address, and active missing-minor return, then keeps the first call in a welfare-return queue while the weapon is secured | Automated competence and ordinary triage | A functioning system has reclassified confinement as family reunion; a second call upgrades only after Sarah removes the gun | Day 25 dawn | Locked |
 
 ## Fairness test
 

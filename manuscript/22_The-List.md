@@ -14,31 +14,9 @@ The comments had changed too. The frightened reports were still there if she sor
 
 *Brooke's mother is trying to keep her safe.*
 
-Brooke took screenshots until her phone storage warning appeared. Then she opened the private observation file and read everything from the beginning.
+Brooke took one dated screenshot of each search state, then stopped when her phone storage warning appeared. The largest files were ordinary family footage cached in three places: Claire dancing in the kitchen, Mark showing her how to change a light fixture, Sarah laughing after dropping a pancake.
 
-The warning said she had less than five hundred megabytes left. Brooke opened the storage manager and found that the largest files were ordinary family footage cached in three places: Claire dancing in the kitchen, Mark showing her how to change a light fixture, Sarah laughing after dropping a pancake.
-
-Deleting any of them felt like cooperating with the thing happening to the house.
-
-She transferred the originals to the external drive, verified three random clips, then removed the phone copies. The available-storage number climbed. Brooke wrote the drive's contents on an index card and slipped it into the camera bag.
-
-> **DRIVE A**
->
-> Original hospital footage
->
-> Upload masters 1 through 6
->
-> Family archive selections
->
-> Observation file
->
-> Mark calls and voicemails
->
-> Keypad-video copy
->
-> Bedroom and keepsake photographs
-
-She copied the observation file to the camera card and her old phone too. Three copies in the same house were not real backup, but cloud storage felt like handing the files to the same systems already burying her uploads.
+Deleting any of them felt like cooperating with the thing happening to the house. She moved the verified originals, hospital footage, uploads, Mark calls, keypad clip, and observation file onto the external drive, then put a second copy of the observation file on the camera card. Three copies in the same house were not real backup, but cloud storage felt like handing the files to the systems already burying her uploads.
 
 *Dogs notice first.*
 
@@ -60,7 +38,7 @@ She added:
 
 *Direct pursuit makes me run.*
 
-The sentence sounded obvious. It also felt important enough that she copied the file to the camera card again.
+The sentence sounded obvious. It also felt important.
 
 Cooper lay beneath the desk with his shoulder against her ankle. When Sarah passed the open door carrying folded towels, he raised his head and watched until she disappeared into the bathroom.
 
@@ -119,6 +97,30 @@ The local news site had replaced its red banner with pale blue. The lead story s
 Farther down, a smaller article reported that police response times had increased because of illness and staffing reassignments. The police chief asked residents to reserve emergency calls for immediate physical danger and to resolve "family separation concerns" through the reunification desk.
 
 Brooke saved both pages. The first told people how to feel. The second explained why help might not come.
+
+Downstairs, Sarah's phone rang, and Brooke heard her answer in the careful voice she used for people she did not know.
+
+Brooke came to the top of the stairs.
+
+"Yes, this is her mother." A pause. "They're both here. We've all been home." A longer pause, Sarah's tone staying pleasant, almost grateful. "Of course. I can confirm that."
+
+She confirmed the address. She confirmed that Claire had been discharged from Saint Vincent's and that she herself had recovered without complications. When the voice on the other end asked, she spelled Brooke's name, gave her date of birth, and said yes, seventeen, still at home, still enrolled. She wrote something on the pad by the toaster and read it back to make sure she had it right.
+
+"Who was that?" Brooke asked when she hung up.
+
+"Family Reunification. They're confirming everyone made it home after discharge." Sarah looked pleased to have an answer that was entirely true. "The hospital forwards the records. I filled in the parts they were missing."
+
+"They were missing my birthday."
+
+"They asked for it."
+
+"They didn't have it before. Now it's in a file with our address."
+
+Sarah glanced at the pad, where a case number sat in her neat handwriting, then moved her coffee cup over it without appearing to decide to. "It is a desk that helps families find each other. That is all it is."
+
+That was the part no one would hear from her. The desk was exactly what it claimed to be. It was staffed by someone polite, working from real discharge records, and it had just opened a file on a girl who had told the internet she wanted to leave a house she was afraid of. None of it had to be sinister to close around her. It only had to be efficient, and to treat a person trying to leave as a family it had not finished bringing home.
+
+Brooke went back upstairs with the case number memorized and nowhere to put it.
 
 Brooke searched *someone entered my house after recovery*.
 

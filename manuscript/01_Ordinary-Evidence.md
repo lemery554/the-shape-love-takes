@@ -52,7 +52,7 @@ Brooke lowered the phone a few inches. "Is everything okay?"
 
 The answer came easily enough, but Sarah pressed the spatula flat against the pan after she said it, as if the pancake required more authority than she had already applied.
 
-Mark had been in Albany since Monday, rewiring part of an old hotel that its owners wanted to call historic whenever the age helped them and outdated whenever it did not. He was supposed to come home Thursday. Yesterday, the return had moved to Friday night. Now, apparently, the job had run long again.
+Mark had been in western Pennsylvania since Monday, rewiring part of an old hotel that its owners wanted to call historic whenever the age helped them and outdated whenever it did not. He was supposed to come home Thursday. Yesterday, the return had moved to Friday night. Now, apparently, the job had run long again.
 
 "Did he say when?" Brooke asked.
 
@@ -238,7 +238,7 @@ Brooke shut her locker. "Did she also predict the part where I leave you to be r
 
 Claire smiled and started toward the exit, apparently certain Brooke would follow. She did.
 
-The quickest route home cut behind the athletic fields, through a narrow path between two developments, then along Hawthorn Road. Claire narrated most of it without requiring an audience. Her science teacher had worn two different shoes. Someone named Lila had cried in the bathroom and refused to explain why. The cafeteria pizza had achieved a texture Claire believed violated federal law.
+The quickest route home cut behind the athletic fields, through a narrow path between two developments, then along Hawthorne Road. Claire narrated most of it without requiring an audience. Her science teacher had worn two different shoes. Someone named Lila had cried in the bathroom and refused to explain why. The cafeteria pizza had achieved a texture Claire believed violated federal law.
 
 At the edge of the athletic field, Claire stopped to retie a shoe that was not untied. Brooke waited while the soccer team ran drills under lights that had come on too early in the gray afternoon.
 

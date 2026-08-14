@@ -2,7 +2,7 @@
 
 **Status:** Completed after Developmental Rewrite A through E  
 **Scope:** Prologue through Chapter 29 and active canon/planning files  
-**Result:** No unresolved critical or major continuity defects
+**Result:** No unresolved critical or major continuity defects after the Phase 6 correction pass
 
 ## Severity key
 
@@ -22,6 +22,9 @@
 | Major | Active planning files | Anna's knowledge matrix, clue ledger, trust ladder, house map, institutional timeline, and ending plans retained superseded Day 18/19 and Day 23/24 labels. | Synchronized active files to Days 20/21 for entries and Days 24/25 for diner and ending. |
 | Minor | Chapter 18 | Sarah's stated next-morning office check-in would have placed a school/work sequence on Saturday. | Changed the check-in to Monday morning. |
 | Minor | Chapter 23 | Escape preparation called itself Friday even though the diner is explicitly Friday evening and follows the preparation day. | Changed preparation to Thursday. |
+| Critical | Chapters 1-2 and 7 | Mark's job was alternately in Albany and western Pennsylvania, and one line placed his hotel only two hours away. | Canonicalized the historic-hotel job in western Pennsylvania and several-states-away travel constraints. |
+| Major | Chapter 27 | Brooke correctly said Saturday, Day 25, but narration treated Saturday as her exhausted error. | Preserved Saturday and removed the false correction. |
+| Major | Chapters 1, 3, 25, 28 and ending maps | The pickup road alternated between `Hawthorn` and `Hawthorne`. | Standardized `Hawthorne` across manuscript and active continuity files. |
 
 ## Verified systems
 
@@ -30,7 +33,7 @@
 - Brooke remains seventeen, adopted, unaffected, and never biologically special.
 - Claire remains thirteen, never harms Cooper, and receives only one strong beach-memory fragment.
 - Sarah's purge completes before her clear waking at 2:16; all later control is consistent with her changed state.
-- Mark's communication degrades from calls to delayed messages and voicemails, then stops without resolving his fate.
+- Mark remains at the western-Pennsylvania hotel job; communication degrades from calls to delayed messages and voicemails, then stops without resolving his fate. The hotel and contractor verification attempt cannot establish his current condition.
 - Everyone who completes the purge changes; no cure or full recovery appears.
 - Changed people sleep, eat, drink, drive, remember, use tools, feel pain, and ignore self-preservation consistently.
 
@@ -57,7 +60,7 @@
 - School remains open and shifts from attendance normality to family-support containment.
 - Hospitals remain functional while prioritizing reunion and discouraging separation.
 - Platforms retain Brooke's videos while reducing discoverability and emphasizing official guidance.
-- Police and 911 operate through ordinary records and policy; the missing-minor return explains Brooke's identification.
+- Police and 911 operate through ordinary records and policy; calling number plus address surface the missing-minor return and explain Brooke's identification. The first call remains a queued welfare return only while the weapon is secured; the second call upgrades after Sarah accesses it.
 - No visible hive coordination is required for the pursuit.
 
 ## Intentionally unresolved
@@ -68,7 +71,7 @@
 - Whether police later reach the Bennett house.
 - The long-term destination after the motel.
 - The wider outbreak trajectory.
-- Standalone versus sequel-capable positioning.
+- Book One continuation threads remain open by explicit author decision; current-volume escape and agency form the emotional resolution.
 
 ## Final verification
 

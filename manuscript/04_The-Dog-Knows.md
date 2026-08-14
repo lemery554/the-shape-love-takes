@@ -94,6 +94,8 @@ Sarah's phone buzzed beside her bowl. She read a message, set the phone facedown
 
 Sarah coordinated schedules for a regional property-management company. On ordinary weekends, somebody always lost a key or reported water where water did not belong. Today the calls had been about employees refusing to enter apartments where tenants were vomiting, cleaners asking whether ordinary gloves were enough, and a building manager who wanted permission to close a shared laundry room.
 
+One message Sarah did not read aloud. A tenant in the Merrow Street building, an old man who had complained about those radiators every winter Brooke had been alive, had been found that morning when a wellness check went in. Sarah wrote the unit number on her pad, drew a line under it, and did not say his name at the table. She stood to refill a glass of water nobody had asked for and rested her hand on the back of Claire's chair on the way past, then Brooke's, the way a person counts stairs in the dark.
+
 "Are they sick?" Claire asked.
 
 "Some of them have family who are."

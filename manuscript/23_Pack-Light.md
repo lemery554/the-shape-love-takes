@@ -10,17 +10,15 @@ She packed everything beneath a layer of schoolbooks and left the bag where it a
 
 The obvious things were too dangerous to take. The framed beach photograph would leave a clean rectangle in the dust. The keepsake box was locked and Sarah had the key. Brooke could not take every hard drive without Sarah noticing the empty shelf.
 
-She copied the chemistry folder, observation list, hospital footage, and family recordings onto one external drive. The progress bar crawled while Claire moved around in the room across the hall.
-
-When it finished, Brooke disconnected the drive and tested it on the old laptop beneath her bed. The folder opened. The hospital clips played. Mark's final voicemail still contained the single word that might have meant home.
-
-She renamed nothing. Descriptive filenames could become a map for whoever opened the drive. Instead she created a plain text inventory on the old laptop, printed one copy, and deleted the document. The paper went beneath the lining of the camera bag.
+She copied the chemistry folder, observation list, hospital footage, and family recordings onto one external drive, then opened several files on the old laptop to verify the copy. Mark's final voicemail still contained the single word that might have meant home. She left the dated filenames unchanged and slipped a paper inventory beneath the camera-bag lining.
 
 Her phone held the diner address, Anna's messages, and every current contact. Brooke turned off location sharing with Sarah, then discovered the family safety app would notify Sarah of the change. She left it on.
 
 Instead she disabled mobile data and practiced turning it back on from the lock screen. The map to the diner was simple enough to remember. She would use airplane mode after leaving and accept that the gap itself would tell Sarah she had gone.
 
 There was no invisible way out of a family that monitored her for love.
+
+She thought of the stool moved against the wall in chemistry, of the crossing guard whose whole remaining life now fit in two minutes at the bottom of a folder, of her father's voice breaking into squares and then into nothing. Leaving people was how you lost them. She knew that the way she knew her own footage, and she was packing the bag anyway, choosing to be the absence this time, because the alternative was a house where love had learned to lock the doors. She did not know how to dread losing the people she had and plan to leave them in the same hour. The backpack did not get lighter for the trying.
 
 Sarah had decided they were all staying home again.
 
@@ -108,19 +106,7 @@ The sound had been the metal file cabinet beside the safe, not the safe itself.
 
 Brooke closed the window. Her pulse did not slow.
 
-She added the route to the observation file, then deleted the entry. If Sarah searched the laptop, Brooke would be writing her own instructions for capture.
-
-Instead she recorded the path with her camera, pretending to test exposure. Window latch. Roof angle. Trellis. Fence gate. Back road.
-
-She filmed Cooper sitting beside the backpack.
-
-"This is not a plan," she whispered.
-
-His ears lifted.
-
-"It's evidence that I had one."
-
-She stopped recording.
+She started to add the route to the observation file, then erased it. If Sarah searched the laptop, Brooke would be writing her own instructions for capture. She memorized the sequence instead: window latch, roof angle, trellis, fence gate, back road.
 
 Brooke checked Cooper's harness and packed the collapsible bowl beside two sealed water bottles. He watched every item disappear into the bag and began panting although the room was cold.
 
@@ -134,8 +120,6 @@ Cooper licked her chin and sneezed.
 
 She added a small towel, antiseptic wipes, and the roll of gauze Sarah kept in the upstairs bathroom. The items made the backpack heavier and the plan more real.
 
-Then she watched the clip once, understood that it was a map for anyone who found the camera, and deleted it. She emptied the camera's trash folder too. The route would have to stay in her head.
-
 At three, Sarah returned the tiny brass key.
 
 She placed it on Brooke's dresser. "I shouldn't have taken this."
@@ -148,7 +132,7 @@ Brooke looked from the key to her mother. "Why are you giving it back?"
 
 "It is the answer."
 
-Sarah remained by the doorway, not entering farther. Her apology looked sincere. It was also useful. Both things could be true.
+Sarah remained by the doorway, not entering farther. Her apology looked sincere. It was also useful, and Brooke had stopped believing the two canceled each other out.
 
 "The keypad company is sending someone Monday morning," Sarah said.
 
