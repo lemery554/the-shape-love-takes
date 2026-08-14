@@ -44,6 +44,8 @@ Downstairs, a cabinet closed. Then another. Sarah had been moving around the kit
 
 Brooke saved screenshots of the most specific reports. She made columns for dogs, sleep, doors, and what happened when someone tried to leave. The comments did not produce rules. They produced repetition, which was more useful and more frightening.
 
+She gave the official numbers a column too, because numbers were the one kind of source she trusted to lie in a consistent direction. The state dashboard reported recoveries above ninety percent and climbing, and it reported them the way a store reports sales, a single rising figure with nothing underneath it. An ordinary illness left a long ragged tail: the mildly sick, the slowly mending, the ones who felt off for weeks. This one did not. People went into the column marked recovered or they did not come out at all, and the recovered number had not so much as flinched when the red treatment was rushed to every hospital in the state, which was not how a number moved when a treatment was the reason it moved. Brooke did not know what the shape of the data meant. She only knew, the way she knew a doctored timestamp, that it was the wrong shape for the story printed over it.
+
 A direct message from a nursing assistant said discharge staff had begun calling family proximity "recovery support." Brooke saved it with the others.
 
 She looked toward Claire. Her sister's head rested against the chair back at an angle that would hurt when she woke. The bandage on her hand was clean. In sleep, her face looked younger and less arranged.
