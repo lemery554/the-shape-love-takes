@@ -6,7 +6,7 @@ All chapters default to dense commercial-novel paragraphing. Avoid isolated narr
 
 ## Current manuscript
 
-All listed chapters have completed the accepted AI-assisted Phase 7 line edit. The author also accepted the separate AI-assisted copyedit at manuscript commit `13a9783`. Neither pass is a professional human edit. The final copyedit style sheet is `planning/PHASE_7_COPYEDIT_STYLE_SHEET.md`; PR #97 remains to be merged before production-manuscript designation.
+All listed chapters have completed the accepted AI-assisted Phase 7 line edit. The author also accepted the separate AI-assisted copyedit at manuscript commit `13a9783`. Neither pass is a professional human edit. The final copyedit style sheet is `planning/PHASE_7_COPYEDIT_STYLE_SHEET.md`; PR #97 merged, and merged commit `44e1ed3` is the exact `PRODUCTION MANUSCRIPT`.
 
 - `00_Prologue.md`: developmental rewrite A
 - `01_Ordinary-Evidence.md`: developmental rewrite A

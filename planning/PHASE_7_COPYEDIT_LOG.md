@@ -79,6 +79,6 @@ Codex reconciled definite corrections, queries, and protected ambiguity against 
 - [x] `git diff --check` passes
 - [x] Exact word counts recorded: 63,008 to 62,961 (-47)
 - [x] Author accepted manuscript commit `13a9783` on 2026-08-14
-- [ ] Exact accepted commit designated as `PRODUCTION MANUSCRIPT`
+- [x] Merged commit `44e1ed3` designated as the exact `PRODUCTION MANUSCRIPT` on 2026-08-14
 
-Issue #30 must remain open until PR #97 is merged and the exact production-manuscript commit is recorded.
+PR #97 merged on 2026-08-14. Issue #30 may close with the accepted and merged production manuscript recorded.

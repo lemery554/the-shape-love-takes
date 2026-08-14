@@ -1,6 +1,6 @@
 # Post-Draft Workflow
 
-The first draft, major developmental rewrite, and Phase 6 structural revision are complete. The Phase 5 AI-agent simulated evaluation did not constitute human beta-reader validation. The author approved manuscript commit `182f96e` as the `LINE-EDIT CANDIDATE` on 2026-08-14 and accepted the explicitly AI-assisted line-edit manuscript at `c622787`. The author accepted the separate AI-assisted copyedit and final style sheet at manuscript commit `13a9783` on 2026-08-14. Neither pass is a professional human edit. PR #97 remains to be merged before production-manuscript designation.
+The first draft, major developmental rewrite, and Phase 6 structural revision are complete. The Phase 5 AI-agent simulated evaluation did not constitute human beta-reader validation. The author approved manuscript commit `182f96e` as the `LINE-EDIT CANDIDATE` on 2026-08-14 and accepted the explicitly AI-assisted line-edit manuscript at `c622787`. The author accepted the separate AI-assisted copyedit and final style sheet at manuscript commit `13a9783` on 2026-08-14. Neither pass is a professional human edit. PR #97 merged, and merged commit `44e1ed3` is the exact `PRODUCTION MANUSCRIPT`.
 
 ## Completed foundation
 
@@ -34,5 +34,5 @@ The first draft, major developmental rewrite, and Phase 6 structural revision ar
 - **#93:** Shotgun climax causal bridge and physical credibility
 - **#94:** Book One positioning and current-volume closure
 
-The exact `LINE-EDIT CANDIDATE` is `182f96e`, the accepted line-edit manuscript is `c622787`, and the accepted copyedit manuscript is `13a9783`. Merge PR #97 next. Then record the merged manuscript as the `PRODUCTION MANUSCRIPT` and complete #30. Publishing-route, production, proof, distribution, launch, and post-launch work remain tracked in the publishing roadmap issues.
+The exact `LINE-EDIT CANDIDATE` is `182f96e`, the accepted line-edit manuscript is `c622787`, the accepted copyedit manuscript is `13a9783`, and the merged `PRODUCTION MANUSCRIPT` is `44e1ed3`. Phase 7 is complete. Publishing-route, production, proof, distribution, launch, and post-launch work remain tracked in the publishing roadmap issues.
 
