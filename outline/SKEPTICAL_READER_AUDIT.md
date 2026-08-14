@@ -71,6 +71,31 @@ The manuscript is durable. The developmental rewrite, the continuity and canon a
 - **TWI-007 (journal contents):** clarified in `planning/BACKLOG.md` so the journal holds Brooke's *copy* of the letter while the *original* envelope stays with the adoption papers in the keepsake box. This is the load-bearing distinction behind finding 1.
 - **Journal location across Days 20–21:** the drawer-to-box move is now explicit in Chapter 19, so the object's path is single-valued from Chapter 14 (drawer) to Chapter 19 (moved to box) to Chapter 20 (stolen from box).
 
+## Recheck (2026-08-13): grief layer, Expansion F, and the hidden-model seeds
+
+Adversarial recheck focused on everything added after the original audit: the #80 mortality/grief layer, Developmental Expansion F (batches 1-4), and the hidden-infection-model seeds. **Result: pass, no manuscript changes required.**
+
+### Over-explanation (the top risk) — held
+The hidden model is never named or explained on the page. The three closest-to-the-line additions were challenged and cleared, because each stays behavioral, felt, or inferential rather than diagnostic:
+- **Ch 6 recovery-threshold binary** ("no third kind of patient... the middle, where recovery was supposed to live, was empty") — Brooke's pattern-observation, in character for a source-auditor; states a dread-fact, not a cause.
+- **Ch 15 numbers breadcrumb** — explicitly hedged ("Brooke did not know what the shape of the data meant"). It flags an anomaly for a future reveal; it does not conclude the treatment is useless. Fair-play, and pre-seeded by Ch 6's existing "not been established to shorten the underlying illness."
+- **Ch 21 "whatever was wearing her mother"** — dread-metaphor consistent with established Brooke-perception (the "There you are" changed Sarah) and the silent-coordination canon; asserts no mechanism.
+
+### The reader/Brooke knowledge gap — preserved and strengthened
+The additions keep the crucial gap: the reader assembles "recovery is wrong," while Brooke reaches only the behavioral truth and can never prove it (Ch 17 "could not prove they were not the same person," Ch 20 "the record never once took her side"). Brooke is the one who sees, not the one who can prove. That gap is the tragedy, not a hole.
+
+### Continuity of new elements — clean
+- Mr. Alvarez: film subject (Ch 2) → hospitalized Wed, "not yet home" Fri (Ch 3) → died Friday night (Ch 6) → footage (Ch 7) → referenced (Ch 23, 26, 27). Consistent.
+- Dwayne Ortiz (Ch 12) and the ninety-percent recovery thread (Ch 9, 11, 15) are consistent.
+- Sarah threshold: fever breaks ~noon, changed-waking at 2:16 (Ch 16); no contradiction.
+- Red liquid: emergency-use formulation (Ch 6) rushed statewide (Ch 15); bible note added that the rollout is early, consistent with the Prologue.
+
+### Low-severity, accepted
+- Brooke knowing the Merrow Street tenant (Ch 4) is a slight stretch, kept as characterful family-lore color from Sarah's property-management world.
+- The Ch 15 data anomaly is planted and never acted on; consistent with Brooke's overwhelmed, un-listened-to arc and the "record never takes her side" theme.
+
+No new critical objections. The added losses and dread deepen character choices rather than functioning as decoration, and nothing explains the mechanism.
+
 ## Verdict
 
 Every critical objection is resolved. The two fair-play defects in the journal-and-letter thread are repaired in the manuscript and reconciled with canon. The remaining findings are credibility risks the book takes on purpose; each is recorded with its rebuttal, and finding 3 carries a concrete de-risk option for the copyedit pass if the author wants it. The novel survives an adversarial reread.

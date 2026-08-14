@@ -16,7 +16,7 @@ There is **no third outcome.** There is no cure and no safe recovery. Getting si
 
 ## The red liquid (locked)
 
-- The CDC/authorities rushed the red liquid into hospitals as an emergency treatment after the first deaths.
+- The CDC/authorities rushed the red liquid into hospitals as an emergency treatment after the first deaths — within the opening days of the surge, consistent with the Prologue already showing it in hospital use. The exact origin and timing are never stated on the page, so no on-page reconciliation is required; keep the rollout early and statewide.
 - It has **no bearing on reject or accept.** It does not decide, cause, or prevent the takeover.
 - The "survivors" it appears to save were always going to accept. The treatment's apparent success is **coincidence and statistics**, dressed up as a cure.
 - Everyone deploys and celebrates it in good faith. "Recovery rates improve." The dead are dismissed as "didn't get it in time." This ties the medicine to the institutional-capture theme (#77) and the grief theme (#80): a useless, comforting treatment that the public clings to because grief needs hope, whose "recoveries" are the takeovers.
