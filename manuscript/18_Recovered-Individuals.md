@@ -1,6 +1,4 @@
-# Chapter 18
-
-## Recovered Individuals
+# Chapter 18: Recovered Individuals
 
 Sarah was already dressed when Brooke came downstairs.
 

@@ -1,6 +1,4 @@
-# Chapter 15
-
-## Somewhere Else
+# Chapter 15: Somewhere Else
 
 By seven the next morning, Brooke's inbox had become impossible.
 
@@ -196,7 +194,7 @@ Brooke continued before she could reconsider.
 
 "Sometimes you want to be found so badly you tell strangers exactly where to look." Brooke glanced away from the lens. "Which is probably what I'm doing."
 
-Claire's expression changed at *real mom*, a small tightening around her mouth.
+Claire's expression changed at *the person who had me*, a small tightening around her mouth.
 
 "Keep old messages and old videos. If something feels wrong, write down why before somebody talks you out of it."
 
@@ -358,6 +356,6 @@ Claire set the water down. Her gaze moved from Sarah to Brooke and stayed there.
 
 "When she wakes up," Claire said, "we can all stay in her room."
 
-The fever reached one hundred and three shortly after dark.
+The fever reached 103 shortly after dark.
 
 Brooke stopped checking the view count.

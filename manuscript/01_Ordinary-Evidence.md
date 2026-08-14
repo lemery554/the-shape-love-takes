@@ -178,7 +178,7 @@ Cooper lifted his head from the bottom stair. For a moment he looked past Sarah 
 
 Brooke watched him. His tail struck the floor once. Then he sneezed and lowered his head again. Nothing.
 
-Outside, Ashcroft looked offensively normal. A sprinkler clicked across the Dunns' lawn despite the cold. A school bus sighed at the corner. Two houses down, Mr. Vale dragged a recycling bin toward his garage in plaid pajama pants, pausing to raise one hand at Sarah.
+Outside, Ashcroft looked offensively normal. A sprinkler clicked across the Dunns' lawn despite the cold. A school bus sighed at the corner. Two houses down, Mr. Kessler dragged a recycling bin toward his garage in plaid pajama pants, pausing to raise one hand at Sarah.
 
 Sarah waved back. Brooke checked the sidewalk in both directions. She did not know what she expected to find. A red trail would have been ridiculous. A stranger standing beneath the streetlight in daylight would have been worse.
 
@@ -256,7 +256,7 @@ Brooke looked toward the path home. "If somebody lets me in."
 
 Claire pulled the lace tighter. "You could make movies here."
 
-"About what? Mr. Vale's recycling bin?"
+"About what? Mr. Kessler's recycling bin?"
 
 "You film pancakes."
 

@@ -1,6 +1,4 @@
-# Chapter 14
-
-## Sand
+# Chapter 14: Sand
 
 Sarah removed the broken bathroom handle before breakfast.
 

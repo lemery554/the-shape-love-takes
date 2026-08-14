@@ -1,10 +1,8 @@
-# Chapter 21
-
-## Not Yet
+# Chapter 21: Not Yet
 
 Sarah took the keepsake-box key the following morning.
 
-She did it in front of her. No deception. She held out her hand and waited until Brooke gave her the tiny brass key to the keepsake box.
+She did it in front of Brooke. No deception. She held out her hand and waited until Brooke gave her the tiny brass key to the keepsake box.
 
 "You tore through Claire's room," Sarah said. "You're too upset to keep escalating this."
 

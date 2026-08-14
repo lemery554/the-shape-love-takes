@@ -10,7 +10,7 @@ It was not, when she looked, quite full. Three lockers down from hers, one had b
 
 Then she started to see it, and once she started she could not stop, because seeing was the only thing she was good at.
 
-It was in the way people sat. In the library, a senior and a freshman Brooke was fairly sure did not know each other shared one edge of an otherwise empty table. When the freshman got up for a book, the senior turned to keep her in view.
+It was in the way people sat. In the library, a senior and a freshman shared one edge of an otherwise empty table. Brooke was fairly sure they did not know each other. When the freshman got up for a book, the senior turned to keep her in view.
 
 In homeroom, Mr. Bell passed around a plastic container of olives. He had spent three years complaining that the smell of olives ruined the faculty refrigerator. Now he ate them between attendance names and offered them to students with an absent generosity. Three people accepted. One was a girl Brooke had once watched remove an olive from nachos with a napkin.
 
@@ -98,7 +98,7 @@ Brooke was halfway to the gate before she realized she had not gotten the woman'
 
 That night, in her room, with the house quiet and Claire finally asleep or pretending to be across the hall, Brooke did the thing she had been building toward all week without admitting it. She recorded a short video. No footage, no editing, just her own face lit by the monitor, tired, plain, done with being careful.
 
-"I'm going to ask something and I don't care if it makes me sound crazy," she said. "The people who got sick and got better. Are they different now? Not sad-different. Not tired-different. Different. Do they need to be near you all the time. Do they eat things they used to hate. Do animals not like them anymore." She stopped. She had a list open off-camera and she did not read from it, but she knew it by heart now. "I'm not saying I know what it is. I don't. I'm asking if anyone else is seeing it, because everyone around me is telling me I'm imagining it, and I need to know if I am."
+"I'm going to ask something and I don't care if it makes me sound crazy," she said. "The people who got sick and got better. Are they different now? Not sad-different. Not tired-different. Different. Do they need to be near you all the time? Do they eat things they used to hate? Do animals not like them anymore?" She stopped. She had a list open off-camera and she did not read from it, but she knew it by heart now. "I'm not saying I know what it is. I don't. I'm asking if anyone else is seeing it, because everyone around me is telling me I'm imagining it, and I need to know if I am."
 
 She titled it *Is anyone else seeing this?* and posted it under her own name and closed the laptop and lay down and did not expect anything, because the last three videos had gotten mockery and a joke about fruit punch.
 

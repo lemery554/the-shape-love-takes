@@ -1,6 +1,4 @@
-# Chapter 24
-
-## Outside
+# Chapter 24: Outside
 
 Brooke left through the front door.
 
@@ -38,7 +36,7 @@ Anna looked up. She did not wave.
 
 Brooke crossed the street. Before entering, she started an audio recording and put the phone in her coat pocket with the microphone exposed.
 
-She sent the automatic file name to the old phone at home before switching off mobile data. The file itself had not uploaded, only the name and start time. If Brooke disappeared, the record would show where the conversation began.
+She sent the automatic filename to the old phone at home before switching off mobile data. The file itself had not uploaded, only the name and start time. If Brooke disappeared, the record would show where the conversation began.
 
 The waitress objected to Cooper until Anna asked whether the patio could be opened. The outdoor tables had been stacked for the season, but the waitress relented when Brooke said they would sit near the gate. Anna carried her own coffee outside. The cup tipped against the doorframe and coffee ran over her thumb.
 
