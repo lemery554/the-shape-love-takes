@@ -13,3 +13,7 @@ Brooke does not give the channel a thematic brand. It appears under her own name
 Hospitals remain open and operational longer than expected. As doctors, nurses, administrators, security staff, and communications teams change, the institution gradually shifts from helping unaffected people toward encouraging reunion, access, touch, and family closeness.
 
 The emergency department must feel operationally credible even while overwhelmed. Research task TWI-014 covers triage, waiting-room flow, dehydration treatment, infection precautions, staffing, bodily-fluid cleanup, security, surge capacity, and plausible institutional failure. Verified research must be separated from fictional adaptation.
+
+The emergency red formulation has a documentary trace without an explanatory identity. Staff scan a short emergency-formulary code; the medication record shows `ORAL REHYDRATION SUPPORT`, a time, and reconciliation pending, but no product name or batch number on the family's discharge copy. Staff question the batch during the synchronized vomiting. This is an administrative obstacle, not evidence that the formulation causes, prevents, or accompanies the change.
+
+Home-care guidance must distinguish copied separation language from ordinary clinical warning signs. Brooke is told to call 911 for confusion, fainting, inability to wake, lack of urination, or inability to retain even small sips. Sarah remains responsive and retains small amounts while the hospital is overloaded; the text about familiar support follows, rather than replaces, those warnings.

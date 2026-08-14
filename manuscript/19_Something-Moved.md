@@ -120,11 +120,11 @@ The sentence made Brooke stand.
 
 Brooke left before the bell.
 
-In the bathroom, she searched her own name. A local discussion board had posted the neighborhood where the Bennetts lived, narrowed from the school bus route visible in an old snow-day video. The exact house was not listed. In the replies, one person claimed to know it.
+In the bathroom, she searched her own name. A local discussion board had posted the neighborhood where the Bennetts lived, narrowed from the school bus route visible in an old snow-day video. One reply named Sarah and Mark and linked a county property record. The board had hidden the link, but its cached preview still showed the front windows, the split maple by the walk, and enough of the street number for Brooke to recognize her own house. Another person claimed to have driven past it.
 
 Brooke reported the post. The automated response thanked her and said location context did not necessarily violate policy unless it included a precise address or credible threat.
 
-She sent Sarah a screenshot.
+She sent Sarah one screenshot containing the post, preview, and time.
 
 Sarah called immediately.
 

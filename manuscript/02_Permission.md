@@ -127,7 +127,7 @@ Sarah's face softened, which made Brooke angrier than if she had shouted. "This 
 
 "I call you."
 
-"From an hour away while I have Claire here and your father is in Albany."
+"From an hour away while I have Claire here and your father is several states away."
 
 "You keep saying where everybody else is like that makes me less capable."
 
@@ -295,11 +295,11 @@ After she left, Brooke recorded the empty doorway for eleven seconds before real
 
 The cancellation email looked different on her monitor. Larger, not more meaningful. She saved a copy in a folder with the workshop application, her acceptance, and the two-minute film that had earned the seat. Then she opened her messages with Mark. His last text had arrived at 5:37 that morning.
 
-*Another day in glamorous Albany. Call tonight. Proud of you, kid.* Brooke typed beneath it.
+*Another day in the glamorous old hotel. Call tonight. Proud of you, kid.* Brooke typed beneath it.
 
 *Mom canceled the workshop without asking me. She says it's because you're gone and people are sick, but that's not all of it. She thinks if she watches me closely enough nothing can happen. I said something awful.* She stopped. The cursor waited after the period.
 
-If she sent it, Mark would call Sarah and referee from a hotel two hours away. Brooke did not want his balanced answer again.
+If she sent it, Mark would call Sarah and referee from a hotel in western Pennsylvania. Brooke did not want his balanced answer again.
 
 Brooke selected the message and copied it into a blank note instead.
 
@@ -307,16 +307,10 @@ She did not delete it. Deleting and deciding not to send were different things.
 
 Downstairs, a cupboard closed. Water ran. Sarah called to Claire that dinner would be ready in twenty minutes. Her voice sounded ordinary again, which meant she had chosen ordinary and expected the rest of them to follow.
 
-Brooke set her phone against the monitor and opened the camera.
-
-She recorded the workshop email first, then the acceptance letter and the application film paused on its opening frame. She did not speak. She let the documents occupy the screen long enough to be read, then saved the recording to her private archive.
-
-When she finished, the room had darkened around the monitor. A local-news alert appeared across the corner of the display.
+Brooke filed the cancellation beside the acceptance letter and her application film. When she finished, the room had darkened around the monitor. A local-news alert appeared across the corner of the display.
 
 **SAINT VINCENT'S EXPANDS INTAKE AREA AMID SURGE**
 
-Brooke opened it. The article said the hospital remained fully operational. It said most patients were expected to recover. It said temporary outdoor screening had been established to reduce pressure on the emergency department.
+Brooke opened it. The article said the hospital remained fully operational, most patients were expected to recover, and temporary outdoor screening would reduce pressure on the emergency department. Below it, workers unfolded white privacy screens beside the ambulance entrance.
 
-Below the article, a photograph showed workers unfolding white privacy screens beside the ambulance entrance. Brooke saved that too.
-
-She placed the cancellation recording beside the hospital footage in her archive, separate folders sharing the same date. The two files remained open on her monitor.
+Brooke saved the alert in a separate folder bearing the same date as the cancellation. The two documents remained open on her monitor.

@@ -130,6 +130,8 @@ Brooke started recording after he left. She held her phone low, framing only the
 
 Claire accepted her cup because Sarah asked her to. The liquid stained her lower lip red.
 
+The nurse scanned the cup. The cart rejected the barcode twice before accepting a short emergency-formulary code on the paper label. No product name appeared on the screen Brooke could see, only *ORAL REHYDRATION SUPPORT* and a yellow notice that reconciliation was pending.
+
 "Small sip," the nurse said.
 
 Claire swallowed once. Her whole body tightened.

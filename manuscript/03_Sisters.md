@@ -206,7 +206,7 @@ Claire wiped one eye with the sleeve of the stolen hoodie. "Then go."
 
 Brooke almost smiled because the answer sounded like Claire again. Claire did not smile back.
 
-They walked home several feet apart. Claire did not narrate the route. She did not complain about school or ask Brooke to film anything. At Hawthorn Road, an ambulance passed toward Saint Vincent's without using its siren. Both sisters watched it disappear around the bend.
+They walked home several feet apart. Claire did not narrate the route. She did not complain about school or ask Brooke to film anything. At Hawthorne Road, an ambulance passed toward Saint Vincent's without using its siren. Both sisters watched it disappear around the bend.
 
 At the path behind the fields, Claire stopped at the bench where they sometimes waited out rain. She took Brooke's hat from her backpack and set it on the damp wood.
 
@@ -268,7 +268,7 @@ Mark's eyes shifted toward her voice. "Tomorrow night. That's the plan."
 
 Claire leaned against the frame without laughing. She had changed into her own sweatshirt.
 
-The call continued until Mark repeated that tomorrow night was still the plan. By the end, the family almost sounded normal.
+The call continued until the connection began failing. By the end, the family almost sounded normal.
 
 When the screen went dark, Claire left first. Brooke waited for Sarah to mention the workshop or the laundry room. Sarah only said, "Good night," and followed her.
 

@@ -28,21 +28,21 @@ The manuscript is durable. The developmental rewrite, the continuity and canon a
 
 **Repair (applied):** Chapter 19 now stages the move. After finding the room disturbed, Brooke deliberately moves the journal from the drawer into the keepsake box before sealing it. This removes the contradiction, and it strengthens the fair-play: Brooke's own act of "securing" the journal delivers it to the exact container Anna investigated the day before, while Claire is left knowing only the old drawer location.
 
-### 3. MODERATE (accepted, with note): the 911 dispatcher's pointed language
+### 3. MODERATE (repaired in Phase 6): the 911 dispatcher's pointed language
 
 **Where:** Chapter 27. The dispatcher uses Brooke's first name unprompted, codes the call a "welfare return," and says "She is still your mother, Brooke," echoing the school handout.
 
 **Skeptical objection:** A dispatcher reciting reunification language reads as an *actively complicit* individual, which risks the "everyone is secretly in on it" feeling the book otherwise avoids. The novel's thesis is that institutions echo the same captured guidance without conspiracy.
 
-**Decision:** Retained as the deliberate peak of institutional capture. It is sourced (the name comes from the active missing-minor return attached to the address, which the dispatcher states) and hedged (reduced staffing, delayed response). If a future pass wants to de-risk it, the single highest-leverage change is to let the *system* supply the name on-screen (the dispatcher reading it off the flagged record) rather than the dispatcher volunteering "Brooke" as if she already knew her. Left as-is for now; flagged for the copyedit pass.
+**Phase 6 repair:** The system now explicitly supplies Brooke's full name from the calling number, address, and active missing-minor return. The first dispatcher reads separation-distress language from that record and queues a welfare return while the weapon is secured. When Sarah removes the gun, Brooke calls again; a second dispatcher upgrades the incident and the open line captures the shot. This preserves institutional capture without requiring personal conspiracy or implausible disregard of an active firearm.
 
-### 4. MODERATE (accepted): Sarah firing through the bedroom door
+### 4. MODERATE (repaired and retained in Phase 6): Sarah firing through the bedroom door
 
 **Where:** Chapter 27. Sarah abandons a book's worth of deniable, love-framed control and fires a shotgun through the latch-side jamb.
 
 **Skeptical objection:** The changed have been meticulous about deniability and omission. Gunfire is loud, evidentiary, and abandons that strategy; would a changed person risk killing the daughter she is trying to keep?
 
-**Decision:** Defended and kept. Every softer method has already failed, Brooke is actively going out the window, and the changed prioritize preventing separation over the person's safety (Claire ignoring her torn hand establishes exactly this). The shot is staged as a barrier breach, not aim, and the mask dropping only at the climax is intended. The escalation is characterization, not a lapse.
+**Phase 6 repair:** Kept. Every softer method has already failed, Brooke is actively going out the window, and the changed prioritize preventing separation over the person's safety. Sarah now tells Brooke to remain below the window because she "only" needs the latch, making her unsafe rationalization explicit. The narration also states that she cannot know Brooke's exact position through the wall. The shot remains a barrier breach rather than an attempt to kill, while proving that the distinction no longer protects Brooke.
 
 ### 5. LOW (accepted): the overnight pursuit's relentlessness
 

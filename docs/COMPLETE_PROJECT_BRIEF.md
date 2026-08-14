@@ -8,9 +8,9 @@
 
 **Title:** *The Shape Love Takes*
 
-**Format:** Novel first, with possible later screenplay adaptation
+**Format:** Book One of a continuing novel project, with possible later screenplay adaptation. No series title, sequel title, or volume count is approved.
 
-**Genre:** Psychological horror / family thriller / infection horror
+**Genre / audience position:** Adult psychological horror / family thriller / infection horror with strong upper-YA crossover appeal
 
 **Target length:** Approximately 85,000 to 100,000 words
 

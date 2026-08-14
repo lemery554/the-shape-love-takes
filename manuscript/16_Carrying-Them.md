@@ -2,7 +2,7 @@
 
 ## Carrying Them
 
-Sarah's fever reached one hundred and four before midnight.
+Sarah's fever reached one hundred and three point four before midnight.
 
 Brooke called the hospital twice. The first time she waited forty-three minutes and lost the connection. The second time a nurse asked whether Sarah could breathe, whether she had passed out, whether there was blood in the vomit, and whether another adult was present.
 
@@ -18,7 +18,11 @@ Brooke called the hospital twice. The first time she waited forty-three minutes 
 
 The nurse went quiet long enough for Brooke to hear voices behind her and an announcement calling for environmental services.
 
-"Emergency departments are operating beyond capacity," she said. "If your mother can keep down small amounts of fluid and remains responsive, manage symptoms at home. Keep family or familiar support persons nearby. Avoid unnecessary separation during recovery."
+"Emergency departments are operating beyond capacity," she said. "But that fever with vomiting needs close monitoring. If she becomes confused, faints, cannot be awakened, stops urinating, or cannot keep even small sips down, call nine-one-one. Do not drive her yourself if she cannot stay awake."
+
+Brooke wrote the warnings beside Sarah's temperature.
+
+The nurse continued in the flatter voice of text being read from a screen. "While she remains responsive and is keeping small amounts down, keep monitoring her at home. Keep family or familiar support persons nearby. Avoid unnecessary separation during recovery."
 
 Brooke looked at Claire, who sat on the bathroom floor with her back against the wall and both hands wrapped around Brooke's ankle.
 
@@ -32,7 +36,7 @@ Brooke looked at Claire, who sat on the bathroom floor with her back against the
 
 "Which department?"
 
-The line clicked. A recorded voice told Brooke to seek immediate care for difficulty breathing, loss of consciousness, or signs of severe dehydration.
+The line clicked. A recorded voice repeated the emergency warning signs, then offered a clinical callback with an estimated wait of more than two hours.
 
 An alert arrived on Sarah's patient portal a few minutes later.
 
@@ -115,6 +119,8 @@ She typed, *Call now.*
 
 The message did not deliver.
 
+Brooke called the hotel. The desk clerk confirmed that the electrical crew had checked in before the county advisory, but would not connect her to a room or confirm who remained there. The emergency number on Mark's company website led to a mailbox too full to accept another message. She saved both call times, then stopped because proof that the numbers existed was not proof her father could answer them.
+
 At four twelve, a voicemail appeared without a missed call.
 
 Mark's voice sounded distant and compressed.
@@ -126,6 +132,8 @@ Behind him, somebody said something too low to understand. Mark paused as if lis
 Brooke played the voicemail for Sarah when she woke. Sarah smiled at *Brookie*. Claire asked to hear the part where he said he loved her again.
 
 Brooke replayed it twice. On the third time she listened only to the silence before the message ended.
+
+She followed his instructions anyway. A bottle cap of electrolyte solution, then another after Sarah kept the first down. Mark's voice did not bring him home, but it gave Brooke the next thing to do.
 
 Sarah curled toward the toilet. Brooke put the phone down and caught the bowl before Sarah knocked it over.
 
@@ -165,7 +173,7 @@ Sarah moved her hand beneath the towel. Her fingers found Brooke's wrist and res
 
 Brooke lowered her forehead to the edge of the mattress.
 
-By morning, the symptoms shifted. The vomiting slowed. Sarah became confused about where Mark was and asked twice why Claire was not at school. Sunlight through the blinds made her turn her face toward the wall.
+By morning, the symptoms shifted. The vomiting slowed. Sarah asked twice why Claire was not at school, then remembered she had kept both girls home before Brooke could correct her. Sunlight through the blinds made her turn her face toward the wall.
 
 Claire sat on the bedroom floor with a book open in her lap. She had not turned a page.
 

@@ -14,31 +14,9 @@ The comments had changed too. The frightened reports were still there if she sor
 
 *Brooke's mother is trying to keep her safe.*
 
-Brooke took screenshots until her phone storage warning appeared. Then she opened the private observation file and read everything from the beginning.
+Brooke took one dated screenshot of each search state, then stopped when her phone storage warning appeared. The largest files were ordinary family footage cached in three places: Claire dancing in the kitchen, Mark showing her how to change a light fixture, Sarah laughing after dropping a pancake.
 
-The warning said she had less than five hundred megabytes left. Brooke opened the storage manager and found that the largest files were ordinary family footage cached in three places: Claire dancing in the kitchen, Mark showing her how to change a light fixture, Sarah laughing after dropping a pancake.
-
-Deleting any of them felt like cooperating with the thing happening to the house.
-
-She transferred the originals to the external drive, verified three random clips, then removed the phone copies. The available-storage number climbed. Brooke wrote the drive's contents on an index card and slipped it into the camera bag.
-
-> **DRIVE A**
->
-> Original hospital footage
->
-> Upload masters 1 through 6
->
-> Family archive selections
->
-> Observation file
->
-> Mark calls and voicemails
->
-> Keypad-video copy
->
-> Bedroom and keepsake photographs
-
-She copied the observation file to the camera card and her old phone too. Three copies in the same house were not real backup, but cloud storage felt like handing the files to the same systems already burying her uploads.
+Deleting any of them felt like cooperating with the thing happening to the house. She moved the verified originals, hospital footage, uploads, Mark calls, keypad clip, and observation file onto the external drive, then put a second copy of the observation file on the camera card. Three copies in the same house were not real backup, but cloud storage felt like handing the files to the systems already burying her uploads.
 
 *Dogs notice first.*
 
@@ -60,7 +38,7 @@ She added:
 
 *Direct pursuit makes me run.*
 
-The sentence sounded obvious. It also felt important enough that she copied the file to the camera card again.
+The sentence sounded obvious. It also felt important.
 
 Cooper lay beneath the desk with his shoulder against her ankle. When Sarah passed the open door carrying folded towels, he raised his head and watched until she disappeared into the bathroom.
 

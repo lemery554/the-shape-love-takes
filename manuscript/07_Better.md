@@ -8,7 +8,7 @@ Sarah carried the discharge folder, two plastic bags, and the gray blanket. Broo
 
 Her voice sounded like hers again.
 
-The discharge nurse had called the improvement typical. Continue fluids. Offer bland foods. Return for confusion, persistent vomiting, or inability to drink. Follow up with the pediatrician. The printed page described a gastrointestinal illness and did not mention the red treatment beyond a handwritten time.
+The discharge nurse had called the improvement typical. Continue fluids. Offer bland foods. Return for confusion, persistent vomiting, or inability to drink. Follow up with the pediatrician. The printed page described a gastrointestinal illness. Under medications, the red treatment appeared only as the same emergency-formulary code, a handwritten time, and *pending reconciliation*. There was no product name or batch number for Sarah to ask about.
 
 At home, the kitchen smelled faintly of coffee left in the pot and the lavender cleaner Sarah used on the counters. Cooper waited behind the gate. His tail moved when Sarah entered, faster when he saw Brooke, then stopped when Claire stepped through.
 

@@ -1,13 +1,13 @@
 # Final Days Continuity Ledger
 
 **Scope:** Chapters 23 through 29
-**Status:** Working continuity lock for the developmental rewrite
+**Status:** Phase 6 continuity lock; awaiting author approval
 
 ## Day convention
 
 Story days change at midnight. Chapter 23 prepares the escape on Thursday, Day 23. Chapter 24 begins Friday evening, Day 24, and Chapter 25 continues through the overnight pursuit into Saturday, Day 25.
 
-To remove the contradiction, the developmental rewrite should use this continuous sequence:
+The locked sequence is:
 
 - **Day 23, Thursday:** Chapter 23 preparation
 - **Day 24, Friday evening:** Chapter 24 diner meeting
@@ -22,7 +22,7 @@ To remove the contradiction, the developmental rewrite should use this continuou
 
 - At home, physically rested enough to plan but emotionally depleted.
 - Packs camera, external drive, phone charger, cash, letter photographs, flashlight, and practical clothing.
-- Deletes or hides route footage that could expose the window plan.
+- Keeps the window route in memory rather than preserving route footage that could expose the plan.
 - Leaves no public upload revealing the escape route.
 
 ### Cooper
@@ -143,11 +143,11 @@ To remove the contradiction, the developmental rewrite should use this continuou
 
 ### 911
 
-- Address identifies the active missing-minor return.
-- Dispatcher uses Brooke's name from the record.
-- Call is coded as welfare return while shotgun remains secured.
-- Reduced staffing delays response.
-- No unit arrives before escape.
+- Calling number and address identify the active missing-minor return and supply Brooke's name from the record.
+- First call is coded as a welfare return while the shotgun remains secured.
+- Dispatcher directs Brooke to call back immediately if the safe is opened or weapon moved.
+- Brooke's second call reports an armed domestic and is upgraded; the open line captures the shot.
+- Reduced staffing and the late priority change delay response; no unit arrives before escape.
 
 ### Firearm
 
@@ -157,8 +157,9 @@ To remove the contradiction, the developmental rewrite should use this continuou
 - 2¾-inch low-recoil No. 4 buckshot.
 - Sarah orders Claire downstairs.
 - Sarah hears the open window and Cooper on the sill.
-- Brooke is outside and below the window line.
-- Sarah fires once, low and diagonally through latch-side jamb.
+- Brooke is outside and below the window line, but Sarah cannot know her exact position through the wall.
+- Sarah frames the gun as a way to open only the latch, showing compulsion overriding risk judgment.
+- Sarah fires once, low and diagonally at the latch-side jamb.
 - Shot damages latch, dresser corner, floor, and side wall.
 - Intent is barrier breach, not aiming at Brooke, though the act carries lethal risk.
 
@@ -168,12 +169,12 @@ To remove the contradiction, the developmental rewrite should use this continuou
 - Cooper is guided through by harness.
 - Brooke and Cooper cross wet or slick shingles only if moisture was established earlier.
 - Cooper lands badly and aggravates the paw.
-- Neighboring car alarm and porch lights react to blast.
+- Neighboring car alarm and porch lights react to blast; a neighbor retreats with a phone raised.
 
 ### Files
 
 - Siege recording remains on camera or camera card.
-- 911 call exists in system records.
+- Both 911 calls exist in system records; the second remains open through the shot.
 - Nothing uploads during escape.
 
 ## Chapter 28: Headlights
@@ -184,6 +185,7 @@ To remove the contradiction, the developmental rewrite should use this continuou
 - Hears gunshot.
 - Moves to the likely escape street after the shot, then turns on headlights when Brooke enters view.
 - Does not approach house or participate in pursuit.
+- A distant siren begins only after Brooke is in Anna's car and remains too far away to identify.
 
 ### Brooke
 
@@ -253,4 +255,4 @@ To remove the contradiction, the developmental rewrite should use this continuou
 - Whether Brooke later hears the recording.
 - The motel stay or longer destination.
 - The wider outbreak's final trajectory.
-- Whether this is positioned as a complete standalone or sequel-capable.
+- The novel is explicitly positioned as Book One; its current-volume emotional arc resolves while the listed threads remain continuation promises.

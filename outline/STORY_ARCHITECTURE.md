@@ -20,7 +20,7 @@ School remains open and provides Brooke's first proof that the problem extends b
 
 Sarah recovers into possessive maternal care. Her conflict with Brooke is rooted in overprotection, adoption, unequal-treatment fears, and an unresolved argument about independence. Institutions and online platforms increasingly encourage reunion. Changed strangers chase Brooke, proving the need for closeness is not limited to existing relationships. Sarah initially refuses to open the front door, then maternal attachment responds to Brooke's apology and plea. Sarah saves Brooke, locks the door, turns, and may say, "You came home."
 
-Brooke calls 911. The dispatcher begins normally, then instructs Brooke not to antagonize Sarah, describes separation distress, and tells her to remain with her mother. The dispatcher uses Brooke's name even though Brooke never supplied it. No help comes — in the reworked one-night ending, no officers arrive at all.
+Brooke calls 911. The calling number and address surface an active missing-minor return that supplies her name. The dispatcher begins normally, then reads separation-distress language from the record and keeps the call in a welfare-return queue while the shotgun remains secured. Brooke calls again when Sarah removes the weapon; a second dispatcher upgrades the incident and the open line captures the shot, but no officers arrive before Brooke escapes. A distant siren after Anna's pickup remains unidentified.
 
 During the bedroom siege, Sarah pleads, scratches, bangs, and uses guilt before going silent. Brooke hears Mark's gun safe. Sarah returns with the shotgun and fires through the bedroom door. Brooke escapes through the window with Cooper, drops to the yard, and runs into the night.
 

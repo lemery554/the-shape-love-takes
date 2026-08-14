@@ -2,7 +2,7 @@
 
 ## Something is wrong with them.
 
-Development repository for *The Shape Love Takes*, a psychological family-horror novel about trust, memory, and love becoming possession.
+Development repository for *The Shape Love Takes*, Book One of an intentionally continuing psychological family-horror story about trust, memory, and love becoming possession.
 
 ![Cover concept for The Shape Love Takes](assets/cover-concepts/the-shape-love-takes-cover-concept-01.jpg)
 
@@ -27,7 +27,9 @@ Full, spoiler-inclusive dossiers live in `bible/characters/MAIN_CAST.md`.
 
 ## Project status
 
-Draft One is underway. The Foundation and Story Design gates are complete, the prologue has been revised, and Chapter 1 is drafted. New chapters should follow the accepted architecture while the timeline, clue ledger, and canon remain living continuity references.
+The complete manuscript has passed major developmental revision, structural audits, and the Phase 5 AI-agent simulated evaluation. Phase 6 post-evaluation revisions are implemented and awaiting author approval of the structural lock. The publishing position is **adult psychological horror with strong upper-YA crossover appeal**, explicitly presented as **Book One**. No series title, sequel title, or planned volume count is set.
+
+The current volume resolves Brooke's decision to trust her own evidence, escape coercive home and institutional return, and exercise agency over closeness. Anna's nature and study, Mark's fate, the illness and red-formulation mechanism, Claire and Sarah's agency, and Cooper's unease remain intentional continuation promises.
 
 ## Creative north star
 

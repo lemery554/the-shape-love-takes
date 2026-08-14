@@ -96,6 +96,8 @@ Claire remained on the porch. Sarah stood in the street. The shotgun was no long
 
 Then the trees hid them.
 
+Far behind, a siren rose on another road. It had come after the shot, after the neighbor saw the gun, after Brooke was already in a stranger's car. Whether it was finally coming for the Bennett house or passing toward another emergency, Brooke could not tell.
+
 Brooke's phone vibrated.
 
 *It isn't safe out there. Come home.*

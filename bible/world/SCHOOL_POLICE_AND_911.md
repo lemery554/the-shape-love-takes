@@ -20,12 +20,12 @@ Police respond normally early in the outbreak. As officers change, their priorit
 
 ## Brooke's 911 call
 
-Help is technically dispatched, but it is intentionally or unnaturally delayed. The dispatcher begins normally, then moves toward institutionalized reunion language:
+The first call is procedurally recognizable but shaped by the active missing-minor return. The calling number and address supply Brooke's name through the dispatch record; the call-taker does not know her independently. While the shotgun remains secured, the computer-aided record keeps the incident in the welfare-return queue during reduced staffing. The dispatcher begins normally, then reads institutionalized reunion language from that record:
 
 - "Try to remain calm."
 - "Do not antagonize your mother."
-- "She may be experiencing separation distress."
-- "Stay inside with her; you are safest at home."
-- "She is still your mother, Brooke."
+- The missing minor may resist reunification because of separation distress.
+- Remain in the secured room while the weapon remains locked.
+- Call back immediately if the safe is opened or the weapon is moved.
 
-Brooke never gave the dispatcher her name — the clearest proof the response system is already compromised (IN-01). The dispatcher's guidance is to keep Brooke inside with Sarah; no help is coming. In the reworked one-night ending, **no officers arrive** — Brooke escapes and is picked up by Anna's car before any response materializes. The dispatch dialogue above still stands as the 911-corruption beat during the siege; the physical arrival of changed officers is cut (the response system still functions, but its definition of safety has changed, and it simply never reaches her in time).
+When Sarah removes the shotgun, Brooke calls again. A second call-taker upgrades the incident to an armed domestic and tells Brooke to use a safe exit. The shot is heard on the open line and moves the call to priority status; a neighbor also raises a phone after seeing Sarah with the gun. Response begins too late to reach Brooke before Anna's pickup. A distant siren remains ambiguous, and **no officers arrive on page**. The horror comes from a functioning system that initially defines coercive return as welfare, then recognizes immediate danger only after the barrier has already failed.
