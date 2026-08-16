@@ -4,13 +4,15 @@ These rules are author-facing. Characters and readers receive fragments, never a
 
 ## Unknown cause
 
-The novel never confirms what the whispers are, where they came from, how the illness began, how it spreads, or what its ultimate goal is. Do not add a government, alien, parasite, ancient-force, bloodline, or complete scientific explanation. There is no cure in this novel.
+The novel never confirms what the whispers are, where they came from, how the illness began, how it spreads, or what its ultimate goal is. None of that reaches the characters or the reader on the page. There is no cure in this novel.
+
+The author now works from a private framework recorded in `INFECTION_MODEL.md`: a compatibility-gated parasite that its compatible hosts either reject, and die, or accept, and are occupied and impersonated by, with the takeover presenting as love. That framework is **never named, explained, or confirmed on the page** in Book 1; a sequel owns any reveal. The on-page prohibition is unchanged: do not surface the word parasite, the reject/accept mechanism, or any government/alien/bloodline explanation in the manuscript. The framework exists only to keep the fragments consistent and to seed a fair future reveal.
 
 ## The purge
 
 The initial sickness is a purge lasting roughly 12 to 36 hours. Symptoms include violent vomiting, severe diarrhea, fever, dehydration, tremors, confusion, exhaustion, and sensitivity to light and sound. Some people become much sicker than others.
 
-Everyone who experiences the purge eventually changes. Severity varies significantly, but the progression does not permanently stop.
+Everyone who survives the purge changes. There is no recovery to the person they were; "recovered" is the wrong word for what returns. Severity varies significantly, and the progression does not permanently stop. Not everyone survives: some bodies reject the change and die during the acute illness (the compatibility verdict in the private model). On the page this appears only as the plain, terrible fact that the sick either die or come back wrong, with no safe third outcome and no true cure.
 
 Author-facing canon treats the purge as emptying the body of impurities and food the new presence does not want. The characters do not receive authoritative proof of that purpose.
 

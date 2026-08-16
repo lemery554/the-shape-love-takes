@@ -194,6 +194,8 @@ At four-ten, Claire kept down an ounce of water. Sarah cried quietly and laughed
 
 Her fever fell to 101.7. She kept down two ice chips, then four. By then, she answered her name, the hospital, and the day correctly. Around them, other patients improved with the same improbable speed.
 
+Brooke watched the bay long enough to see that there was no third kind of patient. There were the ones who got worse, who were wheeled through doors that did not open again while she could see them. And there were the ones who came back the way Claire had, all at once, past some line, fast and complete and reaching for whoever sat closest. Nobody in the room simply felt a little better, got dressed, and went home the way people did after ordinary illnesses. You went one way or the other. The middle, where recovery was supposed to live, was empty.
+
 A woman across the aisle sat upright after hours beneath a blanket. When an orderly arrived to take her for imaging, she hooked two fingers through her husband's sleeve. He kissed her knuckles and promised he would wait. She kept hold of the fabric until the orderly gently separated them.
 
 Before dawn, Mark called. Brooke went into the corridor so the ringing would not wake Claire.
