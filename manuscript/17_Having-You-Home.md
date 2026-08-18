@@ -56,6 +56,8 @@ Nothing in her behavior was impossible.
 
 That became the problem.
 
+There was no single thing Brooke could have pointed to. Sarah made the dark first pancake she always made. She burned the coffee by the same amount. She remembered the library book and the permit paperwork and the exact way Brooke hated her food gone cold. Everything Sarah did was a thing Sarah had always done, and all of it together was wrong in a way that had no name and left no mark, like a song played a half-step off by an orchestra that had never seen the music but somehow all made the same mistake. The mother who had cried in the laundry room a week ago, frightened and human and hers, had gone into the fever, and the woman making breakfast had come out of it, and they had the same face and the same hands, and Brooke could not prove they were not the same person. She was beginning to understand that she never would. That was the whole design of it, if it was a design. It left nothing to hold up to the light.
+
 For the next hour, Sarah repaired the evidence of her illness. She stripped the towels from the bathroom floor, disinfected the sink, opened windows, and made a grocery list. When Brooke offered to help, Sarah told her to sit down. When Brooke remained standing, Sarah put a hand on her shoulder and guided her toward the table.
 
 The pressure was gentle. Brooke went where it directed her.
