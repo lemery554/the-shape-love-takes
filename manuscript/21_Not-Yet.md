@@ -324,7 +324,7 @@ Sarah corrected herself. "I hope he will."
 
 It was the first time she had allowed uncertainty into the sentence.
 
-She opened the private observation file and typed beneath the entry about memory:
+Brooke opened the private observation file and typed beneath the entry about memory:
 
 *Sarah is giving me more room after taking the key. Claire stayed upstairs after I said I was angry. Maybe they are learning when not to push. Maybe they already knew.*
 

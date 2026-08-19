@@ -128,7 +128,7 @@ Maya nodded. She did not tell Brooke she was wrong. "Then charge as much as you 
 
 Brooke used the minute to send the diner audio and her newest video to a new draft email without a recipient. The attachments reached sixty percent before voices rose in the store.
 
-She canceled the upload. A partial cloud transfer was worse than a local file she controlled. The phone battery showed twenty-two percent.
+She canceled the upload. A partial cloud transfer was worse than a local file she controlled. The phone battery showed twenty percent.
 
 Maya filled a bottle from the utility sink and gave it to her. "Go when I drop the cartons."
 
