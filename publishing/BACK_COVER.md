@@ -55,23 +55,17 @@ Note: this cover blurb is intentionally different from, and longer than, the ~90
 The current back panel has no author credit or series marker. A trade back cover usually carries a short author line and the series signal. Recommended addition below the blurb:
 
 ```
-[AUTHOR] writes psychological horror about ordinary love turned strange.
-The Shape Love Takes is their debut novel and the first book in a
-planned series.
+Jesse Lemery writes psychological horror about ordinary love turned
+strange. The Shape Love Takes is their debut novel and the first book
+in a planned series.
 
 Book One
 ```
 
-Keep this bio to one or two lines on the cover; the full bio lives in the front/back matter and the retail page. Use the same byline you settle in `FRONT_MATTER.md`.
+Keep this bio to one or two lines on the cover; the full bio lives in the front/back matter and the retail page. Byline is Jesse Lemery per the Option A decision in `FRONT_MATTER.md`.
 
-### 4. Category line **[optional add]**
-Small, bottom-left or under the author line, helps shelving and browse placement:
-
-```
-FICTION / Horror
-```
-
-Optional. KDP and IngramSpark also set category through metadata, so this is a nicety, not a requirement.
+### 4. Category line **[skipped]**
+**Decision (author, 2026-08-23): skip.** KDP and IngramSpark set category through metadata, so a printed category line on the back panel is redundant. Keep the back panel clean; no category line.
 
 ### 5. Barcode reserve **[in build]**
 A white rectangle, 2.0 x 1.2 in, in the bottom-right corner, 0.25 in from the trim edges. This is correct: KDP prints the ISBN/EAN barcode into this zone automatically, so **leave it clear** and do not draw the ISBN by hand there. IngramSpark expects the barcode in the same area against its ISBN-specific template.
@@ -89,7 +83,7 @@ KDP does not need a printed price. If you distribute through IngramSpark and wan
 Navy spine with text. Standard order, read top to bottom:
 
 ```
-[AUTHOR]   THE SHAPE LOVE TAKES        [optional imprint mark at foot]
+Jesse Lemery   THE SHAPE LOVE TAKES        [optional imprint mark at foot]
 ```
 
 Spine text only fits legibly above roughly 0.06 in of width (about 100 pages). At the current 0.585 in it is comfortable. **Confirm the spine text still fits after the real page count sets the final spine width.** If the count drops significantly, re-check legibility.

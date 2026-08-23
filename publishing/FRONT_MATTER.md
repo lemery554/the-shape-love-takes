@@ -13,14 +13,16 @@ Style rules apply here as in the manuscript: no em dashes or en dashes, straight
 
 Relevant constants today: `TITLE`, `AUTHOR = "Jesse Lemery"`, `BOOK_POSITION = "Book One"`, `PUBLICATION_YEAR = "2026"`, `EDITION = "First edition"`, `FRONT_MATTER_PAGES = 4`.
 
-## Open byline decision (affects every page below)
+## Byline decision (resolved: Option A)
 
-`build_book.py` currently uses **Jesse Lemery** as both author and "Edited by." `publishing/METADATA.md` instead treats Jesse Lemery as the **editor credit** and leaves the author name/pen name to confirm. These disagree. Pick one before the build:
+**Decision (author, 2026-08-23):** Jesse Lemery is the **author**, and the separate "Edited by" line is **dropped**. A self-applied editor credit on one's own novel reads oddly, so the copyright page carries the author line only.
 
-- **Option A:** Jesse Lemery is the author. Drop or keep the separate "Edited by" line (self-edit credit reads oddly; consider removing it).
-- **Option B:** A pen name is the author; "Edited by Jesse Lemery" stays as the credit.
+Action items this creates:
+- Set `AUTHOR = "Jesse Lemery"` (already the value in `build_book.py`) and **remove** the "Edited by {AUTHOR}" line from both the PDF copyright block and the EPUB copyright section.
+- `publishing/METADATA.md` still lists "Edited by Jesse Lemery" as a public credit and leaves the author name to confirm; reconcile it to match this decision (author = Jesse Lemery, no separate editor credit).
+- Amazon KDP's AI-assistance disclosure is a separate backend step at setup and is unaffected by the byline; answer it truthfully given the AI-assisted line edit and copyedit.
 
-Everywhere below, `[AUTHOR]` = the confirmed author byline and `[EDITOR CREDIT]` = the "Edited by" line if you keep one. If you choose Option A and drop the editor line, delete the `[EDITOR CREDIT]` slots.
+Everywhere below, `[AUTHOR]` = **Jesse Lemery**. The `[EDITOR CREDIT]` slots are struck.
 
 ---
 
@@ -85,13 +87,13 @@ First edition, 2026
 ISBN (paperback): [ISBN - assign after Bowker purchase]        [add to build]
 
 Cover design by [COVER CREDIT]                                  [add to build]
-[EDITOR CREDIT: Edited by Jesse Lemery]                         [in build]
 [IMPRINT NAME / "Independently published"]                      [add to build, optional]
 
 Printed in the United States of America                         [add to build, optional]
 ```
 
 Notes:
+- Per the Option A byline decision, there is **no** "Edited by" line. Remove the existing `Edited by {AUTHOR}` line from the build's copyright block.
 - The single Bowker ISBN goes on both the KDP and IngramSpark paperback. The ebook does not require an ISBN on KDP; leave the ebook without one unless you buy a second.
 - Keep the ISBN line even in the proof build with the placeholder text, so its line does not shift pagination when the real number replaces it (same character-length ballpark).
 
@@ -111,15 +113,9 @@ For [NAME].
 
 Leave the page out entirely if you would rather not have one. (Removing it keeps the page count lower, which is fine.)
 
-## 6. Epigraph **[add to build, optional]**
+## 6. Epigraph **[skipped]**
 
-A short quotation or invented line before Chapter 1 can set tone. Only use a quotation you have rights to; an original line is safest. Optional draft, matching the book's register without spoiling it:
-
-```
-A camera keeps what a face lets go.
-```
-
-Skip if you would rather open cold on the Prologue. (Recommended: skip. The Prologue already does the tone-setting, and an epigraph risks over-signaling.)
+**Decision (author, 2026-08-23): skip.** The Prologue already sets tone, and an epigraph would over-signal. No epigraph page in this edition.
 
 ---
 
