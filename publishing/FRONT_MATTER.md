@@ -86,32 +86,26 @@ First edition, 2026
 
 ISBN (paperback): [ISBN - assign after Bowker purchase]        [add to build]
 
-Cover design by [COVER CREDIT]                                  [add to build]
 [IMPRINT NAME / "Independently published"]                      [add to build, optional]
 
 Printed in the United States of America                         [add to build, optional]
 ```
 
 Notes:
+- **No cover-credit line for now** (author decision, 2026-08-23). Omit it from the copyright page; add "Cover design by [name]" later only if a credit is needed.
 - Per the Option A byline decision, there is **no** "Edited by" line. Remove the existing `Edited by {AUTHOR}` line from the build's copyright block.
 - The single Bowker ISBN goes on both the KDP and IngramSpark paperback. The ebook does not require an ISBN on KDP; leave the ebook without one unless you buy a second.
 - Keep the ISBN line even in the proof build with the placeholder text, so its line does not shift pagination when the real number replaces it (same character-length ballpark).
 
-## 5. Dedication **[add to build, optional]**
+## 5. Dedication **[add to build]**
 
-Recto, its own page, verso blank. Standard for a novel; entirely your call. Draft options, pick or replace:
+**Decision (author, 2026-08-23): keep.** Recto, its own page, verso blank. Final dedication:
 
 ```
 For anyone who was told to be grateful.
 ```
 
-or, if you prefer something personal:
-
-```
-For [NAME].
-```
-
-Leave the page out entirely if you would rather not have one. (Removing it keeps the page count lower, which is fine.)
+It reaches straight into the book's core: Brooke, adopted and told to be grateful, and the wider question of love that arrives as an obligation. Short is strongest for a dedication, so this stands as one line. Swap in a personal `For [NAME].` later if you would rather, but this is the locked default.
 
 ## 6. Epigraph **[skipped]**
 
