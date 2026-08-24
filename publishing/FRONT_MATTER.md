@@ -6,10 +6,12 @@ Style rules apply here as in the manuscript: no em dashes or en dashes, straight
 
 ## How this maps to the build
 
+**Status update (PR #104):** the confirmed set is now wired into `production/build_book.py` and `production/build_cover.py`. The dedication, content note, author's note, acknowledgments, ISBN placeholder line, and the back-cover author/series line are built; the "Edited by" line is removed. The `[add to build]` tags below are kept for the record but reflect the pre-wiring state. The remaining work is the Georgia rebuild to set the new page count.
+
 `production/build_book.py` already generates several of these pages from code constants. Each block below is tagged:
 
 - **[in build]** the build already renders this; the copy here is the approved wording to keep the constant in sync.
-- **[add to build]** not currently rendered; adding it changes the interior and therefore the page count, so fold it in before the Georgia build, not after.
+- **[add to build]** was not rendered before PR #104; adding it changes the interior and therefore the page count, so the Georgia rebuild must run to capture the new count.
 
 Relevant constants today: `TITLE`, `AUTHOR = "Jesse Lemery"`, `BOOK_POSITION = "Book One"`, `PUBLICATION_YEAR = "2026"`, `EDITION = "First edition"`, `FRONT_MATTER_PAGES = 4`.
 

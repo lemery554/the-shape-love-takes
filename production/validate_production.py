@@ -34,7 +34,7 @@ def validate_manuscript_lock() -> None:
         for path in (ROOT / "manuscript").glob("[0-9][0-9]_*.md")
     )
     result = subprocess.run(
-        ["git", "diff", "--quiet", "44e1ed3", "--", *manuscript_files], cwd=ROOT
+        ["git", "diff", "--quiet", "003b7b8", "--", *manuscript_files], cwd=ROOT
     )
     require(result.returncode == 0, "Manuscript differs from the PRODUCTION MANUSCRIPT")
 
@@ -42,6 +42,10 @@ def validate_manuscript_lock() -> None:
 def validate_interior() -> None:
     reader = PdfReader(str(INTERIOR))
     require(not reader.is_encrypted, "Interior PDF must not be encrypted")
+    # 234 is the pre-front-matter page count. Adding the content note, dedication,
+    # author's note, and acknowledgments raises it; set this to the real count the
+    # Georgia build reports, and keep build_cover.PAGE_COUNT and the manifest checks
+    # below in sync with it.
     require(len(reader.pages) == 234, f"Unexpected interior page count: {len(reader.pages)}")
     empty_pages = []
     visible_fonts: dict[str, bool] = {}
@@ -114,13 +118,15 @@ def validate_epub() -> None:
         cover = Image.open(BytesIO(archive.read("OEBPS/images/cover.jpg")))
         require(cover.size == (1600, 2560), "Embedded EPUB cover dimensions are incorrect")
         chapter_docs = [name for name in archive.namelist() if name.startswith("OEBPS/text/") and name.endswith(".xhtml")]
-        require(len(chapter_docs) == 34, f"Unexpected EPUB reading documents: {len(chapter_docs)}")
+        require(len(chapter_docs) == 38, f"Unexpected EPUB reading documents: {len(chapter_docs)}")
 
 
 def validate_manifests() -> None:
     build = json.loads(BUILD_MANIFEST.read_text(encoding="utf-8"))
     cover = json.loads(COVER_MANIFEST.read_text(encoding="utf-8"))
-    require(build["source_word_count"] == 62_961, "Build manifest word count is incorrect")
+    require(build["source_word_count"] == 63_546, "Build manifest word count is incorrect")
+    # 234 pages and the 0.585-inch spine are the pre-front-matter values; refresh
+    # both from the Georgia rebuild output (the spine is PAGE_COUNT * 0.0025).
     require(build["print"]["pages"] == 234, "Build manifest page count is incorrect")
     require(build["epub"]["cover_included"] is True, "Build manifest does not record the EPUB cover")
     require(abs(cover["kdp_paperback"]["spine_inches"] - 0.585) < 0.0001, "Cover manifest spine is incorrect")
@@ -133,7 +139,7 @@ def main() -> None:
     validate_epub()
     validate_manifests()
     print("Production validation passed")
-    print("- manuscript lock: 44e1ed3 / 62,961 words")
+    print("- manuscript lock: 003b7b8 / 63,546 words")
     print("- interior: 234 pages at 5.25 x 8 inches; embedded Georgia subsets")
     print("- ebook cover: 1600 x 2560 RGB")
     print("- KDP wrap: 11.335 x 8.25 inches; 300-DPI CMYK; 0.585-inch spine")

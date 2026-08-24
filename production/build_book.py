@@ -55,12 +55,46 @@ LANGUAGE = "en-US"
 PUBLICATION_YEAR = "2026"
 EDITION = "First edition"
 EXPECTED_SOURCE_WORDS = 63_546
-PRODUCTION_MANUSCRIPT_COMMIT = "44e1ed3"
+PRODUCTION_MANUSCRIPT_COMMIT = "003b7b8"
+
+# Bowker paperback ISBN, assigned before the final print run. Left None so the
+# copyright page prints a stable placeholder line that does not shift pagination
+# when the real number replaces it.
+ISBN_PAPERBACK = None
+
+DEDICATION = "For anyone who was told to be grateful."
+
+CONTENT_NOTE = (
+    "This novel contains a child’s terminal illness and death (offstage), other "
+    "community deaths, coercive family control, a cruel remark that weaponizes "
+    "adoption and abandonment, medical distress, and a firearm discharged inside a "
+    "home. There is no sexual content. Some threads are left unresolved on purpose."
+)
+
+AUTHORS_NOTE = (
+    "This is a book about love that does not know when to stop, and about being the "
+    "one person in a room who sees what everyone else needs not to. If you have ever "
+    "loved someone who came back different, or been loved in a way that felt more like "
+    "being kept, some of this may sit close.",
+    "The story continues.",
+)
+
+ACKNOWLEDGMENTS = (
+    "Thank you to everyone who helped this book find its shape, and to the readers who "
+    "told me the truth about it. Any faults that remain are mine.",
+)
 
 TRIM_WIDTH = 5.25 * inch
 TRIM_HEIGHT = 8 * inch
 PAGE_SIZE = portrait((TRIM_WIDTH, TRIM_HEIGHT))
-FRONT_MATTER_PAGES = 4
+# Half-title, blank, title, copyright, content note, dedication.
+FRONT_MATTER_PAGES = 6
+
+
+def isbn_line() -> str:
+    if ISBN_PAPERBACK:
+        return f"ISBN (paperback): {ISBN_PAPERBACK}"
+    return "ISBN (paperback): to be assigned"
 
 
 @dataclass(frozen=True)
@@ -325,6 +359,14 @@ def paragraph_styles() -> dict[str, ParagraphStyle]:
             firstLineIndent=0,
             spaceAfter=8,
         ),
+        "dedication": ParagraphStyle(
+            "Dedication",
+            fontName="Georgia-Italic",
+            fontSize=11,
+            leading=16,
+            alignment=TA_CENTER,
+            textColor=colors.HexColor("#333333"),
+        ),
     }
 
 
@@ -381,7 +423,15 @@ def pdf_story(chapters: list[Chapter], styles: dict[str, ParagraphStyle]):
                 "This is a work of fiction. Names, characters, places, organizations, and incidents are products of the author’s imagination or are used fictitiously. Any resemblance to actual persons, living or dead, or actual events is coincidental.",
                 styles["copyright"],
             ),
-            Paragraph(f"{EDITION}<br/>Edited by {AUTHOR}", styles["copyright"]),
+            Paragraph(f"{EDITION}, {PUBLICATION_YEAR}", styles["copyright"]),
+            Paragraph(isbn_line(), styles["copyright"]),
+            PageBreak(),
+            Spacer(1, 1.6 * inch),
+            Paragraph("CONTENT NOTE", styles["chapter_label"]),
+            Paragraph(CONTENT_NOTE, styles["about"]),
+            PageBreak(),
+            Spacer(1, 3.0 * inch),
+            Paragraph(DEDICATION, styles["dedication"]),
             NextPageTemplate("chapter"),
             PageBreak(),
         ]
@@ -412,6 +462,28 @@ def pdf_story(chapters: list[Chapter], styles: dict[str, ParagraphStyle]):
                 style = styles[block.kind]
                 first_body = True
             story.append(Paragraph(inline_markup(block.text), style))
+
+    story.extend(
+        [
+            NextPageTemplate("chapter"),
+            PageBreak(),
+            Spacer(1, 1.31 * inch),
+            Paragraph("A NOTE FROM THE AUTHOR", styles["chapter_label"]),
+        ]
+    )
+    for paragraph in AUTHORS_NOTE:
+        story.append(Paragraph(paragraph, styles["about"]))
+
+    story.extend(
+        [
+            NextPageTemplate("chapter"),
+            PageBreak(),
+            Spacer(1, 1.31 * inch),
+            Paragraph("ACKNOWLEDGMENTS", styles["chapter_label"]),
+        ]
+    )
+    for paragraph in ACKNOWLEDGMENTS:
+        story.append(Paragraph(paragraph, styles["about"]))
 
     story.extend(
         [
@@ -544,6 +616,8 @@ blockquote { margin: 0.6em 8%; padding-left: 0.75em; border-left: 1px solid #888
 .copyright p, .about p { margin: 0 0 0.8em; text-indent: 0; }
 .about { page-break-before: always; }
 .about h1 { margin-top: 25%; }
+.dedication { page-break-before: always; text-align: center; }
+.dedication p { margin-top: 42%; text-indent: 0; font-style: italic; }
 .cover { margin: 0; padding: 0; text-align: center; page-break-after: always; }
 .cover img { display: block; width: 100%; height: auto; margin: 0 auto; }
 nav ol { list-style-type: none; padding-left: 0; }
@@ -588,7 +662,7 @@ def build_epub(chapters: list[Chapter]) -> None:
     EBOOK_DIR.mkdir(parents=True, exist_ok=True)
     identifier = f"urn:uuid:{uuid.uuid5(uuid.NAMESPACE_URL, TITLE + AUTHOR)}"
     chapter_items = []
-    spine_items = ["title", "copyright"]
+    spine_items = ["title", "copyright", "content-note", "dedication"]
     nav_items = []
     for index, chapter in enumerate(chapters):
         item_id = f"chapter-{index:02d}"
@@ -600,7 +674,7 @@ def build_epub(chapters: list[Chapter]) -> None:
         nav_items.append(
             f'      <li><a href="{href}">{html.escape(chapter.label)}: {html.escape(chapter.title)}</a></li>'
         )
-    spine_items.append("about")
+    spine_items.extend(["authors-note", "acknowledgments", "about"])
 
     cover_manifest = ""
     cover_meta = ""
@@ -627,7 +701,11 @@ def build_epub(chapters: list[Chapter]) -> None:
     <item id="css" href="styles/book.css" media-type="text/css" />
     <item id="title" href="text/title.xhtml" media-type="application/xhtml+xml" />
     <item id="copyright" href="text/copyright.xhtml" media-type="application/xhtml+xml" />
+    <item id="content-note" href="text/content-note.xhtml" media-type="application/xhtml+xml" />
+    <item id="dedication" href="text/dedication.xhtml" media-type="application/xhtml+xml" />
 {cover_manifest}{chr(10).join(chapter_items)}
+    <item id="authors-note" href="text/authors-note.xhtml" media-type="application/xhtml+xml" />
+    <item id="acknowledgments" href="text/acknowledgments.xhtml" media-type="application/xhtml+xml" />
     <item id="about" href="text/about.xhtml" media-type="application/xhtml+xml" />
   </manifest>
   <spine toc="ncx">
@@ -673,8 +751,38 @@ def build_epub(chapters: list[Chapter]) -> None:
   <p>All rights reserved.</p>
   <p>No part of this book may be reproduced or transmitted in any form or by any means without written permission from the author, except for brief quotations used in reviews.</p>
   <p>This is a work of fiction. Names, characters, places, organizations, and incidents are products of the author’s imagination or are used fictitiously. Any resemblance to actual persons, living or dead, or actual events is coincidental.</p>
-  <p>{EDITION}<br />Edited by {AUTHOR}</p>
+  <p>{EDITION}, {PUBLICATION_YEAR}</p>
+  <p>{isbn_line()}</p>
 </section>''',
+    )
+    content_note_xhtml = epub_document(
+        "Content Note",
+        f'''<section class="about">
+  <h1>Content Note</h1>
+  <p>{CONTENT_NOTE}</p>
+</section>''',
+    )
+    dedication_xhtml = epub_document(
+        "Dedication",
+        f'''<section class="dedication">
+  <p>{DEDICATION}</p>
+</section>''',
+    )
+    authors_note_xhtml = epub_document(
+        "A Note from the Author",
+        '''<section class="about">
+  <h1>A Note from the Author</h1>
+'''
+        + "".join(f"  <p>{paragraph}</p>\n" for paragraph in AUTHORS_NOTE)
+        + "</section>",
+    )
+    acknowledgments_xhtml = epub_document(
+        "Acknowledgments",
+        '''<section class="about">
+  <h1>Acknowledgments</h1>
+'''
+        + "".join(f"  <p>{paragraph}</p>\n" for paragraph in ACKNOWLEDGMENTS)
+        + "</section>",
     )
     about_xhtml = epub_document(
         "About the Author",
@@ -708,18 +816,23 @@ def build_epub(chapters: list[Chapter]) -> None:
             )
         archive.writestr("OEBPS/text/title.xhtml", title_xhtml)
         archive.writestr("OEBPS/text/copyright.xhtml", copyright_xhtml)
+        archive.writestr("OEBPS/text/content-note.xhtml", content_note_xhtml)
+        archive.writestr("OEBPS/text/dedication.xhtml", dedication_xhtml)
         for chapter in chapters:
             archive.writestr(
                 f"OEBPS/text/{chapter.slug}.xhtml", chapter_xhtml(chapter)
             )
+        archive.writestr("OEBPS/text/authors-note.xhtml", authors_note_xhtml)
+        archive.writestr("OEBPS/text/acknowledgments.xhtml", acknowledgments_xhtml)
         archive.writestr("OEBPS/text/about.xhtml", about_xhtml)
         if cover_bytes is not None:
             archive.writestr("OEBPS/images/cover.jpg", cover_bytes)
 
-    # Navigation, title, copyright, about, optional cover, and one document per chapter.
+    # Navigation, title, copyright, content note, dedication, author's note,
+    # acknowledgments, about, optional cover, and one document per chapter.
     validate_epub(
         EPUB_PATH,
-        expected_xhtml=len(chapters) + 4 + int(cover_bytes is not None),
+        expected_xhtml=len(chapters) + 8 + int(cover_bytes is not None),
     )
 
 
@@ -751,8 +864,8 @@ def write_manifest(word_count: int, page_count: int) -> None:
             "sha256": sha256(EPUB_PATH),
             "cover_included": EBOOK_COVER_PATH.exists(),
         },
-        "production_credit": f"Edited by {AUTHOR}",
-        "isbn": None,
+        "author_credit": AUTHOR,
+        "isbn": ISBN_PAPERBACK,
         "notes": [
             "The author selected one Bowker ISBN for the identical KDP/IngramSpark paperback.",
             "The ISBN is intentionally absent until purchased and assigned.",
