@@ -8,9 +8,10 @@ Guiding constraint: any change that alters page count invalidates the cover spin
 
 - [done] **[agent]** Re-lock the build word count to 63,546 and refresh the tooling (PR #101).
 - [done] **[agent]** Proofread the post-copyedit additions (#99/#100); source is clean straight-ASCII, no fixes needed.
-- [ ] **[you]** Run the build in the Georgia/Windows environment: `build_book.py` → note new page count → update `build_cover.py PAGE_COUNT` and `validate_production.py` assertions → `build_cover.py` → `validate_production.py`.
+- [done] **[agent]** Wire the approved front/end matter and back-cover line into the build (PR #104): dedication, content note, author's note, acknowledgments, ISBN placeholder line, and the back-cover author/series line; removed the "Edited by" line (Option A byline); advanced the manuscript lock to `003b7b8`; corrected the stale word-count assertion in `validate_production.py` to 63,546. The EPUB path builds and validates here (38 reading documents with the cover); the PDF path compiles but needs Georgia to render.
+- [ ] **[you]** Run the build in the Georgia/Windows environment: `build_book.py` -> note the new interior page count (it rises from 234 because of the added pages) -> set `build_cover.py PAGE_COUNT` to it -> update the three page-count/spine references in `validate_production.py` (interior page count, build-manifest `pages`, and the `spine_inches` = PAGE_COUNT * 0.0025) -> `build_cover.py` -> `validate_production.py`.
+- [ ] **[you]** Optional: assign the real ISBN by setting `ISBN_PAPERBACK` in `build_book.py` (the copyright page prints "to be assigned" until then).
 - [ ] **[you]** Refresh PR #98 (or a successor) with the regenerated interior PDF, EPUB, ebook cover, and KDP wrap.
-- [ ] **[you]** Merge PR #101 first (or fold it into the rebuild) so the tooling and lock are current.
 
 ## Phase 9 — Proofreading & physical proofs (#83)
 
@@ -32,7 +33,7 @@ Guiding constraint: any change that alters page count invalidates the cover spin
 
 ## Phase 11 — Positioning, ARC & prelaunch (#31)
 
-- [ ] **[agent]** Draft back-cover copy layout, an author's-note/acknowledgments page, and front-matter (title page, copyright placeholders) on request.
+- [done] **[agent]** Draft back-cover copy layout, author's-note/acknowledgments, and front matter (title page, copyright, dedication, content note) and wire them into the build (`publishing/FRONT_MATTER.md`, `publishing/BACK_COVER.md`, PR #104).
 - [ ] **[agent]** Draft an ARC reader note and a short pitch/one-sheet on request.
 - [ ] **[you]** Decide launch date and preorder window.
 - [ ] **[you]** Recruit ARC readers / early reviewers; distribute the finished EPUB.

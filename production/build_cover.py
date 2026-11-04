@@ -294,6 +294,26 @@ def make_back_panel(art: Image.Image, width: int, height: int) -> Image.Image:
             y += leading
         y += round(0.13 * DPI)
 
+    # Author bio and series line, below the blurb and well clear of the barcode.
+    y += round(0.06 * DPI)
+    bio = (
+        "Jesse Lemery writes psychological horror about ordinary love turned "
+        "strange. The Shape Love Takes is a debut novel and the first book in a "
+        "planned series."
+    )
+    for line in wrap_lines(draw, bio, body_font, max_width):
+        draw.text((margin, y), line, font=body_font, fill=WHITE, anchor="la")
+        y += leading
+    y += round(0.18 * DPI)
+    draw_tracked(
+        draw,
+        (width / 2, y),
+        BOOK_POSITION,
+        body_bold,
+        CREAM,
+        tracking=round(0.012 * DPI),
+    )
+
     # Reserved for the platform-generated ISBN/EAN barcode.
     barcode_width = round(2.0 * DPI)
     barcode_height = round(1.2 * DPI)

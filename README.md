@@ -29,6 +29,8 @@ Full, spoiler-inclusive dossiers live in `bible/characters/MAIN_CAST.md`.
 
 The complete manuscript has passed major developmental revision, structural audits, and the Phase 5 AI-agent simulated evaluation. Phase 6 post-evaluation revisions are complete; the author approved commit `182f96e` as the structurally locked `LINE-EDIT CANDIDATE` on August 14, 2026. The author accepted the explicitly AI-assisted Phase 7 line edit at manuscript commit `c622787`; it is not a professional human edit. The author accepted the separate AI-assisted copyedit and final style sheet at manuscript commit `13a9783`; they are not a professional human copyedit. PR #97 merged, and merged commit `44e1ed3` is the exact `PRODUCTION MANUSCRIPT`. The publishing position is **adult psychological horror with strong upper-YA crossover appeal**, explicitly presented as **Book One**. No series title, sequel title, or planned volume count is set.
 
+The project is now in **pre-launch production**. Since the production manuscript locked, the hidden infection model was ported onto the manuscript (a compatibility-gated parasite/host reading the sequel owns; kept entirely off the page), a full cold proofread confirmed the text is production-clean, and the source is **word-count-locked at 63,546 words**, which the build tooling enforces. A publishing package is drafted in `publishing/`. The remaining work is external to this environment: running the deterministic Georgia-font print build to set the final page count, purchasing the ISBN, ordering physical proofs, and operating the retail accounts.
+
 The current volume resolves Brooke's decision to trust her own evidence, escape coercive home and institutional return, and exercise agency over closeness. Anna's nature and study, Mark's fate, the illness and red-formulation mechanism, Claire and Sarah's agency, and Cooper's unease remain intentional continuation promises.
 
 ## Creative north star
@@ -44,6 +46,8 @@ The people who recover from the illness remain recognizable, retain their memori
 - `outline/`: story structure, chapter planning, and unresolved decisions
 - `planning/`: milestones and prioritized backlog
 - `manuscript/`: current prose drafts
+- `production/`: deterministic print and ebook build pipeline (interior, cover wrap, validation)
+- `publishing/`: metadata, launch checklist, front matter, and back-cover copy
 - `notes/`: rejected directions retained for protection against regression
 - `research/`: factual and setting research
 - `archive/`: retired material retained for history
